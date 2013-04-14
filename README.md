@@ -10,8 +10,8 @@ at all the things . I do want it to be more specific , if i read it once never s
 
 Stage 2 
 
-Add a dictiory to the page and so i give me a new word daily in there . These words i like to be from the words that i do 
-not know . 
+Add a dictiory to the page and so it gives me a new word daily bottom of the news section . 
+These words i like to be from the word list that i do not know . 
 
 Logic : i have a file with all the data that i need . It is as simple as displaying one result in the view from the file and 
 move viewed from that file to another file . When all the words are done then go to dictonary.com web API and download all the new words 
