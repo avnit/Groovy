@@ -39,6 +39,7 @@ class RunStartUp {
 		def result = slurper.parseText(jsonObject);
 
 		println result.toString();
+		
 		def urls = result.responseData.results.url;
 		for (int i=0 ; i < 5 ; i++) {
 			println urls[i];
