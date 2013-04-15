@@ -16,9 +16,12 @@ class RunStartUp {
 	static main(String[] args) {
            
 		def base = "https://ajax.googleapis.com/ajax/services/search/web?v=1.0&q=avnit";
+		// def base = "https://ajax.googleapis.com/ajax/sevices/search/web?";
 		def param = [
 			new params (name: "v" ,value :'1.0'),
-			new params (name: "q" , value :'Avnit Bambah')
+			new params (name: "q" , value :'Avnit%20Bambah')
+			// new params (name:"q" , value : args[0]) 
+			// need to get search variable from command line 
 			];
 		def param_string = '';
 			param.each{
