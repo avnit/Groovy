@@ -17,7 +17,7 @@ class RunStartUp {
 			q:'Avnit Bambah'];
 		base.plus(param);
 		print base.plus(param);
-
+/*
 		//println base.toURL().text;
 		def jsonObject = base.toURL().text;
 
@@ -32,7 +32,7 @@ class RunStartUp {
         
 
 		// println result.responseData.results.url;
-
+*/
 	}
 
 }
