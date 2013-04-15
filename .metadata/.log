@@ -32,3 +32,6 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springso
 
 !ENTRY org.eclipse.ui 4 4 2013-04-14 20:10:42.672
 !MESSAGE Conflicting handlers for org.eclipse.jdt.ui.edit.text.java.refactor.quickMenu: {org.eclipse.jdt.internal.ui.actions.JDTQuickMenuCreator$1@78f30883} vs {org.eclipse.jdt.internal.ui.actions.JDTQuickMenuCreator$1@1bb40e7e}
+
+!ENTRY org.eclipse.ui 4 4 2013-04-14 20:14:37.278
+!MESSAGE Conflicting handlers for org.eclipse.jdt.ui.edit.text.java.refactor.quickMenu: {org.eclipse.jdt.internal.ui.actions.JDTQuickMenuCreator$1@78f30883} vs {org.eclipse.jdt.internal.ui.actions.JDTQuickMenuCreator$1@1bb40e7e}
