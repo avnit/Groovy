@@ -1,4 +1,3 @@
-
 import javax.swing.ImageIcon
 import java.awt.BorderLayout as BL
 import groovy.swing.SwingBuilder
@@ -10,11 +9,23 @@ class RunStartUp {
 	 * next step is take this json object and call the parser class on this object.
 	 * finally make it a webservice and call it in my webpage . 
 	 */
-	static main(args) {
-
+	 class params {
+	 	String name , 
+	 	String value
+	 }
+	static main(String[] args) {
+           
 		def base = "https://ajax.googleapis.com/ajax/services/search/web?v=1.0&q=avnit";
-		def param = [v:'1.0',
-			q:'Avnit Bambah'];
+		def param = [
+			new params (name: "v" ,value :'1.0'),
+			new params (name: "q" , value :'Avnit Bambah')
+			];
+		def param_string = '';
+			param.each{
+				param_string = "$param.name=$param.value&";
+			}
+		def finalurl = "$base$param_string";
+		print finalurl;
 		base.plus(param);
 		print base.plus(param);
 
