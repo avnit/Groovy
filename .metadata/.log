@@ -1,0 +1,34 @@
+!SESSION 2013-04-14 19:58:44.643 -----------------------------------------------
+eclipse.buildId=3.2.0.201303060821-RELEASE-e42
+java.version=1.6.0_43
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.springsource.ggts.ide -product org.springsource.ggts.ide -product org.springsource.ggts.ide -keyring /Users/avnit/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springsource.ggts.ide -product org.springsource.ggts.ide -data /Users/avnit/git/googleSearch -product org.springsource.ggts.ide -keyring /Users/avnit/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2013-04-14 19:58:58.067
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.springsource.ide.eclipse.commons.frameworks.core 0 0 2013-04-14 19:59:14.239
+!MESSAGE Result of converting legacy STS 2.x workspace preferences to 3.x
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2013-04-14 19:59:14.239
+!MESSAGE Converted legacy STS plugin preferences
+!SUBENTRY 1 unknown 0 0 2013-04-14 19:59:14.239
+!MESSAGE OK
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2013-04-14 19:59:14.247
+!MESSAGE Converted legacy Roo plugin state locations
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2013-04-14 19:59:14.247
+!MESSAGE Converted legacy STS plugin state locations
+!SESSION 2013-04-14 20:07:25.248 -----------------------------------------------
+eclipse.buildId=3.2.0.201303060821-RELEASE-e42
+java.version=1.6.0_43
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.springsource.ggts.ide -product org.springsource.ggts.ide -product org.springsource.ggts.ide -product org.springsource.ggts.ide -product org.springsource.ggts.ide -keyring /Users/avnit/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springsource.ggts.ide -product org.springsource.ggts.ide -product org.springsource.ggts.ide -product org.springsource.ggts.ide -data /Users/avnit/git/googleSearch -product org.springsource.ggts.ide -keyring /Users/avnit/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2013-04-14 20:07:57.770
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.ui 4 4 2013-04-14 20:10:42.672
+!MESSAGE Conflicting handlers for org.eclipse.jdt.ui.edit.text.java.refactor.quickMenu: {org.eclipse.jdt.internal.ui.actions.JDTQuickMenuCreator$1@78f30883} vs {org.eclipse.jdt.internal.ui.actions.JDTQuickMenuCreator$1@1bb40e7e}
