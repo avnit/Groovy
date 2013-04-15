@@ -14,10 +14,9 @@ class RunStartUp {
 
 		def base = "https://ajax.googleapis.com/ajax/services/search/web?v=1.0&q=avnit";
 		def param = [v:'1.0',
-			q:'Avnit Bambah'];
-		base.plus(param);
-		print base.plus(param);
-/*
+			q:'Text to ',
+			z:'case'];
+
 		//println base.toURL().text;
 		def jsonObject = base.toURL().text;
 
@@ -29,10 +28,10 @@ class RunStartUp {
 		for (int i=0 ; i < 5 ; i++) {
 			println urls[i];
 		}
-        
+
 
 		// println result.responseData.results.url;
-*/
+
 	}
 
 }

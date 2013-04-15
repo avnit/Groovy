@@ -16,7 +16,7 @@ class RunStartUp {
 		def param = [v:'1.0',
 			q:'Avnit Bambah'];
 		base.plus(param);
-		print base.plus(param);
+		print base;
 /*
 		//println base.toURL().text;
 		def jsonObject = base.toURL().text;
