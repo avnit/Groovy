@@ -8,12 +8,12 @@ class Task {
 	  Long timespent = 10L
 	  
 	  static hasMany = [ tags : Tag]
-	  
+	  static belongsTo = Tag
     static constraints = {
 		summary blank: false , unique:true 
 		details blank: true
 		dateCreated nullable : true 
-		timespent nullable : false , min 0L
+		timespent nullable : false 
 		
     }
 }

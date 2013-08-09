@@ -361,3 +361,64 @@
 2013-08-08 21:51:36,238 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/TaskController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
 2013-08-08 21:51:39,255 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@56102d40
 2013-08-08 21:51:39,256 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/TaskController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 22:01:59,542 ERROR [main] - System.err - /StarPlusTv/test/unit/org/example/StarPlusTvControllerTests.groovy: 11 Groovy:Only classes and closures can be used for attribute 'value' in @grails.test.mixin.TestFor
+2013-08-08 22:02:00,285 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/test/unit/org/example/StarPlusTvControllerTests.groovy: 11 Groovy:Only classes and closures can be used for attribute 'value' in @grails.test.mixin.TestFor
+2013-08-08 22:02:32,502 ERROR [Compiler Processing Task] - System.err - /StarPlusTv/test/unit/org/example/StarplusControllerTests.groovy: 11 Groovy:Only classes and closures can be used for attribute 'value' in @grails.test.mixin.TestFor
+2013-08-08 22:02:32,519 ERROR [Compiler Processing Task] - System.err - /StarPlusTv/test/unit/org/example/StarplusControllerTests.groovy: 11 Groovy:Only classes and closures can be used for attribute 'value' in @grails.test.mixin.TestFor
+2013-08-08 22:02:33,467 ERROR [Worker-21] - System.err - /StarPlusTv/test/unit/org/example/StarPlusTvControllerTests.groovy: 11 Groovy:Only classes and closures can be used for attribute 'value' in @grails.test.mixin.TestFor
+2013-08-08 22:15:12,076 ERROR [Worker-28] - System.err - log4j:WARN No appenders could be found for logger (org.springframework.core.env.StandardEnvironment).
+2013-08-08 22:15:12,076 ERROR [Worker-28] - System.err - log4j:WARN Please initialize the log4j system properly.
+2013-08-08 22:15:12,076 ERROR [Worker-28] - System.err - log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+2013-08-08 22:15:20,047 ERROR [Worker-28] - System.err - log4j:WARN No appenders could be found for logger (org.springframework.core.env.StandardEnvironment).
+2013-08-08 22:15:20,047 ERROR [Worker-28] - System.err - log4j:WARN Please initialize the log4j system properly.
+2013-08-08 22:15:20,047 ERROR [Worker-28] - System.err - log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+2013-08-08 22:28:39,728 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@35cfda1b
+2013-08-08 22:28:39,728 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 7 Groovy:unexpected token: stat @ line 7, column 2.
+2013-08-08 22:28:40,819 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@76574872
+2013-08-08 22:28:40,820 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 8 Groovy:Cannot repeat modifier: static at line: 8 column: 5. File: /Users/avnit/git/googleSearch/StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy @ line 8, column 5.
+2013-08-08 22:28:53,517 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1a98a502
+2013-08-08 22:28:53,518 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 7 Groovy:unexpected token: static @ line 7, column 2.
+2013-08-08 22:28:56,115 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@37bd6372
+2013-08-08 22:28:56,115 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@72cbedf4
+2013-08-08 22:28:56,115 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2a73690d
+2013-08-08 22:28:56,115 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 8 Groovy:unexpected token: static @ line 8, column 5.
+2013-08-08 22:28:56,115 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 9 Groovy:unexpected token: name @ line 9, column 3.
+2013-08-08 22:28:56,115 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 12 Groovy:unexpected token: } @ line 12, column 1.
+2013-08-08 22:28:56,119 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@703e99ba
+2013-08-08 22:28:56,119 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 4 Groovy:The field 'name' is declared multiple times.
+2013-08-08 22:28:57,179 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1031ca23
+2013-08-08 22:28:57,179 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@34cdc823
+2013-08-08 22:28:57,179 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 7 Groovy:Apparent variable 'Ta' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 22:28:57,180 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 7 Groovy:Apparent variable 'Ta' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 22:29:13,960 ERROR [Text Viewer Hover Presenter] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4d6853e0
+2013-08-08 22:29:13,960 ERROR [Text Viewer Hover Presenter] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: st @ line 11, column 4.
+2013-08-08 22:29:14,943 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4257876b
+2013-08-08 22:29:14,944 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: stat @ line 11, column 4.
+2013-08-08 22:29:15,042 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@125d7b89
+2013-08-08 22:29:15,043 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: stati @ line 11, column 4.
+2013-08-08 22:29:16,265 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@8673f0e
+2013-08-08 22:29:16,265 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 12 Groovy:Cannot repeat modifier: static at line: 12 column: 5. File: /Users/avnit/git/googleSearch/StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy @ line 12, column 5.
+2013-08-08 22:29:24,674 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4bc5ee37
+2013-08-08 22:29:24,674 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2f9a83be
+2013-08-08 22:29:24,674 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@493f475c
+2013-08-08 22:29:24,674 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@59660e95
+2013-08-08 22:29:24,675 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3b47860d
+2013-08-08 22:29:24,675 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@54b1dde2
+2013-08-08 22:29:24,675 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 12 Groovy:unexpected token: static @ line 12, column 5.
+2013-08-08 22:29:24,675 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 13 Groovy:unexpected token: summary @ line 13, column 3.
+2013-08-08 22:29:24,675 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 14 Groovy:unexpected token: details @ line 14, column 3.
+2013-08-08 22:29:24,675 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 15 Groovy:unexpected token: dateCreated @ line 15, column 3.
+2013-08-08 22:29:24,675 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 16 Groovy:unexpected token: timespent @ line 16, column 3.
+2013-08-08 22:29:24,676 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 19 Groovy:unexpected token: } @ line 19, column 1.
+2013-08-08 22:29:24,680 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@34f98cb2
+2013-08-08 22:29:24,681 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6b841549
+2013-08-08 22:29:24,681 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2c91a2c4
+2013-08-08 22:29:24,681 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@d5508b8
+2013-08-08 22:29:24,681 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 4 Groovy:The field 'summary' is declared multiple times.
+2013-08-08 22:29:24,682 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 5 Groovy:The field 'details' is declared multiple times.
+2013-08-08 22:29:24,682 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 6 Groovy:The field 'dateCreated' is declared multiple times.
+2013-08-08 22:29:24,682 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 8 Groovy:The field 'timespent' is declared multiple times.
+2013-08-08 22:29:26,257 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@661ed173
+2013-08-08 22:29:26,257 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@71490965
+2013-08-08 22:29:26,257 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:Apparent variable 'Ta' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 22:29:26,257 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:Apparent variable 'Ta' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
