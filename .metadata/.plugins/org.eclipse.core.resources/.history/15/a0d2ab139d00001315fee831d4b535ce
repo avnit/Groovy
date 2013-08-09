@@ -1,0 +1,7 @@
+package org.example.starplus
+
+class Tag {
+
+    static constraints = {
+    }
+}

@@ -1,0 +1,6 @@
+package org.example
+
+class StarPlusTvController {
+
+    def index() { }
+}

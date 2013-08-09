@@ -1,0 +1,7 @@
+package org.example.starplus
+
+class Task {
+
+    static constraints = {
+    }
+}

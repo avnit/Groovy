@@ -1,0 +1,363 @@
+2013-08-08 21:17:30,715 ERROR [Worker-8] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2013-08-08 21:17:30,715 ERROR [Worker-8] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2013-08-08 21:17:30,715 ERROR [Worker-8] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2013-08-08 21:17:56,316 ERROR [Worker-4] - System.err - log4j:WARN No appenders could be found for logger (org.springframework.core.env.StandardEnvironment).
+2013-08-08 21:17:56,317 ERROR [Worker-4] - System.err - log4j:WARN Please initialize the log4j system properly.
+2013-08-08 21:17:56,317 ERROR [Worker-4] - System.err - log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+2013-08-08 21:18:57,519 ERROR [Worker-14] - System.err - java.lang.reflect.InvocationTargetException
+2013-08-08 21:18:57,519 ERROR [Worker-14] - System.err - at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-08-08 21:18:57,519 ERROR [Worker-14] - System.err - at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+2013-08-08 21:18:57,520 ERROR [Worker-14] - System.err - at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+2013-08-08 21:18:57,520 ERROR [Worker-14] - System.err - at java.lang.reflect.Method.invoke(Method.java:597)
+2013-08-08 21:18:57,520 ERROR [Worker-14] - System.err - at org.springframework.ide.eclipse.roo.core.RooCoreActivator.invokeMethod(RooCoreActivator.java:100)
+2013-08-08 21:18:57,520 ERROR [Worker-14] - System.err - at org.springframework.ide.eclipse.roo.core.RooCoreActivator.registerHttpPgpUrlHandler(RooCoreActivator.java:127)
+2013-08-08 21:18:57,520 ERROR [Worker-14] - System.err - at org.springframework.ide.eclipse.roo.core.RooCoreActivator.access$0(RooCoreActivator.java:107)
+2013-08-08 21:18:57,520 ERROR [Worker-14] - System.err - at org.springframework.ide.eclipse.roo.core.RooCoreActivator$1.run(RooCoreActivator.java:78)
+2013-08-08 21:18:57,520 ERROR [Worker-14] - System.err - at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+2013-08-08 21:18:57,520 ERROR [Worker-14] - System.err - Caused by: java.lang.NullPointerException
+2013-08-08 21:18:57,520 ERROR [Worker-14] - System.err - at org.eclipse.equinox.weaving.adaptors.WeavingAdaptorFactory.getHost(WeavingAdaptorFactory.java:102)
+2013-08-08 21:18:57,520 ERROR [Worker-14] - System.err - at org.eclipse.equinox.weaving.hooks.WeavingHook.getHostBundleAdaptor(WeavingHook.java:78)
+2013-08-08 21:18:57,520 ERROR [Worker-14] - System.err - at org.eclipse.equinox.weaving.hooks.BundleAdaptorProvider.getAdaptor(BundleAdaptorProvider.java:32)
+2013-08-08 21:18:57,521 ERROR [Worker-14] - System.err - at org.eclipse.equinox.weaving.hooks.AbstractWeavingBundleFile.getAdaptor(AbstractWeavingBundleFile.java:58)
+2013-08-08 21:18:57,521 ERROR [Worker-14] - System.err - at org.eclipse.equinox.weaving.hooks.WeavingBundleFile.getEntry(WeavingBundleFile.java:61)
+2013-08-08 21:18:57,521 ERROR [Worker-14] - System.err - at org.eclipse.osgi.baseadaptor.bundlefile.BundleFileWrapperChain.getEntry(BundleFileWrapperChain.java:43)
+2013-08-08 21:18:57,521 ERROR [Worker-14] - System.err - at org.eclipse.osgi.baseadaptor.BaseData.getEntry0(BaseData.java:114)
+2013-08-08 21:18:57,521 ERROR [Worker-14] - System.err - at org.eclipse.osgi.baseadaptor.BaseData.getEntry(BaseData.java:105)
+2013-08-08 21:18:57,521 ERROR [Worker-14] - System.err - at org.eclipse.osgi.baseadaptor.BaseAdaptor$4.getNextElement(BaseAdaptor.java:559)
+2013-08-08 21:18:57,521 ERROR [Worker-14] - System.err - at org.eclipse.osgi.baseadaptor.BaseAdaptor$4.nextElement(BaseAdaptor.java:546)
+2013-08-08 21:18:57,521 ERROR [Worker-14] - System.err - at org.eclipse.osgi.baseadaptor.BaseAdaptor$4.nextElement(BaseAdaptor.java:1)
+2013-08-08 21:18:57,521 ERROR [Worker-14] - System.err - at org.springframework.roo.support.osgi.OSGiUtils$2.execute(OSGiUtils.java:101)
+2013-08-08 21:18:57,521 ERROR [Worker-14] - System.err - at org.springframework.roo.support.osgi.OSGiUtils.execute(OSGiUtils.java:138)
+2013-08-08 21:18:57,521 ERROR [Worker-14] - System.err - at org.springframework.roo.support.osgi.OSGiUtils.findEntriesByPattern(OSGiUtils.java:95)
+2013-08-08 21:18:57,521 ERROR [Worker-14] - System.err - at org.springframework.roo.felix.pgp.PgpServiceImpl.trustDefaultKeys(PgpServiceImpl.java:98)
+2013-08-08 21:18:57,521 ERROR [Worker-14] - System.err - ... 9 more
+2013-08-08 21:31:54,932 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2ecd9401
+2013-08-08 21:31:54,934 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 4 Groovy:unexpected token: String @ line 4, column 7.
+2013-08-08 21:32:09,751 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@ff7db67
+2013-08-08 21:32:09,752 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 5 Groovy:unexpected token: String @ line 5, column 4.
+2013-08-08 21:32:15,480 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@54d2bc90
+2013-08-08 21:32:15,480 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 6 Groovy:unexpected token: String @ line 6, column 4.
+2013-08-08 21:32:30,306 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@78e3dd6f
+2013-08-08 21:32:30,306 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 7 Groovy:unexpected token: String @ line 7, column 4.
+2013-08-08 21:32:41,961 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1c7d3266
+2013-08-08 21:32:41,961 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 8 Groovy:unexpected token: String @ line 8, column 4.
+2013-08-08 21:33:12,942 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@19a236d7
+2013-08-08 21:33:12,942 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 7 Groovy:unexpected token: deadline @ line 7, column 8.
+2013-08-08 21:33:14,491 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@56c972ae
+2013-08-08 21:33:14,492 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 7 Groovy:unable to resolve class D
+2013-08-08 21:33:22,607 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@149bde7d
+2013-08-08 21:33:22,607 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 8 Groovy:unable to resolve class Lom
+2013-08-08 21:33:54,454 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@24e51084
+2013-08-08 21:33:54,454 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unable to resolve class Summary
+2013-08-08 21:33:54,522 ERROR [Worker-5] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@481bceff
+2013-08-08 21:33:54,523 ERROR [Worker-5] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unable to resolve class Summary
+2013-08-08 21:33:55,510 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1182716
+2013-08-08 21:33:55,511 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unable to resolve class Summary
+2013-08-08 21:33:56,579 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3641b197
+2013-08-08 21:33:56,579 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unable to resolve class Summary
+2013-08-08 21:34:00,132 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@475a9aec
+2013-08-08 21:34:00,132 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@d71208d
+2013-08-08 21:34:00,132 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:34:00,133 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 13 Groovy:unexpected token: } @ line 13, column 1.
+2013-08-08 21:34:01,687 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6d677ee6
+2013-08-08 21:34:01,687 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@25bc6627
+2013-08-08 21:34:01,687 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:34:01,688 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 13 Groovy:unexpected token: } @ line 13, column 1.
+2013-08-08 21:34:05,231 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@26b46ffa
+2013-08-08 21:34:05,231 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@102399f0
+2013-08-08 21:34:05,232 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:34:05,232 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 13 Groovy:unexpected token: } @ line 13, column 1.
+2013-08-08 21:34:09,776 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@69632105
+2013-08-08 21:34:09,776 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6b0d0550
+2013-08-08 21:34:09,776 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:34:09,777 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 13 Groovy:unexpected token: } @ line 13, column 1.
+2013-08-08 21:34:13,317 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4232558d
+2013-08-08 21:34:13,317 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@768ebdee
+2013-08-08 21:34:13,318 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:34:13,318 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 14 Groovy:unexpected token: } @ line 14, column 1.
+2013-08-08 21:34:20,386 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6b3466d2
+2013-08-08 21:34:20,386 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3d4a9bfa
+2013-08-08 21:34:20,386 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6d465985
+2013-08-08 21:34:20,387 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:34:20,387 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 12 Groovy:unexpected token: details @ line 12, column 3.
+2013-08-08 21:34:20,387 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 14 Groovy:unexpected token: } @ line 14, column 1.
+2013-08-08 21:34:20,391 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2a59071
+2013-08-08 21:34:20,391 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 5 Groovy:The field 'details' is declared multiple times.
+2013-08-08 21:34:23,933 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5b63c0f2
+2013-08-08 21:34:23,933 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@72107ebd
+2013-08-08 21:34:23,933 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@18f0e4cc
+2013-08-08 21:34:23,934 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:34:23,934 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 12 Groovy:unexpected token: details @ line 12, column 3.
+2013-08-08 21:34:23,934 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 14 Groovy:unexpected token: } @ line 14, column 1.
+2013-08-08 21:34:23,938 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6608bb2c
+2013-08-08 21:34:23,938 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 5 Groovy:The field 'details' is declared multiple times.
+2013-08-08 21:34:25,480 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@65a32bc1
+2013-08-08 21:34:25,480 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3b8dc008
+2013-08-08 21:34:25,480 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@573a6bc3
+2013-08-08 21:34:25,480 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:34:25,480 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 12 Groovy:unexpected token: details @ line 12, column 3.
+2013-08-08 21:34:25,480 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 14 Groovy:unexpected token: } @ line 14, column 1.
+2013-08-08 21:34:25,484 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1bb96c76
+2013-08-08 21:34:25,485 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 5 Groovy:The field 'details' is declared multiple times.
+2013-08-08 21:34:26,514 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@63c94a41
+2013-08-08 21:34:26,515 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@342a2495
+2013-08-08 21:34:26,515 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3ac7ccf4
+2013-08-08 21:34:26,515 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:34:26,515 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 12 Groovy:unexpected token: details @ line 12, column 3.
+2013-08-08 21:34:26,515 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 14 Groovy:unexpected token: } @ line 14, column 1.
+2013-08-08 21:34:26,520 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6dbf215e
+2013-08-08 21:34:26,520 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 5 Groovy:The field 'details' is declared multiple times.
+2013-08-08 21:34:31,060 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@dff32fc
+2013-08-08 21:34:31,060 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6d6c4591
+2013-08-08 21:34:31,060 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5f4b6ab6
+2013-08-08 21:34:31,060 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:34:31,060 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 12 Groovy:unexpected token: details @ line 12, column 3.
+2013-08-08 21:34:31,060 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 14 Groovy:unexpected token: } @ line 14, column 1.
+2013-08-08 21:34:31,065 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@290f86bd
+2013-08-08 21:34:31,066 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 5 Groovy:The field 'details' is declared multiple times.
+2013-08-08 21:34:32,595 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@60b8ce81
+2013-08-08 21:34:32,595 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4fda8c3
+2013-08-08 21:34:32,595 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@29529cc4
+2013-08-08 21:34:32,595 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:34:32,596 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 12 Groovy:unexpected token: details @ line 12, column 3.
+2013-08-08 21:34:32,596 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 14 Groovy:unexpected token: } @ line 14, column 1.
+2013-08-08 21:34:32,600 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5f0e2f86
+2013-08-08 21:34:32,600 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 5 Groovy:The field 'details' is declared multiple times.
+2013-08-08 21:34:35,632 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7eea115f
+2013-08-08 21:34:35,632 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@391ab511
+2013-08-08 21:34:35,632 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@8658c61
+2013-08-08 21:34:35,633 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:34:35,633 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 12 Groovy:unexpected token: details @ line 12, column 3.
+2013-08-08 21:34:35,633 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 15 Groovy:unexpected token: } @ line 15, column 1.
+2013-08-08 21:34:35,637 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1990914e
+2013-08-08 21:34:35,637 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 5 Groovy:The field 'details' is declared multiple times.
+2013-08-08 21:34:52,693 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@73654361
+2013-08-08 21:34:52,693 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7d2ad076
+2013-08-08 21:34:52,693 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5dc332d
+2013-08-08 21:34:52,693 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:34:52,693 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 12 Groovy:unexpected token: details2 @ line 12, column 3.
+2013-08-08 21:34:52,694 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 15 Groovy:unexpected token: } @ line 15, column 1.
+2013-08-08 21:35:12,690 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@cbaf2d5
+2013-08-08 21:35:12,691 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@459c847a
+2013-08-08 21:35:12,691 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@26bd894a
+2013-08-08 21:35:12,691 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:35:12,691 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 12 Groovy:unexpected token: details2 @ line 12, column 3.
+2013-08-08 21:35:12,691 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 15 Groovy:unexpected token: } @ line 15, column 1.
+2013-08-08 21:35:15,738 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@392908db
+2013-08-08 21:35:15,738 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@35047f2e
+2013-08-08 21:35:15,738 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3a39c033
+2013-08-08 21:35:15,738 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:35:15,738 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 12 Groovy:unexpected token: details2 @ line 12, column 3.
+2013-08-08 21:35:15,739 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 15 Groovy:unexpected token: } @ line 15, column 1.
+2013-08-08 21:35:17,833 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1b6a2c04
+2013-08-08 21:35:17,833 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@576fc8ab
+2013-08-08 21:35:17,833 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6bdf7f65
+2013-08-08 21:35:17,834 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:35:17,834 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 12 Groovy:unexpected token: details2 @ line 12, column 3.
+2013-08-08 21:35:17,834 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 15 Groovy:unexpected token: } @ line 15, column 1.
+2013-08-08 21:35:18,892 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@30f3aed4
+2013-08-08 21:35:18,892 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4e5af967
+2013-08-08 21:35:18,892 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@36ac0161
+2013-08-08 21:35:18,893 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:35:18,893 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 12 Groovy:unexpected token: details2 @ line 12, column 3.
+2013-08-08 21:35:18,893 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 16 Groovy:unexpected token: } @ line 16, column 1.
+2013-08-08 21:35:29,015 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@a59c11
+2013-08-08 21:35:29,016 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@78a9206b
+2013-08-08 21:35:29,016 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@278f8eb0
+2013-08-08 21:35:29,016 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@41e0d91a
+2013-08-08 21:35:29,016 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:35:29,016 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 12 Groovy:unexpected token: details2 @ line 12, column 3.
+2013-08-08 21:35:29,017 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 13 Groovy:unexpected token: de @ line 13, column 3.
+2013-08-08 21:35:29,017 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 16 Groovy:unexpected token: } @ line 16, column 1.
+2013-08-08 21:35:30,574 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7ce54c31
+2013-08-08 21:35:30,575 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@31ed6506
+2013-08-08 21:35:30,575 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@58838685
+2013-08-08 21:35:30,575 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@22f4b329
+2013-08-08 21:35:30,575 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:35:30,575 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 12 Groovy:unexpected token: details2 @ line 12, column 3.
+2013-08-08 21:35:30,575 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 13 Groovy:unexpected token: dete @ line 13, column 3.
+2013-08-08 21:35:30,575 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 16 Groovy:unexpected token: } @ line 16, column 1.
+2013-08-08 21:35:32,635 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5e1d568a
+2013-08-08 21:35:32,635 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@581cae4b
+2013-08-08 21:35:32,635 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@42f6eb1e
+2013-08-08 21:35:32,635 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@60c620ea
+2013-08-08 21:35:32,636 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:35:32,636 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 12 Groovy:unexpected token: details2 @ line 12, column 3.
+2013-08-08 21:35:32,636 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 13 Groovy:unexpected token: date @ line 13, column 3.
+2013-08-08 21:35:32,636 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 16 Groovy:unexpected token: } @ line 16, column 1.
+2013-08-08 21:35:41,204 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@455a5c05
+2013-08-08 21:35:41,205 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2f4f6fd5
+2013-08-08 21:35:41,205 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@8372137
+2013-08-08 21:35:41,205 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5b65a617
+2013-08-08 21:35:41,205 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:unexpected token: blank @ line 11, column 11.
+2013-08-08 21:35:41,205 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 12 Groovy:unexpected token: details2 @ line 12, column 3.
+2013-08-08 21:35:41,205 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 13 Groovy:unexpected token: date @ line 13, column 3.
+2013-08-08 21:35:41,205 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 16 Groovy:unexpected token: } @ line 16, column 1.
+2013-08-08 21:36:17,304 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3ae7c854
+2013-08-08 21:36:17,305 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@47112102
+2013-08-08 21:36:17,306 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 13 Groovy:expecting '}', found ':' @ line 13, column 24.
+2013-08-08 21:36:17,306 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 16 Groovy:unexpected token: } @ line 16, column 1.
+2013-08-08 21:39:55,880 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6543b1dd
+2013-08-08 21:39:55,910 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/Tag.groovy: 3 Groovy:expecting an identifier, found 'class' @ line 3, column 1.
+2013-08-08 21:40:00,895 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4b75300a
+2013-08-08 21:40:00,896 ERROR [main] - System.err - /StarPlusTv/grails-app/domain/org/example/Tag.groovy: 3 Groovy:expecting an identifier, found 'class' @ line 3, column 1.
+2013-08-08 21:40:33,985 ERROR [ModalContext] - System.err - org.codehaus.groovy.control.messages.SimpleMessage@25dd767f
+2013-08-08 21:40:33,985 ERROR [ModalContext] - System.err - SimpleMessage: Could not find class for Transformation Processor org.codehaus.groovy.grails.compiler.injection.test.TestForTransformation declared by grails.test.mixin.TestFor
+2013-08-08 21:40:33,985 ERROR [ModalContext] - System.err - Nothing.groovy: 0 Groovy:Could not find class for Transformation Processor org.codehaus.groovy.grails.compiler.injection.test.TestForTransformation declared by grails.test.mixin.TestFor
+2013-08-08 21:41:11,657 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@fe9fa19
+2013-08-08 21:41:11,658 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 4 Groovy:unexpected token: St @ line 4, column 2.
+2013-08-08 21:41:14,216 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@335519f5
+2013-08-08 21:41:14,216 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 4 Groovy:unexpected token: String @ line 4, column 2.
+2013-08-08 21:41:41,112 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6363ec47
+2013-08-08 21:41:41,113 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@352d5c4b
+2013-08-08 21:41:41,113 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 6 Groovy:expecting '}', found ':' @ line 6, column 13.
+2013-08-08 21:41:41,113 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 8 Groovy:unexpected token: } @ line 8, column 1.
+2013-08-08 21:41:44,735 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@29b185e3
+2013-08-08 21:41:44,736 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 7 Groovy:unexpected token: } @ line 7, column 5.
+2013-08-08 21:41:48,854 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@25ca527e
+2013-08-08 21:41:48,854 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 7 Groovy:unexpected token: } @ line 7, column 5.
+2013-08-08 21:42:44,742 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@f698346
+2013-08-08 21:42:44,743 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 6 Groovy:unexpected token: stat @ line 6, column 2.
+2013-08-08 21:42:46,296 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7b0833da
+2013-08-08 21:42:46,296 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 7 Groovy:Cannot repeat modifier: static at line: 7 column: 5. File: /Users/avnit/git/googleSearch/StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy @ line 7, column 5.
+2013-08-08 21:42:54,525 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@58891de3
+2013-08-08 21:42:54,525 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@12094f7e
+2013-08-08 21:42:54,525 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 6 Groovy:Apparent variable 'tas' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:42:54,525 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 6 Groovy:Apparent variable 'tas' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:42:56,070 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5a45a80b
+2013-08-08 21:42:56,070 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@131b987a
+2013-08-08 21:42:56,071 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 6 Groovy:Apparent variable 'tasks' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:42:56,071 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 6 Groovy:Apparent variable 'tasks' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:42:57,188 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@12d93521
+2013-08-08 21:42:57,189 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 6 Groovy:unexpected token: ] @ line 6, column 29.
+2013-08-08 21:42:58,752 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@69245ec6
+2013-08-08 21:42:58,752 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@52ca4f17
+2013-08-08 21:42:58,752 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 6 Groovy:Apparent variable 'Tak' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:42:58,752 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Tag.groovy: 6 Groovy:Apparent variable 'Tak' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:43:32,713 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@43696eab
+2013-08-08 21:43:32,713 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 10 Groovy:unexpected token: sta @ line 10, column 4.
+2013-08-08 21:43:51,779 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@710e6eea
+2013-08-08 21:43:51,780 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6a93fea2
+2013-08-08 21:43:51,780 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 10 Groovy:Apparent variable 'ta' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:43:51,780 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 10 Groovy:Apparent variable 'ta' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:43:53,565 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@405d0aee
+2013-08-08 21:43:53,565 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1c78b045
+2013-08-08 21:43:53,565 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 10 Groovy:Apparent variable 'tag' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:43:53,565 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 10 Groovy:Apparent variable 'tag' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:43:54,671 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1a60158e
+2013-08-08 21:43:54,672 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 10 Groovy:unexpected token: ] @ line 10, column 29.
+2013-08-08 21:43:57,293 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2dea318e
+2013-08-08 21:43:57,293 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6a5b792e
+2013-08-08 21:43:57,293 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 10 Groovy:Apparent variable 'ta' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:43:57,293 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 10 Groovy:Apparent variable 'ta' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:43:58,508 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@61e2a99
+2013-08-08 21:43:58,508 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@267ea5f2
+2013-08-08 21:43:58,508 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 10 Groovy:Apparent variable 'tags' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:43:58,508 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 10 Groovy:Apparent variable 'tags' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:44:04,723 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@60cbc1ab
+2013-08-08 21:44:04,723 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6117f332
+2013-08-08 21:44:04,723 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 10 Groovy:Apparent variable 'tags' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:44:04,723 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 10 Groovy:Apparent variable 'tags' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:44:08,360 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6be34c19
+2013-08-08 21:44:08,360 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@179934a5
+2013-08-08 21:44:08,360 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 10 Groovy:Apparent variable 'tag' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:44:08,360 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 10 Groovy:Apparent variable 'tag' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:44:16,488 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6e9e0d74
+2013-08-08 21:44:16,488 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4a857368
+2013-08-08 21:44:16,488 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 10 Groovy:Apparent variable 'ag' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:44:16,488 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 10 Groovy:Apparent variable 'ag' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:45:33,354 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3827fc47
+2013-08-08 21:45:33,378 ERROR [main] - System.err - /StarPlusTv/grails-app/controllers/org/example/StarPlusTvController.groovy: 3 Groovy:expecting an identifier, found 'class' @ line 3, column 1.
+2013-08-08 21:45:33,479 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@380872fb
+2013-08-08 21:45:33,479 ERROR [main] - System.err - /StarPlusTv/grails-app/controllers/org/example/StarPlusTvController.groovy: 3 Groovy:expecting an identifier, found 'class' @ line 3, column 1.
+2013-08-08 21:45:33,985 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@783b588c
+2013-08-08 21:45:33,986 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/StarPlusTvController.groovy: 3 Groovy:expecting an identifier, found 'class' @ line 3, column 1.
+2013-08-08 21:45:56,291 ERROR [Compiler Processing Task] - System.err - /StarPlusTv/test/unit/org/example/StarPlusTvControllerTests.groovy: 11 Groovy:Only classes and closures can be used for attribute 'value' in @grails.test.mixin.TestFor
+2013-08-08 21:45:56,356 ERROR [Compiler Processing Task] - System.err - /StarPlusTv/test/unit/org/example/StarPlusTvControllerTests.groovy: 11 Groovy:Only classes and closures can be used for attribute 'value' in @grails.test.mixin.TestFor
+2013-08-08 21:47:46,671 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@105c847c
+2013-08-08 21:47:46,698 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/TagController.groovy: 5 Groovy:unexpected token: def @ line 5, column 5.
+2013-08-08 21:47:48,217 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@663e7f60
+2013-08-08 21:47:48,217 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@111cac11
+2013-08-08 21:47:48,217 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/TagController.groovy: 4 Groovy:Apparent variable 'Tas' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:47:48,218 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/TagController.groovy: 4 Groovy:Apparent variable 'Tas' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-08 21:48:36,653 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5ad9b8e4
+2013-08-08 21:48:36,653 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@bf9af55
+2013-08-08 21:48:36,654 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/TagController.groovy: 5 Groovy:unexpected token: } @ line 5, column 1.
+2013-08-08 21:48:36,654 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/TagController.groovy: 5 Groovy:unexpected token:  @ line 5, column 2.
+2013-08-08 21:50:13,095 ERROR [Worker-17] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@59a7d427
+2013-08-08 21:50:13,095 ERROR [Worker-17] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:13,287 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@583425ad
+2013-08-08 21:50:13,288 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:15,308 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2b4ec689
+2013-08-08 21:50:15,308 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:15,326 ERROR [Worker-13] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@749bd47
+2013-08-08 21:50:15,326 ERROR [Worker-13] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:15,772 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@16230c50
+2013-08-08 21:50:15,772 ERROR [main] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:17,203 ERROR [Worker-5] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4fe53aca
+2013-08-08 21:50:17,204 ERROR [Worker-5] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:17,220 ERROR [Worker-5] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3bef713f
+2013-08-08 21:50:17,220 ERROR [Worker-5] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:17,344 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4b51a424
+2013-08-08 21:50:17,344 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:18,861 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6891d62c
+2013-08-08 21:50:18,861 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:18,902 ERROR [Worker-18] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6a241fcb
+2013-08-08 21:50:18,903 ERROR [Worker-18] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:23,884 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5ce4ba3e
+2013-08-08 21:50:23,884 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:23,905 ERROR [Worker-17] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5b8032fb
+2013-08-08 21:50:23,905 ERROR [Worker-17] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:24,916 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7bf5c0d7
+2013-08-08 21:50:24,917 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:25,115 ERROR [Worker-16] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7e2d7976
+2013-08-08 21:50:25,115 ERROR [Worker-16] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:26,779 ERROR [Worker-15] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@59797513
+2013-08-08 21:50:26,780 ERROR [Worker-15] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:26,797 ERROR [Worker-15] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2618cf4d
+2013-08-08 21:50:26,798 ERROR [Worker-15] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:26,934 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7abc5c89
+2013-08-08 21:50:26,935 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:28,952 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@163166ff
+2013-08-08 21:50:28,952 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:28,965 ERROR [Worker-15] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@168a3ee4
+2013-08-08 21:50:28,965 ERROR [Worker-15] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:29,933 ERROR [Worker-13] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1743d5d4
+2013-08-08 21:50:29,934 ERROR [Worker-13] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:29,949 ERROR [Worker-13] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@522bc1cf
+2013-08-08 21:50:29,950 ERROR [Worker-13] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:29,966 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7b986ddf
+2013-08-08 21:50:29,966 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:31,985 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2a34e8e7
+2013-08-08 21:50:31,986 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:50:31,999 ERROR [Worker-13] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@19be0724
+2013-08-08 21:50:31,999 ERROR [Worker-13] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:51:15,725 ERROR [ModalContext] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@15461244
+2013-08-08 21:51:15,725 ERROR [ModalContext] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:51:15,783 ERROR [ModalContext] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2230068a
+2013-08-08 21:51:15,783 ERROR [ModalContext] - System.err - StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:51:15,910 ERROR [ModalContext] - System.err - /StarPlusTv/test/unit/org/example/StarPlusTvControllerTests.groovy: 11 Groovy:Only classes and closures can be used for attribute 'value' in @grails.test.mixin.TestFor
+2013-08-08 21:51:15,945 ERROR [ModalContext] - System.err - /StarPlusTv/test/unit/org/example/StarPlusTvControllerTests.groovy: 11 Groovy:Only classes and closures can be used for attribute 'value' in @grails.test.mixin.TestFor
+2013-08-08 21:51:15,955 ERROR [ModalContext] - System.err - org.codehaus.groovy.control.messages.SimpleMessage@4b467182
+2013-08-08 21:51:15,955 ERROR [ModalContext] - System.err - SimpleMessage: Could not find class for Transformation Processor org.codehaus.groovy.grails.compiler.injection.test.TestForTransformation declared by grails.test.mixin.TestFor
+2013-08-08 21:51:15,956 ERROR [ModalContext] - System.err - Nothing.groovy: 0 Groovy:Could not find class for Transformation Processor org.codehaus.groovy.grails.compiler.injection.test.TestForTransformation declared by grails.test.mixin.TestFor
+2013-08-08 21:51:16,088 ERROR [ModalContext] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4168df18
+2013-08-08 21:51:16,089 ERROR [ModalContext] - System.err - StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:51:16,804 ERROR [ModalContext] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3ad0f721
+2013-08-08 21:51:16,804 ERROR [ModalContext] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/StarPlusTvController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:51:33,967 ERROR [ModalContext] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6e03ef6a
+2013-08-08 21:51:33,968 ERROR [ModalContext] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/TaskController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:51:34,656 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6d628486
+2013-08-08 21:51:34,657 ERROR [Java indexing] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/TaskController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:51:34,709 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@24a545a1
+2013-08-08 21:51:34,709 ERROR [main] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/TaskController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:51:35,129 ERROR [Worker-17] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5b6fa7fe
+2013-08-08 21:51:35,130 ERROR [Worker-17] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/TaskController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:51:35,153 ERROR [Worker-17] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@101eb610
+2013-08-08 21:51:35,164 ERROR [Worker-17] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/TaskController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:51:35,170 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@46ef7151
+2013-08-08 21:51:35,171 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/TaskController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:51:36,237 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@64e87a93
+2013-08-08 21:51:36,238 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/TaskController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
+2013-08-08 21:51:39,255 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@56102d40
+2013-08-08 21:51:39,256 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/controllers/org/example/starplus/TaskController.groovy: 3 Groovy:unexpected token: package @ line 3, column 1.
