@@ -13,11 +13,69 @@
 	<atom:link href="http://blog.springsource.org/feed/" rel="self" type="application/rss+xml" />
 	<link>http://blog.springsource.org</link>
 	<description>The voice of SpringSource</description>
-	<lastBuildDate>Tue, 06 Aug 2013 21:27:30 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 24 Aug 2013 14:53:48 +0000</lastBuildDate>
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<item>
+		<title>Spring Batch 3.0 Milestone 1 Released</title>
+		<link>http://blog.springsource.org/2013/08/23/spring-batch-3-0-milestone-1-released/</link>
+		<comments>http://blog.springsource.org/2013/08/23/spring-batch-3-0-milestone-1-released/#comments</comments>
+		<pubDate>Sat, 24 Aug 2013 01:13:28 +0000</pubDate>
+		<dc:creator>Michael Minella</dc:creator>
+				<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Spring]]></category>
+		<category><![CDATA[Spring Batch]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.org/?p=14451</guid>
+		<description><![CDATA[SpringOne2GXIf you haven&#039;t registered for SpringOne2GX yet, it&#039;s not too late!. Register today to attend JSR-352, Spring Batch and You at SpringOne2GX and learn about JSR-352 and Spring Batch in depth.Today we are pleased to announce the first milestone release towards Spring Batch 3.0 (download). With this release we take our first steps towards implementing  <a href="http://blog.springsource.org/2013/08/23/spring-batch-3-0-milestone-1-released/"><em>Read more...</em></a>]]></description>
+		<wfw:commentRss>http://blog.springsource.org/2013/08/23/spring-batch-3-0-milestone-1-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Spring Security 3.2.0.RC1 Highlights: Security Headers</title>
+		<link>http://blog.springsource.org/2013/08/23/spring-security-3-2-0-rc1-highlights-security-headers/</link>
+		<comments>http://blog.springsource.org/2013/08/23/spring-security-3-2-0-rc1-highlights-security-headers/#comments</comments>
+		<pubDate>Fri, 23 Aug 2013 17:31:52 +0000</pubDate>
+		<dc:creator>Rob Winch</dc:creator>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Spring]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.org/?p=14359</guid>
+		<description><![CDATA[SpringOne2GXIf you haven&#039;t registered for SpringOne2GX yet, it&#039;s not too late!. Register today to attend Getting Started with Spring Security 3.2 at SpringOne2GX and learn about Spring Security 3.2 in depth. This is my last post in a two part series on Spring Security 3.2.0.RC1. My previous post discussed Spring Security&#039;s CSRF protection. In this  <a href="http://blog.springsource.org/2013/08/23/spring-security-3-2-0-rc1-highlights-security-headers/"><em>Read more...</em></a>]]></description>
+		<wfw:commentRss>http://blog.springsource.org/2013/08/23/spring-security-3-2-0-rc1-highlights-security-headers/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Spring Security 3.2.0.RC1 Highlights: CSRF Protection</title>
+		<link>http://blog.springsource.org/2013/08/21/spring-security-3-2-0-rc1-highlights-csrf-protection/</link>
+		<comments>http://blog.springsource.org/2013/08/21/spring-security-3-2-0-rc1-highlights-csrf-protection/#comments</comments>
+		<pubDate>Wed, 21 Aug 2013 20:42:02 +0000</pubDate>
+		<dc:creator>Rob Winch</dc:creator>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Spring]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.org/?p=14240</guid>
+		<description><![CDATA[SpringOne2GXIf you haven&#039;t registered for SpringOne2GX yet, it&#039;s not too late!. Register today to attend Getting Started with Spring Security 3.2 at SpringOne2GX and learn about Spring Security 3.2 in depth. On Monday I announced the release of Spring Security 3.2.0.RC1. This is the first of a two part blog series going over the new  <a href="http://blog.springsource.org/2013/08/21/spring-security-3-2-0-rc1-highlights-csrf-protection/"><em>Read more...</em></a>]]></description>
+		<wfw:commentRss>http://blog.springsource.org/2013/08/21/spring-security-3-2-0-rc1-highlights-csrf-protection/feed/</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+		</item>
+		<item>
+		<title>Spring XD 1.0 Milestone 2 Released</title>
+		<link>http://blog.springsource.org/2013/08/14/spring-xd-1-0-milestone-2-released/</link>
+		<comments>http://blog.springsource.org/2013/08/14/spring-xd-1-0-milestone-2-released/#comments</comments>
+		<pubDate>Wed, 14 Aug 2013 20:48:20 +0000</pubDate>
+		<dc:creator>Mark Pollack</dc:creator>
+				<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Hadoop]]></category>
+		<category><![CDATA[Spring]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.org/?p=14189</guid>
+		<description><![CDATA[Today we are pleased to announce the 1.0 M2 release of Spring XD (download)Ê Spring XD is a unified, distributed, and extensible system for data ingestion, real time analytics, batch processing, and data export. ÊThe projectÕs goal is to simplify the development of big data applications. The second milestone release of Spring XD introduces several  <a href="http://blog.springsource.org/2013/08/14/spring-xd-1-0-milestone-2-released/"><em>Read more...</em></a>]]></description>
+		<wfw:commentRss>http://blog.springsource.org/2013/08/14/spring-xd-1-0-milestone-2-released/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
 		<item>
 		<title>Spring Boot Ð Simplifying Spring for Everyone</title>
 		<link>http://blog.springsource.org/2013/08/06/spring-boot-simplifying-spring-for-everyone/</link>
@@ -29,7 +87,7 @@
 		<guid isPermaLink="false">http://blog.springsource.org/?p=14126</guid>
 		<description><![CDATA[(This blog post was written jointly by Phil Webb and Dave Syer). We are pleased to announce the first milestone release of a new project called Spring Boot. Spring Boot aims to make it easy to create Spring-powered, production-grade applications and services with minimum fuss. It takes an opinionated view of the Spring platform so  <a href="http://blog.springsource.org/2013/08/06/spring-boot-simplifying-spring-for-everyone/"><em>Read more...</em></a>]]></description>
 		<wfw:commentRss>http://blog.springsource.org/2013/08/06/spring-boot-simplifying-spring-for-everyone/feed/</wfw:commentRss>
-		<slash:comments>15</slash:comments>
+		<slash:comments>23</slash:comments>
 		</item>
 		<item>
 		<title>Spring Framework 4.0 M2: WebSocket Messaging Architectures</title>
@@ -43,7 +101,7 @@
 		<guid isPermaLink="false">http://blog.springsource.org/?p=13986</guid>
 		<description><![CDATA[Overview As I wrote previously, a WebSocket API is only the starting point for WebSocket-style messaging applications. Many practical challenges remain. As one Tomcat mailing list user mused recently: it does seem to me that websockets is still not really &#034;production-ready&#034;, (I am not talking about the Tomcat implementation per se, but more generally) &#8230;  <a href="http://blog.springsource.org/2013/07/24/spring-framework-4-0-m2-websocket-messaging-architectures/"><em>Read more...</em></a>]]></description>
 		<wfw:commentRss>http://blog.springsource.org/2013/07/24/spring-framework-4-0-m2-websocket-messaging-architectures/feed/</wfw:commentRss>
-		<slash:comments>18</slash:comments>
+		<slash:comments>40</slash:comments>
 		</item>
 		<item>
 		<title>Reactor 1.0.0.M1 &#8211; a foundation for asynchronous fast-data applications on the JVM</title>
@@ -72,7 +130,7 @@
 		<guid isPermaLink="false">http://blog.springsource.org/?p=13941</guid>
 		<description><![CDATA[Spring applications that use JavaConfig instead of XML become more and more popular. Today we would like to show you the new features in the latest Spring Tool Suite 3.3.0 release that makes it easier for you to program Spring applications using annotations and JavaConfig instead of XML. Project configuration Lets assume you implement a  <a href="http://blog.springsource.org/2013/07/18/javaconfig-support-in-the-spring-tool-suite/"><em>Read more...</em></a>]]></description>
 		<wfw:commentRss>http://blog.springsource.org/2013/07/18/javaconfig-support-in-the-spring-tool-suite/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+		<slash:comments>2</slash:comments>
 		</item>
 		<item>
 		<title>Spring Security Java Config Preview: Readability</title>
@@ -84,9 +142,9 @@
 		<category><![CDATA[Spring]]></category>
 
 		<guid isPermaLink="false">http://blog.springsource.org/?p=13894</guid>
-		<description><![CDATA[In this post, I will discuss how to make your Spring Security Java configuration more readable. The post is intended to elaborate on a point from Spring Security Java Config Preview: Web Security where I stated: By formatting our Java configuration code it is much easier to read. It can be read similar to the  <a href="http://blog.springsource.org/2013/07/11/spring-security-java-config-preview-readability/"><em>Read more...</em></a>]]></description>
+		<description><![CDATA[Last updated on August 23rd, 2013 (Spring Security RC1) In this post, I will discuss how to make your Spring Security Java configuration more readable. The post is intended to elaborate on a point from Spring Security Java Config Preview: Web Security where I stated: By formatting our Java configuration code it is much easier  <a href="http://blog.springsource.org/2013/07/11/spring-security-java-config-preview-readability/"><em>Read more...</em></a>]]></description>
 		<wfw:commentRss>http://blog.springsource.org/2013/07/11/spring-security-java-config-preview-readability/feed/</wfw:commentRss>
-		<slash:comments>8</slash:comments>
+		<slash:comments>19</slash:comments>
 		</item>
 		<item>
 		<title>Eclipse Quick Search</title>
@@ -100,62 +158,7 @@
 		<guid isPermaLink="false">http://blog.springsource.org/?p=13600</guid>
 		<description><![CDATA[Are you an Eclipse user? Do you want a fast and easy way to search for text snippets and patterns in your workspace? Then read on! A new &#034;Quick Search&#034; is included in Spring ToolSuite (STS) 3.3.0 and Groovy Gails Tool Suite (GGTS) 3.3.0 which have just been released. Even if you are not a  <a href="http://blog.springsource.org/2013/07/11/eclipse-quick-search/"><em>Read more...</em></a>]]></description>
 		<wfw:commentRss>http://blog.springsource.org/2013/07/11/eclipse-quick-search/feed/</wfw:commentRss>
-		<slash:comments>16</slash:comments>
-		</item>
-		<item>
-		<title>Spring Security Java Config Preview: OAuth</title>
-		<link>http://blog.springsource.org/2013/07/05/spring-security-java-config-preview-oauth/</link>
-		<comments>http://blog.springsource.org/2013/07/05/spring-security-java-config-preview-oauth/#comments</comments>
-		<pubDate>Fri, 05 Jul 2013 13:13:04 +0000</pubDate>
-		<dc:creator>Rob Winch</dc:creator>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[Spring]]></category>
-
-		<guid isPermaLink="false">http://blog.springsource.org/?p=13856</guid>
-		<description><![CDATA[This is the fourth post in my five part blog series that introduces Spring Security Java configuration. In this post, we will discuss how Spring Security Java configuration can be extended by walking through Spring Security OAuth Java configuration support. Proof of Concept While the Spring Security Java configuration works well for very basic configuration,  <a href="http://blog.springsource.org/2013/07/05/spring-security-java-config-preview-oauth/"><em>Read more...</em></a>]]></description>
-		<wfw:commentRss>http://blog.springsource.org/2013/07/05/spring-security-java-config-preview-oauth/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Spring Security Java Config Preview: Method Security</title>
-		<link>http://blog.springsource.org/2013/07/04/spring-security-java-config-preview-method-security/</link>
-		<comments>http://blog.springsource.org/2013/07/04/spring-security-java-config-preview-method-security/#comments</comments>
-		<pubDate>Thu, 04 Jul 2013 08:00:22 +0000</pubDate>
-		<dc:creator>Rob Winch</dc:creator>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[Spring]]></category>
-
-		<guid isPermaLink="false">http://blog.springsource.org/?p=13848</guid>
-		<description><![CDATA[This is the third installment of a four part blog series. In my first post, I introduced Spring Security Java configuration and discussed some of the logistics of the project. In my previous post, we walked through a few examples of configuring web based security. In this post, I will discuss how to configure method  <a href="http://blog.springsource.org/2013/07/04/spring-security-java-config-preview-method-security/"><em>Read more...</em></a>]]></description>
-		<wfw:commentRss>http://blog.springsource.org/2013/07/04/spring-security-java-config-preview-method-security/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Spring Security Java Config Preview: Web Security</title>
-		<link>http://blog.springsource.org/2013/07/03/spring-security-java-config-preview-web-security/</link>
-		<comments>http://blog.springsource.org/2013/07/03/spring-security-java-config-preview-web-security/#comments</comments>
-		<pubDate>Wed, 03 Jul 2013 15:01:43 +0000</pubDate>
-		<dc:creator>Rob Winch</dc:creator>
-				<category><![CDATA[Spring]]></category>
-
-		<guid isPermaLink="false">http://blog.springsource.org/?p=13769</guid>
-		<description><![CDATA[In my previous post, I introduced Spring Security Java configuration and discussed some of the logistics of the project. In this post, we will start off by walking through a very simple web security configuration. We will then spice things up a bit with configuration that has been customized some. Hello Web Security In this  <a href="http://blog.springsource.org/2013/07/03/spring-security-java-config-preview-web-security/"><em>Read more...</em></a>]]></description>
-		<wfw:commentRss>http://blog.springsource.org/2013/07/03/spring-security-java-config-preview-web-security/feed/</wfw:commentRss>
-		<slash:comments>15</slash:comments>
-		</item>
-		<item>
-		<title>Spring Security Java Config Preview: Introduction</title>
-		<link>http://blog.springsource.org/2013/07/02/spring-security-java-config-preview-introduction/</link>
-		<comments>http://blog.springsource.org/2013/07/02/spring-security-java-config-preview-introduction/#comments</comments>
-		<pubDate>Tue, 02 Jul 2013 22:38:45 +0000</pubDate>
-		<dc:creator>Rob Winch</dc:creator>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[Spring]]></category>
-
-		<guid isPermaLink="false">http://blog.springsource.org/?p=13625</guid>
-		<description><![CDATA[Yesterday I announced the release of Spring Security Java Configuration support and the release of Spring Security 3.2.0.M2 which contains Java Configuration support. Spring Security&#039;s Java Configuration support is intended to provide a complete replacement of the XML namespace configuration. It is also designed to be extensible, so that Spring Security&#039;s extension projects can work  <a href="http://blog.springsource.org/2013/07/02/spring-security-java-config-preview-introduction/"><em>Read more...</em></a>]]></description>
-		<wfw:commentRss>http://blog.springsource.org/2013/07/02/spring-security-java-config-preview-introduction/feed/</wfw:commentRss>
-		<slash:comments>5</slash:comments>
+		<slash:comments>17</slash:comments>
 		</item>
 	</channel>
 </rss>

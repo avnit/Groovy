@@ -15,9 +15,9 @@
 			<location>/Users/avnit/.groovy/greclipse/global_dsld_support</location>
 		</link>
 		<link>
-			<name>.link2</name>
+			<name>.link1</name>
 			<type>2</type>
-			<location>/Users/avnit/springsource/ggts-3.2.0.RELEASE/plugins/org.grails.ide.eclipse.resources_3.2.0.201303060657-RELEASE/dsl-support</location>
+			<location>/Users/avnit/springsource/ggts-3.2.0.RELEASE/plugins/org.grails.ide.eclipse.resources_3.3.0.201307040647-RELEASE/dsl-support</location>
 		</link>
 		<link>
 			<name>.link3</name>

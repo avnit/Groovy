@@ -4,4 +4,8 @@
 <home>/Users/avnit/springsource/grails-2.2.1/</home>
 <name>Grails 2.2.1</name>
 </install>
+<install is-default="false">
+<home>/Users/avnit/springsource/grails-2.2.2/</home>
+<name>Grails 2.2.2</name>
+</install>
 </installs>

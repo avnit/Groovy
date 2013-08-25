@@ -422,3 +422,1052 @@
 2013-08-08 22:29:26,257 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@71490965
 2013-08-08 22:29:26,257 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:Apparent variable 'Ta' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
 2013-08-08 22:29:26,257 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/grails-app/domain/org/example/starplus/Task.groovy: 11 Groovy:Apparent variable 'Ta' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 11:50:30,613 ERROR [Worker-3] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2013-08-25 11:50:30,639 ERROR [Worker-3] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2013-08-25 11:50:30,639 ERROR [Worker-3] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2013-08-25 11:51:02,152 ERROR [Worker-10] - System.err - log4j:WARN No appenders could be found for logger (org.springframework.core.env.StandardEnvironment).
+2013-08-25 11:51:02,153 ERROR [Worker-10] - System.err - log4j:WARN Please initialize the log4j system properly.
+2013-08-25 11:51:02,153 ERROR [Worker-10] - System.err - log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+2013-08-25 11:51:42,040 ERROR [Worker-10] - System.err - log4j:WARN No appenders could be found for logger (org.springframework.core.env.StandardEnvironment).
+2013-08-25 11:51:42,040 ERROR [Worker-10] - System.err - log4j:WARN Please initialize the log4j system properly.
+2013-08-25 11:51:42,040 ERROR [Worker-10] - System.err - log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+2013-08-25 11:52:48,712 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@53c0f47a
+2013-08-25 11:52:48,739 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 89 Groovy:Invalid duplicate class definition of class sqlQuerry : The source /Users/avnit/git/googleSearch/StarPlusTv/src/groovy/sqlQuerry.groovy contains at least two definitions of the class sqlQuerry.
+2013-08-25 11:52:48,816 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@42acae32
+2013-08-25 11:52:48,816 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@56e076d0
+2013-08-25 11:52:48,817 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 28 Groovy:Catch statement parameter type is not a subclass of Throwable.
+2013-08-25 11:52:48,817 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 84 Groovy:Catch statement parameter type is not a subclass of Throwable.
+2013-08-25 11:53:05,384 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7f614206
+2013-08-25 11:53:05,385 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 91 Groovy:Invalid duplicate class definition of class sqlQuerry : The source /Users/avnit/git/googleSearch/StarPlusTv/src/groovy/sqlQuerry.groovy contains at least two definitions of the class sqlQuerry.
+2013-08-25 11:53:05,414 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7452abeb
+2013-08-25 11:53:05,414 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5f950cf6
+2013-08-25 11:53:05,414 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 30 Groovy:Catch statement parameter type is not a subclass of Throwable.
+2013-08-25 11:53:05,414 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 86 Groovy:Catch statement parameter type is not a subclass of Throwable.
+2013-08-25 11:53:07,724 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@59da6819
+2013-08-25 11:53:07,725 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 90 Groovy:Invalid duplicate class definition of class sqlQuerry : The source /Users/avnit/git/googleSearch/StarPlusTv/src/groovy/sqlQuerry.groovy contains at least two definitions of the class sqlQuerry.
+2013-08-25 11:53:07,748 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@653c5652
+2013-08-25 11:53:07,748 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5c47556a
+2013-08-25 11:53:07,749 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 29 Groovy:Catch statement parameter type is not a subclass of Throwable.
+2013-08-25 11:53:07,749 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 85 Groovy:Catch statement parameter type is not a subclass of Throwable.
+2013-08-25 11:53:11,398 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@490799fb
+2013-08-25 11:53:11,398 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 92 Groovy:Invalid duplicate class definition of class sqlQuerry : The source /Users/avnit/git/googleSearch/StarPlusTv/src/groovy/sqlQuerry.groovy contains at least two definitions of the class sqlQuerry.
+2013-08-25 11:53:11,411 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5b3de0c1
+2013-08-25 11:53:11,411 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3b6ecdb3
+2013-08-25 11:53:11,411 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 31 Groovy:Catch statement parameter type is not a subclass of Throwable.
+2013-08-25 11:53:11,411 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 87 Groovy:Catch statement parameter type is not a subclass of Throwable.
+2013-08-25 11:53:14,563 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@608ffa3
+2013-08-25 11:53:14,563 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 2 Groovy:expecting an identifier, found '<newline>' @ line 2, column 7.
+2013-08-25 11:53:17,119 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@44b0c913
+2013-08-25 11:53:17,120 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 3 Groovy:unexpected token: import @ line 3, column 1.
+2013-08-25 11:53:20,673 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@34bba4df
+2013-08-25 11:53:20,673 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 3 Groovy:unexpected token: import @ line 3, column 1.
+2013-08-25 11:53:23,211 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6cb433ce
+2013-08-25 11:53:23,211 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 95 Groovy:Invalid duplicate class definition of class sqlQuerry : The source /Users/avnit/git/googleSearch/StarPlusTv/src/groovy/sqlQuerry.groovy contains at least two definitions of the class sqlQuerry.
+2013-08-25 11:53:23,227 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@53e6692b
+2013-08-25 11:53:23,227 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3c02b115
+2013-08-25 11:53:23,227 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 34 Groovy:Catch statement parameter type is not a subclass of Throwable.
+2013-08-25 11:53:23,228 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 90 Groovy:Catch statement parameter type is not a subclass of Throwable.
+2013-08-25 11:53:24,999 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2ecaa79e
+2013-08-25 11:53:25,000 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 94 Groovy:Invalid duplicate class definition of class sqlQuerry : The source /Users/avnit/git/googleSearch/StarPlusTv/src/groovy/sqlQuerry.groovy contains at least two definitions of the class sqlQuerry.
+2013-08-25 11:53:25,017 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@475170bc
+2013-08-25 11:53:25,018 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@33c06b38
+2013-08-25 11:53:25,018 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 33 Groovy:Catch statement parameter type is not a subclass of Throwable.
+2013-08-25 11:53:25,018 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 89 Groovy:Catch statement parameter type is not a subclass of Throwable.
+2013-08-25 11:53:26,672 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3a20b053
+2013-08-25 11:53:26,673 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@381836f5
+2013-08-25 11:53:26,673 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 4 Groovy:Malformed class declaration @ line 4, column 1.
+2013-08-25 11:53:26,673 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 4 Groovy:expecting EOF, found '}' @ line 4, column 1.
+2013-08-25 11:53:27,697 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@79858841
+2013-08-25 11:53:27,697 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2db4a1bb
+2013-08-25 11:53:27,697 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 3 Groovy:Malformed class declaration @ line 3, column 1.
+2013-08-25 11:53:27,697 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 3 Groovy:expecting EOF, found '}' @ line 3, column 1.
+2013-08-25 11:53:30,324 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@d77a75e
+2013-08-25 11:53:30,325 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 4 Groovy:unexpected token: import @ line 4, column 1.
+2013-08-25 11:53:31,354 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@592c3f10
+2013-08-25 11:53:31,354 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@67e0612c
+2013-08-25 11:53:31,354 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 4 Groovy:unexpected token: import @ line 4, column 1.
+2013-08-25 11:53:31,354 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 4 Groovy:expecting EOF, found 'import' @ line 4, column 1.
+2013-08-25 11:53:40,613 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@253e3834
+2013-08-25 11:53:40,613 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@17dbf106
+2013-08-25 11:53:40,614 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 4 Groovy:unexpected token: import @ line 4, column 1.
+2013-08-25 11:53:40,614 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 4 Groovy:expecting EOF, found 'import' @ line 4, column 1.
+2013-08-25 11:53:49,648 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@91002b5
+2013-08-25 11:53:49,649 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7a21bdb8
+2013-08-25 11:53:49,649 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3d2eb9ac
+2013-08-25 11:53:49,649 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@469fea95
+2013-08-25 11:53:49,649 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2ce2006c
+2013-08-25 11:53:49,649 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2989c979
+2013-08-25 11:53:49,649 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@150a3c3d
+2013-08-25 11:53:49,649 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@52f8d395
+2013-08-25 11:53:49,649 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4e0b05c1
+2013-08-25 11:53:49,649 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 6 Groovy:unexpected token: cli @ line 6, column 1.
+2013-08-25 11:53:49,649 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 7 Groovy:unexpected token: cli @ line 7, column 1.
+2013-08-25 11:53:49,650 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 8 Groovy:unexpected token: cli @ line 8, column 1.
+2013-08-25 11:53:49,650 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 9 Groovy:unexpected token: cli @ line 9, column 1.
+2013-08-25 11:53:49,650 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 11:53:49,650 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 11:53:49,650 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 11:53:49,650 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: if @ line 14, column 1.
+2013-08-25 11:53:49,650 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:expecting EOF, found 'if' @ line 14, column 1.
+2013-08-25 11:53:52,684 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1989ab74
+2013-08-25 11:53:52,685 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1d5759c5
+2013-08-25 11:53:52,685 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@51c6a38f
+2013-08-25 11:53:52,685 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@481c2b3a
+2013-08-25 11:53:52,685 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@315a11d2
+2013-08-25 11:53:52,685 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@10480b4e
+2013-08-25 11:53:52,685 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@69de363b
+2013-08-25 11:53:52,685 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7bba91c9
+2013-08-25 11:53:52,685 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@15b96295
+2013-08-25 11:53:52,686 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 9 Groovy:unexpected token: cli @ line 9, column 1.
+2013-08-25 11:53:52,686 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 11:53:52,686 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 11:53:52,686 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 11:53:52,686 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 11:53:52,686 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 11:53:52,686 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 11:53:52,686 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:unexpected token: if @ line 17, column 1.
+2013-08-25 11:53:52,686 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:expecting EOF, found 'if' @ line 17, column 1.
+2013-08-25 11:53:55,215 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1cece0c6
+2013-08-25 11:53:55,215 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@398f600
+2013-08-25 11:53:55,215 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2f3e7bd8
+2013-08-25 11:53:55,215 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2f34ba23
+2013-08-25 11:53:55,215 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2ea8680b
+2013-08-25 11:53:55,215 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3246c21b
+2013-08-25 11:53:55,215 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@43719466
+2013-08-25 11:53:55,215 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@55c5d721
+2013-08-25 11:53:55,215 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2faee385
+2013-08-25 11:53:55,215 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 11:53:55,216 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 11:53:55,216 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 11:53:55,216 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 11:53:55,216 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 11:53:55,216 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 11:53:55,216 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:unexpected token: cli @ line 17, column 1.
+2013-08-25 11:53:55,216 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 19 Groovy:unexpected token: if @ line 19, column 1.
+2013-08-25 11:53:55,216 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 19 Groovy:expecting EOF, found 'if' @ line 19, column 1.
+2013-08-25 11:54:10,994 ERROR [Worker-2] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5eb9ec47
+2013-08-25 11:54:10,994 ERROR [Worker-2] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4759e7
+2013-08-25 11:54:10,994 ERROR [Worker-2] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4c5f4cd5
+2013-08-25 11:54:10,995 ERROR [Worker-2] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4ad5b1f
+2013-08-25 11:54:10,995 ERROR [Worker-2] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1139529f
+2013-08-25 11:54:10,995 ERROR [Worker-2] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4a5f4d8e
+2013-08-25 11:54:10,995 ERROR [Worker-2] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@36dccbc7
+2013-08-25 11:54:10,995 ERROR [Worker-2] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@59c691f4
+2013-08-25 11:54:10,995 ERROR [Worker-2] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7b985837
+2013-08-25 11:54:10,995 ERROR [Worker-2] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 11:54:10,995 ERROR [Worker-2] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 11:54:10,995 ERROR [Worker-2] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 11:54:10,996 ERROR [Worker-2] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 11:54:10,996 ERROR [Worker-2] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 11:54:10,996 ERROR [Worker-2] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 11:54:10,996 ERROR [Worker-2] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:unexpected token: cli @ line 17, column 1.
+2013-08-25 11:54:10,996 ERROR [Worker-2] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 19 Groovy:unexpected token: if @ line 19, column 1.
+2013-08-25 11:54:10,996 ERROR [Worker-2] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 19 Groovy:expecting EOF, found 'if' @ line 19, column 1.
+2013-08-25 11:54:11,517 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7079f82c
+2013-08-25 11:54:11,517 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@57944a64
+2013-08-25 11:54:11,517 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@48a01827
+2013-08-25 11:54:11,517 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@691cdb1
+2013-08-25 11:54:11,517 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4e5722d5
+2013-08-25 11:54:11,517 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3aaff621
+2013-08-25 11:54:11,517 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@76480ea0
+2013-08-25 11:54:11,517 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@74b8670a
+2013-08-25 11:54:11,517 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7674fd63
+2013-08-25 11:54:11,518 ERROR [Java indexing] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 11:54:11,518 ERROR [Java indexing] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 11:54:11,518 ERROR [Java indexing] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 11:54:11,518 ERROR [Java indexing] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 11:54:11,518 ERROR [Java indexing] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 11:54:11,518 ERROR [Java indexing] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 11:54:11,518 ERROR [Java indexing] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:unexpected token: cli @ line 17, column 1.
+2013-08-25 11:54:11,519 ERROR [Java indexing] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 19 Groovy:unexpected token: if @ line 19, column 1.
+2013-08-25 11:54:11,519 ERROR [Java indexing] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 19 Groovy:expecting EOF, found 'if' @ line 19, column 1.
+2013-08-25 11:54:11,785 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@133c4539
+2013-08-25 11:54:11,785 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@59e4ab0c
+2013-08-25 11:54:11,786 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3399ceef
+2013-08-25 11:54:11,786 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@36e0c760
+2013-08-25 11:54:11,786 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5f418bc5
+2013-08-25 11:54:11,786 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@483f635e
+2013-08-25 11:54:11,786 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3994d560
+2013-08-25 11:54:11,786 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5a44af28
+2013-08-25 11:54:11,786 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@53479964
+2013-08-25 11:54:11,786 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 11:54:11,786 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 11:54:11,787 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 11:54:11,787 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 11:54:11,787 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 11:54:11,787 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 11:54:11,787 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:unexpected token: cli @ line 17, column 1.
+2013-08-25 11:54:11,787 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 19 Groovy:unexpected token: if @ line 19, column 1.
+2013-08-25 11:54:11,787 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 19 Groovy:expecting EOF, found 'if' @ line 19, column 1.
+2013-08-25 11:54:45,414 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@71117d6b
+2013-08-25 11:54:45,414 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@334135cb
+2013-08-25 11:54:45,414 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7e32bcb6
+2013-08-25 11:54:45,414 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@35039174
+2013-08-25 11:54:45,414 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7d4271dc
+2013-08-25 11:54:45,414 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@154162c3
+2013-08-25 11:54:45,414 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@77bafb1b
+2013-08-25 11:54:45,414 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@14bbe706
+2013-08-25 11:54:45,414 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3c3c458c
+2013-08-25 11:54:45,415 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 11:54:45,415 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 11:54:45,415 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 11:54:45,415 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 11:54:45,415 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 11:54:45,415 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 11:54:45,415 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 11:54:45,415 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:unexpected token: if @ line 18, column 1.
+2013-08-25 11:54:45,415 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:expecting EOF, found 'if' @ line 18, column 1.
+2013-08-25 12:01:37,578 ERROR [Worker-17] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5339a9a9
+2013-08-25 12:01:37,597 ERROR [Worker-17] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@51cb001c
+2013-08-25 12:01:37,597 ERROR [Worker-17] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@66745837
+2013-08-25 12:01:37,597 ERROR [Worker-17] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@604bb76d
+2013-08-25 12:01:37,597 ERROR [Worker-17] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@af7867f
+2013-08-25 12:01:37,597 ERROR [Worker-17] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@9f0179
+2013-08-25 12:01:37,597 ERROR [Worker-17] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4719af40
+2013-08-25 12:01:37,597 ERROR [Worker-17] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6740b737
+2013-08-25 12:01:37,597 ERROR [Worker-17] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@49bcb0d6
+2013-08-25 12:01:37,598 ERROR [Worker-17] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 12:01:37,598 ERROR [Worker-17] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 12:01:37,598 ERROR [Worker-17] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 12:01:37,598 ERROR [Worker-17] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 12:01:37,598 ERROR [Worker-17] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 12:01:37,598 ERROR [Worker-17] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 12:01:37,598 ERROR [Worker-17] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 12:01:37,598 ERROR [Worker-17] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:unexpected token: if @ line 18, column 1.
+2013-08-25 12:01:37,598 ERROR [Worker-17] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:expecting EOF, found 'if' @ line 18, column 1.
+2013-08-25 17:52:51,076 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@44e31542
+2013-08-25 17:52:51,101 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1888c363
+2013-08-25 17:52:51,101 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: import @ line 16, column 2.
+2013-08-25 17:52:51,101 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:expecting EOF, found 'import' @ line 16, column 2.
+2013-08-25 17:52:52,120 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7404655a
+2013-08-25 17:52:52,120 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4c9a3337
+2013-08-25 17:52:52,120 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: import @ line 16, column 2.
+2013-08-25 17:52:52,120 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:expecting EOF, found 'import' @ line 16, column 2.
+2013-08-25 17:53:08,166 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4c7f567f
+2013-08-25 17:53:08,167 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3c07d315
+2013-08-25 17:53:08,167 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: import @ line 16, column 2.
+2013-08-25 17:53:08,167 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:expecting EOF, found 'import' @ line 16, column 2.
+2013-08-25 17:53:10,695 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7c776caa
+2013-08-25 17:53:10,695 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@47f4cbd
+2013-08-25 17:53:10,695 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: import @ line 16, column 2.
+2013-08-25 17:53:10,695 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:expecting EOF, found 'import' @ line 16, column 2.
+2013-08-25 17:53:16,223 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@21c62f89
+2013-08-25 17:53:16,223 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5a5adcb1
+2013-08-25 17:53:16,224 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: import @ line 16, column 2.
+2013-08-25 17:53:16,224 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:expecting EOF, found 'import' @ line 16, column 2.
+2013-08-25 17:53:21,755 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5164b7b2
+2013-08-25 17:53:21,755 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2b5830dd
+2013-08-25 17:53:21,755 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: import @ line 16, column 2.
+2013-08-25 17:53:21,755 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:expecting EOF, found 'import' @ line 16, column 2.
+2013-08-25 17:53:22,776 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5011bafa
+2013-08-25 17:53:22,777 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3c0a9c27
+2013-08-25 17:53:22,777 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: import @ line 16, column 2.
+2013-08-25 17:53:22,777 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:expecting EOF, found 'import' @ line 16, column 2.
+2013-08-25 17:53:25,323 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@366a1b79
+2013-08-25 17:53:25,323 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7031c0d7
+2013-08-25 17:53:25,324 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: import @ line 16, column 2.
+2013-08-25 17:53:25,324 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:expecting EOF, found 'import' @ line 16, column 2.
+2013-08-25 17:53:29,067 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@d11356e
+2013-08-25 17:53:29,068 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@64cacf75
+2013-08-25 17:53:29,068 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: import @ line 16, column 2.
+2013-08-25 17:53:29,068 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:expecting EOF, found 'import' @ line 16, column 2.
+2013-08-25 17:53:29,384 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@42e68d00
+2013-08-25 17:53:29,384 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2e331d50
+2013-08-25 17:53:29,385 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: import @ line 16, column 2.
+2013-08-25 17:53:29,385 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:expecting EOF, found 'import' @ line 16, column 2.
+2013-08-25 17:53:30,914 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@55b3ee97
+2013-08-25 17:53:30,914 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@17f52776
+2013-08-25 17:53:30,914 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: import @ line 16, column 2.
+2013-08-25 17:53:30,915 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:expecting EOF, found 'import' @ line 16, column 2.
+2013-08-25 17:53:32,513 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@50dfa003
+2013-08-25 17:53:32,513 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@9824e70
+2013-08-25 17:53:32,513 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: import @ line 16, column 2.
+2013-08-25 17:53:32,513 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:expecting EOF, found 'import' @ line 16, column 2.
+2013-08-25 17:53:32,784 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1adcef61
+2013-08-25 17:53:32,784 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1ee7d70e
+2013-08-25 17:53:32,784 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: import @ line 16, column 2.
+2013-08-25 17:53:32,785 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:expecting EOF, found 'import' @ line 16, column 2.
+2013-08-25 17:53:33,531 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@61e9f1b6
+2013-08-25 17:53:33,531 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@45fc15f2
+2013-08-25 17:53:33,532 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: import @ line 16, column 2.
+2013-08-25 17:53:33,532 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:expecting EOF, found 'import' @ line 16, column 2.
+2013-08-25 17:53:43,081 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@30aee485
+2013-08-25 17:53:43,081 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2a1cf0bb
+2013-08-25 17:53:43,081 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: import @ line 16, column 2.
+2013-08-25 17:53:43,081 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:expecting EOF, found 'import' @ line 16, column 2.
+2013-08-25 17:53:45,603 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4dc5be25
+2013-08-25 17:53:45,603 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@71469706
+2013-08-25 17:53:45,603 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: import @ line 16, column 2.
+2013-08-25 17:53:45,603 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:expecting EOF, found 'import' @ line 16, column 2.
+2013-08-25 17:53:48,123 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@43fc3bfb
+2013-08-25 17:53:48,124 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: mport @ line 16, column 2.
+2013-08-25 17:53:48,192 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@50f752ee
+2013-08-25 17:53:48,193 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: Import @ line 16, column 2.
+2013-08-25 17:53:49,248 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2a1b1137
+2013-08-25 17:53:49,249 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: Import @ line 16, column 2.
+2013-08-25 17:53:57,291 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@70b5dddf
+2013-08-25 17:53:57,291 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@33f99548
+2013-08-25 17:53:57,292 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: import @ line 16, column 2.
+2013-08-25 17:53:57,292 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:expecting EOF, found 'import' @ line 16, column 2.
+2013-08-25 17:54:18,851 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@8436302
+2013-08-25 17:54:18,851 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@191c8b
+2013-08-25 17:54:18,851 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@70a0e9b9
+2013-08-25 17:54:18,851 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5450aa73
+2013-08-25 17:54:18,852 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7be68f43
+2013-08-25 17:54:18,852 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 16 Groovy:unexpected token: main @ line 16, column 2.
+2013-08-25 17:54:18,852 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 28 Groovy:unexpected token: param @ line 28, column 13.
+2013-08-25 17:54:18,852 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 29 Groovy:unexpected token: param_string @ line 29, column 17.
+2013-08-25 17:54:18,852 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 59 Groovy:unexpected token: } @ line 59, column 5.
+2013-08-25 17:54:18,853 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 6 Groovy:Invalid duplicate class definition of class RunStartUp : The source /Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy contains at least two definitions of the class RunStartUp.
+2013-08-25 17:54:18,859 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4fc873ae
+2013-08-25 17:54:18,859 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7122cd6d
+2013-08-25 17:54:18,860 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 20 Groovy:The field 'param' is declared multiple times.
+2013-08-25 17:54:18,860 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 27 Groovy:The field 'param_string' is declared multiple times.
+2013-08-25 17:54:32,557 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2ab7843f
+2013-08-25 17:54:32,579 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 20 Groovy:Invalid import static specification @ line 20, column 2.
+2013-08-25 17:54:37,973 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@128de005
+2013-08-25 17:54:37,974 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 20 Groovy:Invalid import  @ line 20, column 16.
+2013-08-25 17:54:38,624 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@42e407bb
+2013-08-25 17:54:38,625 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 20 Groovy:Invalid import  @ line 20, column 16.
+2013-08-25 17:54:41,802 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@38440e16
+2013-08-25 17:54:41,803 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 20 Groovy:Invalid import  @ line 20, column 16.
+2013-08-25 17:54:45,338 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@443dc681
+2013-08-25 17:54:45,339 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 20 Groovy:Invalid import  @ line 20, column 16.
+2013-08-25 17:54:53,887 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@225999fb
+2013-08-25 17:54:53,888 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 20 Groovy:Invalid import  @ line 20, column 16.
+2013-08-25 17:54:54,432 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@9328145
+2013-08-25 17:54:54,433 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 20 Groovy:Invalid import  @ line 20, column 16.
+2013-08-25 17:54:59,100 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2aa37a0
+2013-08-25 17:54:59,101 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 20 Groovy:Invalid import  @ line 20, column 16.
+2013-08-25 17:55:03,502 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1ca04be
+2013-08-25 17:55:03,503 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 20 Groovy:Invalid import  @ line 20, column 16.
+2013-08-25 17:55:12,296 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1e89de48
+2013-08-25 17:55:12,297 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 21 Groovy:Invalid import static specification @ line 21, column 2.
+2013-08-25 17:55:12,304 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - Ignoring GroovyBugError since it is likely caused by earlier issues.  Ignored problem is 'BUG! exception in phase 'semantic analysis' in source unit '/Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy' '
+2013-08-25 17:55:12,305 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - Ignoring GroovyBugError since it is likely caused by earlier issues.  Ignored problem is 'BUG! exception in phase 'semantic analysis' in source unit '/Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy' '
+2013-08-25 17:55:12,305 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - Ignoring GroovyBugError since it is likely caused by earlier issues.  Ignored problem is 'BUG! exception in phase 'semantic analysis' in source unit '/Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy' '
+2013-08-25 17:55:14,448 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5c9832ac
+2013-08-25 17:55:14,449 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 21 Groovy:Invalid import  @ line 21, column 16.
+2013-08-25 17:55:15,068 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6508b201
+2013-08-25 17:55:15,069 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 21 Groovy:Invalid import  @ line 21, column 16.
+2013-08-25 17:55:15,479 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6428047c
+2013-08-25 17:55:15,481 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 21 Groovy:Invalid import  @ line 21, column 16.
+2013-08-25 17:55:26,553 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@39664b54
+2013-08-25 17:55:26,554 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 21 Groovy:Invalid import  @ line 21, column 16.
+2013-08-25 17:55:27,145 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@447d2254
+2013-08-25 17:55:27,146 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 21 Groovy:Invalid import  @ line 21, column 16.
+2013-08-25 17:56:11,038 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6ec8ef1e
+2013-08-25 17:56:11,038 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:Apparent variable 'print' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 17:56:12,568 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6509cc74
+2013-08-25 17:56:12,568 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:Apparent variable 'println' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 17:56:14,342 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7cd87221
+2013-08-25 17:56:14,342 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@662d148f
+2013-08-25 17:56:14,342 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@19a0ecb1
+2013-08-25 17:56:14,342 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1413659c
+2013-08-25 17:56:14,343 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@573ef10
+2013-08-25 17:56:14,343 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 27 Groovy:expecting '}', found 'base' @ line 27, column 11.
+2013-08-25 17:56:14,343 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 36 Groovy:unexpected token: param @ line 36, column 13.
+2013-08-25 17:56:14,343 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 37 Groovy:unexpected token: param_string @ line 37, column 17.
+2013-08-25 17:56:14,343 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 67 Groovy:unexpected token: } @ line 67, column 5.
+2013-08-25 17:56:14,343 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 6 Groovy:Invalid duplicate class definition of class RunStartUp : The source /Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy contains at least two definitions of the class RunStartUp.
+2013-08-25 17:56:14,349 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@579f2489
+2013-08-25 17:56:14,349 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1117cb50
+2013-08-25 17:56:14,350 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 28 Groovy:The field 'param' is declared multiple times.
+2013-08-25 17:56:14,350 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 35 Groovy:The field 'param_string' is declared multiple times.
+2013-08-25 17:56:15,095 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@12256c4b
+2013-08-25 17:56:15,095 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@56e8b93b
+2013-08-25 17:56:15,095 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@48d8fd10
+2013-08-25 17:56:15,096 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1dce4acd
+2013-08-25 17:56:15,096 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5290e804
+2013-08-25 17:56:15,097 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 27 Groovy:expecting '}', found 'base' @ line 27, column 11.
+2013-08-25 17:56:15,097 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 36 Groovy:unexpected token: param @ line 36, column 13.
+2013-08-25 17:56:15,097 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 37 Groovy:unexpected token: param_string @ line 37, column 17.
+2013-08-25 17:56:15,097 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 67 Groovy:unexpected token: } @ line 67, column 5.
+2013-08-25 17:56:15,097 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 6 Groovy:Invalid duplicate class definition of class RunStartUp : The source /Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy contains at least two definitions of the class RunStartUp.
+2013-08-25 17:56:15,103 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2eec5c0d
+2013-08-25 17:56:15,103 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1f8f718c
+2013-08-25 17:56:15,104 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 28 Groovy:The field 'param' is declared multiple times.
+2013-08-25 17:56:15,104 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 35 Groovy:The field 'param_string' is declared multiple times.
+2013-08-25 17:56:19,644 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7990c71c
+2013-08-25 17:56:19,644 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:Apparent variable 'now' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 17:56:32,198 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2998a407
+2013-08-25 17:56:32,198 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:Method definition not expected here. Please define the method at an appropriate place or perhaps try using a block/Closure instead. at line: 25 column: 2. File: /Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy @ line 25, column 2.
+2013-08-25 17:56:40,791 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@46b92ad1
+2013-08-25 17:56:40,791 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:Apparent variable 'prin' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 17:56:43,327 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@49204123
+2013-08-25 17:56:43,327 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:Apparent variable 'pri' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 17:56:45,359 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1137dead
+2013-08-25 17:56:45,360 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:Apparent variable 'printl' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 17:56:46,418 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@35e473f7
+2013-08-25 17:56:46,419 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:Apparent variable 'println' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 17:56:49,454 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2aa9bd1d
+2013-08-25 17:56:49,455 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:Apparent variable 'now' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 17:56:50,988 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@372c05f3
+2013-08-25 17:56:50,988 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:Apparent variable 'now' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 17:56:52,134 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6820377b
+2013-08-25 17:56:52,135 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1b1aa1a5
+2013-08-25 17:56:52,135 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@716a6589
+2013-08-25 17:56:52,135 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@303f8b
+2013-08-25 17:56:52,135 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5f9bbec5
+2013-08-25 17:56:52,136 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 27 Groovy:expecting '}', found 'base' @ line 27, column 11.
+2013-08-25 17:56:52,136 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 36 Groovy:unexpected token: param @ line 36, column 13.
+2013-08-25 17:56:52,136 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 37 Groovy:unexpected token: param_string @ line 37, column 17.
+2013-08-25 17:56:52,136 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 67 Groovy:unexpected token: } @ line 67, column 5.
+2013-08-25 17:56:52,136 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 6 Groovy:Invalid duplicate class definition of class RunStartUp : The source /Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy contains at least two definitions of the class RunStartUp.
+2013-08-25 17:56:52,141 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7e861b00
+2013-08-25 17:56:52,141 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1656dde5
+2013-08-25 17:56:52,142 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 28 Groovy:The field 'param' is declared multiple times.
+2013-08-25 17:56:52,142 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 35 Groovy:The field 'param_string' is declared multiple times.
+2013-08-25 17:56:52,510 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@ce9c2fd
+2013-08-25 17:56:52,510 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@470076aa
+2013-08-25 17:56:52,510 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6f6eb750
+2013-08-25 17:56:52,511 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4dc51e57
+2013-08-25 17:56:52,511 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@484b09a4
+2013-08-25 17:56:52,511 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 27 Groovy:expecting '}', found 'base' @ line 27, column 11.
+2013-08-25 17:56:52,512 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 36 Groovy:unexpected token: param @ line 36, column 13.
+2013-08-25 17:56:52,512 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 37 Groovy:unexpected token: param_string @ line 37, column 17.
+2013-08-25 17:56:52,512 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 67 Groovy:unexpected token: } @ line 67, column 5.
+2013-08-25 17:56:52,512 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 6 Groovy:Invalid duplicate class definition of class RunStartUp : The source /Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy contains at least two definitions of the class RunStartUp.
+2013-08-25 17:56:52,517 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2a43c26f
+2013-08-25 17:56:52,517 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@46921b16
+2013-08-25 17:56:52,518 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 28 Groovy:The field 'param' is declared multiple times.
+2013-08-25 17:56:52,518 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 35 Groovy:The field 'param_string' is declared multiple times.
+2013-08-25 17:56:54,588 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2f69dc6b
+2013-08-25 17:56:54,588 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:Apparent variable 'now' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 17:56:57,625 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2a79db08
+2013-08-25 17:56:57,625 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:Apparent variable 'now' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 17:56:57,640 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@750dd5a3
+2013-08-25 17:56:57,640 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:Apparent variable 'now' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 17:56:57,705 ERROR [Worker-39] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@12a0434c
+2013-08-25 17:56:57,705 ERROR [Worker-39] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:Apparent variable 'now' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 17:56:58,665 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@39394f3f
+2013-08-25 17:56:58,665 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:Apparent variable 'now' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 17:56:59,703 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@303aeccf
+2013-08-25 17:56:59,703 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:Apparent variable 'now' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 17:57:03,562 ERROR [Text Viewer Hover Presenter] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@23f50991
+2013-08-25 17:57:03,562 ERROR [Text Viewer Hover Presenter] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:Apparent variable 'now' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 17:57:04,293 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@582ea711
+2013-08-25 17:57:04,293 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:Apparent variable 'now' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 17:57:12,836 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@52ed3d03
+2013-08-25 17:57:12,836 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:Apparent variable 'now' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 17:57:14,875 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@46bbe288
+2013-08-25 17:57:14,875 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:Apparent variable 'now' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 17:58:54,101 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@60ab1380
+2013-08-25 17:58:54,126 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 6 Groovy:Invalid import static specification @ line 6, column 1.
+2013-08-25 17:58:56,686 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7a00dc2b
+2013-08-25 17:58:56,686 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 6 Groovy:unable to resolve class Ca
+2013-08-25 17:58:57,774 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5b316c11
+2013-08-25 17:58:57,775 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 6 Groovy:unable to resolve class Calen
+2013-08-25 17:59:03,895 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@78429d6b
+2013-08-25 17:59:03,895 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 6 Groovy:Invalid import  @ line 6, column 15.
+2013-08-25 17:59:04,303 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6c5c3528
+2013-08-25 17:59:04,303 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 6 Groovy:Invalid import  @ line 6, column 15.
+2013-08-25 17:59:10,903 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@560fd57d
+2013-08-25 17:59:10,904 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 6 Groovy:Invalid import  @ line 6, column 15.
+2013-08-25 17:59:10,910 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@45983b21
+2013-08-25 17:59:10,911 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 6 Groovy:unable to resolve class Calendar.getInstance
+2013-08-25 17:59:21,532 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3beebf75
+2013-08-25 17:59:21,532 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 7 Groovy:Invalid import static specification @ line 7, column 1.
+2013-08-25 17:59:26,570 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5ea4f27a
+2013-08-25 17:59:26,570 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 7 Groovy:Invalid import  @ line 7, column 15.
+2013-08-25 17:59:26,575 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5fca1309
+2013-08-25 17:59:26,576 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 7 Groovy:unable to resolve class java
+2013-08-25 17:59:28,070 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6437693
+2013-08-25 17:59:28,071 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 7 Groovy:Invalid import  @ line 7, column 15.
+2013-08-25 17:59:28,076 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1039de29
+2013-08-25 17:59:28,077 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 7 Groovy:unable to resolve class java.lang
+2013-08-25 17:59:30,008 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@536d5f3
+2013-08-25 17:59:30,008 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 7 Groovy:Invalid import  @ line 7, column 15.
+2013-08-25 17:59:30,014 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@10a44aaa
+2013-08-25 17:59:30,015 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 7 Groovy:unable to resolve class java.lang.lang
+2013-08-25 17:59:30,667 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@12060bf2
+2013-08-25 17:59:30,668 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 7 Groovy:Invalid import  @ line 7, column 15.
+2013-08-25 17:59:30,673 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7510feb8
+2013-08-25 17:59:30,674 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 7 Groovy:unable to resolve class java.lang.lang
+2013-08-25 17:59:32,202 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@d6e9be9
+2013-08-25 17:59:32,203 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 7 Groovy:unable to resolve class java.lang.lang
+2013-08-25 17:59:43,381 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@19a71288
+2013-08-25 17:59:43,382 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 7 Groovy:unable to resolve class java.lang.In
+2013-08-25 17:59:52,001 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@98d1a14
+2013-08-25 17:59:52,001 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 8 Groovy:Invalid import static specification @ line 8, column 1.
+2013-08-25 18:00:00,558 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1f6e6125
+2013-08-25 18:00:00,561 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 8 Groovy:unable to resolve class Bool
+2013-08-25 18:00:01,614 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6b2e29f7
+2013-08-25 18:00:01,614 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 8 Groovy:Invalid import  @ line 8, column 15.
+2013-08-25 18:00:02,084 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@265e1006
+2013-08-25 18:00:02,084 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 8 Groovy:Invalid import  @ line 8, column 15.
+2013-08-25 18:00:24,774 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@48e55635
+2013-08-25 18:00:24,774 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@487ed6f6
+2013-08-25 18:00:24,774 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7f52d5a8
+2013-08-25 18:00:24,775 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@174949e6
+2013-08-25 18:00:24,775 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4c92a6fb
+2013-08-25 18:00:24,775 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 24 Groovy:unexpected token: def @ line 24, column 7.
+2013-08-25 18:00:24,775 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 33 Groovy:unexpected token: param @ line 33, column 13.
+2013-08-25 18:00:24,775 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 34 Groovy:unexpected token: param_string @ line 34, column 17.
+2013-08-25 18:00:24,776 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 62 Groovy:unexpected token: } @ line 62, column 5.
+2013-08-25 18:00:24,776 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 11 Groovy:Invalid duplicate class definition of class RunStartUp : The source /Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy contains at least two definitions of the class RunStartUp.
+2013-08-25 18:00:24,781 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@75d8c4a5
+2013-08-25 18:00:24,781 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6a566914
+2013-08-25 18:00:24,782 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:The field 'param' is declared multiple times.
+2013-08-25 18:00:24,782 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 32 Groovy:The field 'param_string' is declared multiple times.
+2013-08-25 18:00:28,820 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@36fec5df
+2013-08-25 18:00:28,820 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 22 Groovy:Apparent variable 'print' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 18:00:31,450 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@44cfdbc2
+2013-08-25 18:00:31,451 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 22 Groovy:Apparent variable 'println' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 18:00:40,154 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@34a5c866
+2013-08-25 18:00:40,154 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7007bb8a
+2013-08-25 18:00:40,154 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@ba99a7c
+2013-08-25 18:00:40,155 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2bdd48df
+2013-08-25 18:00:40,155 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4cdb3ef8
+2013-08-25 18:00:40,155 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4e033333
+2013-08-25 18:00:40,155 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 24 Groovy:unexpected token: def @ line 24, column 7.
+2013-08-25 18:00:40,156 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 24 Groovy:expecting '}', found 'def' @ line 24, column 7.
+2013-08-25 18:00:40,156 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 33 Groovy:unexpected token: param @ line 33, column 13.
+2013-08-25 18:00:40,156 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 34 Groovy:unexpected token: param_string @ line 34, column 17.
+2013-08-25 18:00:40,157 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 62 Groovy:unexpected token: } @ line 62, column 5.
+2013-08-25 18:00:40,157 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 11 Groovy:Invalid duplicate class definition of class RunStartUp : The source /Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy contains at least two definitions of the class RunStartUp.
+2013-08-25 18:00:40,163 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@21654a8f
+2013-08-25 18:00:40,163 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@102036a
+2013-08-25 18:00:40,164 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:The field 'param' is declared multiple times.
+2013-08-25 18:00:40,164 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 32 Groovy:The field 'param_string' is declared multiple times.
+2013-08-25 18:00:42,194 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@67498c10
+2013-08-25 18:00:42,195 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 22 Groovy:Apparent variable 'now' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 18:00:43,236 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1a387c15
+2013-08-25 18:00:43,237 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@725a5425
+2013-08-25 18:00:43,237 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@84a83ca
+2013-08-25 18:00:43,237 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@54124706
+2013-08-25 18:00:43,237 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7bf50608
+2013-08-25 18:00:43,237 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 24 Groovy:expecting '}', found 'base' @ line 24, column 11.
+2013-08-25 18:00:43,238 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 33 Groovy:unexpected token: param @ line 33, column 13.
+2013-08-25 18:00:43,238 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 34 Groovy:unexpected token: param_string @ line 34, column 17.
+2013-08-25 18:00:43,238 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 62 Groovy:unexpected token: } @ line 62, column 5.
+2013-08-25 18:00:43,238 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 11 Groovy:Invalid duplicate class definition of class RunStartUp : The source /Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy contains at least two definitions of the class RunStartUp.
+2013-08-25 18:00:43,243 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2b7b0553
+2013-08-25 18:00:43,243 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@199aa272
+2013-08-25 18:00:43,244 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:The field 'param' is declared multiple times.
+2013-08-25 18:00:43,244 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 32 Groovy:The field 'param_string' is declared multiple times.
+2013-08-25 18:00:44,132 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@cbc0e73
+2013-08-25 18:00:44,132 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 22 Groovy:Apparent variable 'now' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 18:00:45,954 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@72d9679e
+2013-08-25 18:00:45,954 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1f21f0fa
+2013-08-25 18:00:45,954 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6d53bd0d
+2013-08-25 18:00:45,955 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@14a0d88e
+2013-08-25 18:00:45,955 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4be95d36
+2013-08-25 18:00:45,955 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 24 Groovy:expecting '}', found 'base' @ line 24, column 11.
+2013-08-25 18:00:45,955 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 33 Groovy:unexpected token: param @ line 33, column 13.
+2013-08-25 18:00:45,955 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 34 Groovy:unexpected token: param_string @ line 34, column 17.
+2013-08-25 18:00:45,955 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 62 Groovy:unexpected token: } @ line 62, column 5.
+2013-08-25 18:00:45,956 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 11 Groovy:Invalid duplicate class definition of class RunStartUp : The source /Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy contains at least two definitions of the class RunStartUp.
+2013-08-25 18:00:45,960 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3cb094b0
+2013-08-25 18:00:45,960 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6cf1cdf0
+2013-08-25 18:00:45,961 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:The field 'param' is declared multiple times.
+2013-08-25 18:00:45,961 ERROR [main] - System.err - /gs/src/RunStartUp.groovy: 32 Groovy:The field 'param_string' is declared multiple times.
+2013-08-25 18:00:46,296 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@69e18938
+2013-08-25 18:00:46,296 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@55f7f1d6
+2013-08-25 18:00:46,296 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@92644b2
+2013-08-25 18:00:46,296 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2f6806cf
+2013-08-25 18:00:46,296 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@56971859
+2013-08-25 18:00:46,297 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 24 Groovy:expecting '}', found 'base' @ line 24, column 11.
+2013-08-25 18:00:46,297 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 33 Groovy:unexpected token: param @ line 33, column 13.
+2013-08-25 18:00:46,297 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 34 Groovy:unexpected token: param_string @ line 34, column 17.
+2013-08-25 18:00:46,297 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 62 Groovy:unexpected token: } @ line 62, column 5.
+2013-08-25 18:00:46,297 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 11 Groovy:Invalid duplicate class definition of class RunStartUp : The source /Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy contains at least two definitions of the class RunStartUp.
+2013-08-25 18:00:46,302 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@72cdc0c4
+2013-08-25 18:00:46,302 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@222abebe
+2013-08-25 18:00:46,303 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:The field 'param' is declared multiple times.
+2013-08-25 18:00:46,303 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 32 Groovy:The field 'param_string' is declared multiple times.
+2013-08-25 18:00:50,891 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@33265d48
+2013-08-25 18:00:50,891 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1bb63c34
+2013-08-25 18:00:50,891 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@592a8822
+2013-08-25 18:00:50,891 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@774f9de9
+2013-08-25 18:00:50,891 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@c086931
+2013-08-25 18:00:50,892 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 24 Groovy:expecting '}', found 'base' @ line 24, column 11.
+2013-08-25 18:00:50,892 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 33 Groovy:unexpected token: param @ line 33, column 13.
+2013-08-25 18:00:50,892 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 34 Groovy:unexpected token: param_string @ line 34, column 17.
+2013-08-25 18:00:50,892 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 62 Groovy:unexpected token: } @ line 62, column 5.
+2013-08-25 18:00:50,892 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 11 Groovy:Invalid duplicate class definition of class RunStartUp : The source /Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy contains at least two definitions of the class RunStartUp.
+2013-08-25 18:00:50,897 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@34792217
+2013-08-25 18:00:50,897 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7cad2eea
+2013-08-25 18:00:50,897 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 25 Groovy:The field 'param' is declared multiple times.
+2013-08-25 18:00:50,897 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 32 Groovy:The field 'param_string' is declared multiple times.
+2013-08-25 18:02:19,713 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5ccfd847
+2013-08-25 18:02:19,714 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 40 Groovy:Apparent variable 'print' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 18:02:21,247 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@59fb467a
+2013-08-25 18:02:21,247 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 40 Groovy:Apparent variable 'println' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 18:02:30,088 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@72599eea
+2013-08-25 18:02:30,089 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 63 Groovy:unexpected token: } @ line 63, column 5.
+2013-08-25 18:02:33,714 ERROR [Worker-39] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6925f20c
+2013-08-25 18:02:33,715 ERROR [Worker-39] - System.err - /gs/src/RunStartUp.groovy: 63 Groovy:unexpected token: } @ line 63, column 5.
+2013-08-25 18:02:33,727 ERROR [Worker-39] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1248314c
+2013-08-25 18:02:33,727 ERROR [Worker-39] - System.err - /gs/src/RunStartUp.groovy: 40 Groovy:Apparent variable 'println' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 18:02:33,735 ERROR [Worker-39] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@814b4f
+2013-08-25 18:02:33,735 ERROR [Worker-39] - System.err - /gs/src/RunStartUp.groovy: 63 Groovy:unexpected token: } @ line 63, column 5.
+2013-08-25 18:02:33,745 ERROR [Worker-39] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@624fdc8
+2013-08-25 18:02:33,745 ERROR [Worker-39] - System.err - /gs/src/RunStartUp.groovy: 40 Groovy:Apparent variable 'println' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-25 18:09:05,448 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4a22304e
+2013-08-25 18:09:05,467 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@a9176e8
+2013-08-25 18:09:05,468 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 65 Groovy:unexpected char: 0xFFFF @ line 65, column 2.
+2013-08-25 18:09:05,468 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 60 Groovy:unexpected token: * @ line 60, column 1.
+2013-08-25 18:18:12,177 ERROR [Worker-45] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@637f96ae
+2013-08-25 18:18:12,177 ERROR [Worker-45] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4d7dac8a
+2013-08-25 18:18:12,177 ERROR [Worker-45] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@75cabfc4
+2013-08-25 18:18:12,177 ERROR [Worker-45] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@51f41946
+2013-08-25 18:18:12,177 ERROR [Worker-45] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@70a76cb2
+2013-08-25 18:18:12,177 ERROR [Worker-45] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7fd153e5
+2013-08-25 18:18:12,177 ERROR [Worker-45] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7db20f2
+2013-08-25 18:18:12,177 ERROR [Worker-45] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@434ff3e5
+2013-08-25 18:18:12,177 ERROR [Worker-45] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@361561e9
+2013-08-25 18:18:12,178 ERROR [Worker-45] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 18:18:12,178 ERROR [Worker-45] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 18:18:12,178 ERROR [Worker-45] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 18:18:12,178 ERROR [Worker-45] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 18:18:12,178 ERROR [Worker-45] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 18:18:12,178 ERROR [Worker-45] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 18:18:12,178 ERROR [Worker-45] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 18:18:12,178 ERROR [Worker-45] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:unexpected token: if @ line 18, column 1.
+2013-08-25 18:18:12,179 ERROR [Worker-45] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:expecting EOF, found 'if' @ line 18, column 1.
+2013-08-25 18:18:38,589 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@62886874
+2013-08-25 18:18:38,590 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 12 Groovy:Invalid duplicate class definition of class RunStartUp : The source /Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy contains at least two definitions of the class RunStartUp.
+2013-08-25 18:18:40,659 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@70145fdd
+2013-08-25 18:18:40,660 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 13 Groovy:Invalid duplicate class definition of class RunStartUp : The source /Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy contains at least two definitions of the class RunStartUp.
+2013-08-25 18:22:33,257 ERROR [Worker-38] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@46c01aca
+2013-08-25 18:22:33,257 ERROR [Worker-38] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2f156944
+2013-08-25 18:22:33,257 ERROR [Worker-38] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@26b20782
+2013-08-25 18:22:33,257 ERROR [Worker-38] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2f0f89c8
+2013-08-25 18:22:33,257 ERROR [Worker-38] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@251ec19b
+2013-08-25 18:22:33,257 ERROR [Worker-38] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@638ba27
+2013-08-25 18:22:33,257 ERROR [Worker-38] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@764559a1
+2013-08-25 18:22:33,257 ERROR [Worker-38] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@19bc782d
+2013-08-25 18:22:33,257 ERROR [Worker-38] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2475df8e
+2013-08-25 18:22:33,258 ERROR [Worker-38] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 18:22:33,258 ERROR [Worker-38] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 18:22:33,258 ERROR [Worker-38] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 18:22:33,258 ERROR [Worker-38] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 18:22:33,258 ERROR [Worker-38] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 18:22:33,258 ERROR [Worker-38] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 18:22:33,258 ERROR [Worker-38] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 18:22:33,258 ERROR [Worker-38] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:unexpected token: if @ line 18, column 1.
+2013-08-25 18:22:33,259 ERROR [Worker-38] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:expecting EOF, found 'if' @ line 18, column 1.
+2013-08-25 18:22:33,824 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7485bee6
+2013-08-25 18:22:33,824 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@78b829cd
+2013-08-25 18:22:33,824 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2c08fa6
+2013-08-25 18:22:33,824 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3016dcb3
+2013-08-25 18:22:33,824 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2cf3846f
+2013-08-25 18:22:33,824 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@277baa77
+2013-08-25 18:22:33,824 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@27f47ee1
+2013-08-25 18:22:33,824 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@24b5fa45
+2013-08-25 18:22:33,824 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2741dad7
+2013-08-25 18:22:33,825 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 18:22:33,825 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 18:22:33,825 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 18:22:33,825 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 18:22:33,825 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 18:22:33,825 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 18:22:33,825 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 18:22:33,825 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:unexpected token: if @ line 18, column 1.
+2013-08-25 18:22:33,825 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:expecting EOF, found 'if' @ line 18, column 1.
+2013-08-25 18:23:33,758 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1766cb62
+2013-08-25 18:23:33,758 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5db29aee
+2013-08-25 18:23:33,758 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1b84eb2c
+2013-08-25 18:23:33,758 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@336ba3d1
+2013-08-25 18:23:33,758 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5fd008b6
+2013-08-25 18:23:33,758 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@52ec15de
+2013-08-25 18:23:33,758 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3fb12d9d
+2013-08-25 18:23:33,758 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@929bf16
+2013-08-25 18:23:33,758 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@13c0420d
+2013-08-25 18:23:33,759 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 18:23:33,759 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 18:23:33,759 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 18:23:33,759 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 18:23:33,759 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 18:23:33,759 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 18:23:33,759 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 18:23:33,759 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:unexpected token: if @ line 18, column 1.
+2013-08-25 18:23:33,759 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:expecting EOF, found 'if' @ line 18, column 1.
+2013-08-25 18:23:34,629 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@54cff7ee
+2013-08-25 18:23:34,629 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@219e55c2
+2013-08-25 18:23:34,629 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@221044cc
+2013-08-25 18:23:34,629 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5a14be8c
+2013-08-25 18:23:34,630 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7ea0788
+2013-08-25 18:23:34,630 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@159475c7
+2013-08-25 18:23:34,630 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@45c066e2
+2013-08-25 18:23:34,630 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5aa2a334
+2013-08-25 18:23:34,630 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6b88d968
+2013-08-25 18:23:34,630 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 18:23:34,630 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 18:23:34,630 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 18:23:34,630 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 18:23:34,630 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 18:23:34,631 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 18:23:34,631 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 18:23:34,631 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:unexpected token: if @ line 18, column 1.
+2013-08-25 18:23:34,631 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:expecting EOF, found 'if' @ line 18, column 1.
+2013-08-25 18:23:35,019 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@44f3f8d0
+2013-08-25 18:23:35,019 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6d54430d
+2013-08-25 18:23:35,019 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@36fe428e
+2013-08-25 18:23:35,019 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6ec394d6
+2013-08-25 18:23:35,020 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6a60a669
+2013-08-25 18:23:35,020 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6f4d6e0e
+2013-08-25 18:23:35,020 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@44749238
+2013-08-25 18:23:35,020 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@412bbda4
+2013-08-25 18:23:35,020 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1eaf7b69
+2013-08-25 18:23:35,020 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 18:23:35,020 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 18:23:35,021 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 18:23:35,021 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 18:23:35,021 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 18:23:35,021 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 18:23:35,021 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 18:23:35,021 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:unexpected token: if @ line 18, column 1.
+2013-08-25 18:23:35,021 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:expecting EOF, found 'if' @ line 18, column 1.
+2013-08-25 18:23:35,097 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@23be8609
+2013-08-25 18:23:35,097 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3151cb34
+2013-08-25 18:23:35,097 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@70f3dc37
+2013-08-25 18:23:35,098 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@19fed8d0
+2013-08-25 18:23:35,098 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2a4c4d05
+2013-08-25 18:23:35,098 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@775498f4
+2013-08-25 18:23:35,098 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5305f860
+2013-08-25 18:23:35,098 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2cf59135
+2013-08-25 18:23:35,098 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2e1045a2
+2013-08-25 18:23:35,098 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 18:23:35,098 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 18:23:35,098 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 18:23:35,099 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 18:23:35,099 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 18:23:35,099 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 18:23:35,099 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 18:23:35,099 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:unexpected token: if @ line 18, column 1.
+2013-08-25 18:23:35,099 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:expecting EOF, found 'if' @ line 18, column 1.
+2013-08-25 18:23:35,187 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7fe15274
+2013-08-25 18:23:35,187 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@21ec7f43
+2013-08-25 18:23:35,187 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2d97191b
+2013-08-25 18:23:35,188 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1af152ff
+2013-08-25 18:23:35,188 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@597ff12a
+2013-08-25 18:23:35,188 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5eb22a4d
+2013-08-25 18:23:35,188 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2f755cd
+2013-08-25 18:23:35,188 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3c220740
+2013-08-25 18:23:35,188 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5e0a1997
+2013-08-25 18:23:35,189 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 18:23:35,189 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 18:23:35,189 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 18:23:35,189 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 18:23:35,189 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 18:23:35,189 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 18:23:35,189 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 18:23:35,189 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:unexpected token: if @ line 18, column 1.
+2013-08-25 18:23:35,189 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:expecting EOF, found 'if' @ line 18, column 1.
+2013-08-25 18:23:35,225 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@35606c91
+2013-08-25 18:23:35,225 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4d77bef7
+2013-08-25 18:23:35,225 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@709a71dc
+2013-08-25 18:23:35,225 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2ba95c45
+2013-08-25 18:23:35,225 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7be8cc67
+2013-08-25 18:23:35,226 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@70c3bdbe
+2013-08-25 18:23:35,226 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@42de3ec8
+2013-08-25 18:23:35,226 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@cebdec4
+2013-08-25 18:23:35,226 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@516e1c7c
+2013-08-25 18:23:35,226 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 18:23:35,226 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 18:23:35,227 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 18:23:35,227 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 18:23:35,227 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 18:23:35,227 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 18:23:35,228 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 18:23:35,228 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:unexpected token: if @ line 18, column 1.
+2013-08-25 18:23:35,228 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:expecting EOF, found 'if' @ line 18, column 1.
+2013-08-25 18:23:35,253 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@394613c0
+2013-08-25 18:23:35,253 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@27babfa0
+2013-08-25 18:23:35,253 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@557ab5c0
+2013-08-25 18:23:35,253 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6b327c17
+2013-08-25 18:23:35,253 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3f7100fc
+2013-08-25 18:23:35,253 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@13f7c0ee
+2013-08-25 18:23:35,253 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6e9b537f
+2013-08-25 18:23:35,253 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1786ef94
+2013-08-25 18:23:35,253 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1bdae99d
+2013-08-25 18:23:35,254 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 18:23:35,254 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 18:23:35,254 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 18:23:35,254 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 18:23:35,254 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 18:23:35,254 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 18:23:35,254 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 18:23:35,255 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:unexpected token: if @ line 18, column 1.
+2013-08-25 18:23:35,255 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:expecting EOF, found 'if' @ line 18, column 1.
+2013-08-25 18:23:35,281 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@350fec29
+2013-08-25 18:23:35,281 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@285992f6
+2013-08-25 18:23:35,281 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@10bf692c
+2013-08-25 18:23:35,281 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@691d04b
+2013-08-25 18:23:35,282 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4f01ef4b
+2013-08-25 18:23:35,282 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@8054d73
+2013-08-25 18:23:35,282 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@141fbd22
+2013-08-25 18:23:35,282 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2fba0d80
+2013-08-25 18:23:35,282 ERROR [Worker-43] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5fcc66fa
+2013-08-25 18:23:35,282 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 18:23:35,282 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 18:23:35,282 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 18:23:35,282 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 18:23:35,282 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 18:23:35,283 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 18:23:35,283 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 18:23:35,283 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:unexpected token: if @ line 18, column 1.
+2013-08-25 18:23:35,283 ERROR [Worker-43] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:expecting EOF, found 'if' @ line 18, column 1.
+2013-08-25 18:23:37,908 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@42f692e9
+2013-08-25 18:23:37,908 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4a272157
+2013-08-25 18:23:37,908 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4efdfcc9
+2013-08-25 18:23:37,908 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4df18a3
+2013-08-25 18:23:37,908 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@52ca77d4
+2013-08-25 18:23:37,909 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6a8129c2
+2013-08-25 18:23:37,909 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@45dcb62e
+2013-08-25 18:23:37,909 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1d3ca9d7
+2013-08-25 18:23:37,909 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@79b2713f
+2013-08-25 18:23:37,909 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 18:23:37,909 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 18:23:37,909 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 18:23:37,909 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 18:23:37,909 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 18:23:37,910 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 18:23:37,910 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 18:23:37,910 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:unexpected token: if @ line 18, column 1.
+2013-08-25 18:23:37,910 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:expecting EOF, found 'if' @ line 18, column 1.
+2013-08-25 18:23:37,929 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@646eb571
+2013-08-25 18:23:37,930 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@204a413a
+2013-08-25 18:23:37,930 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6b005765
+2013-08-25 18:23:37,930 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6369dec4
+2013-08-25 18:23:37,930 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3ba048d9
+2013-08-25 18:23:37,930 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@180ebd24
+2013-08-25 18:23:37,930 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6fa392d2
+2013-08-25 18:23:37,930 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5bfc5240
+2013-08-25 18:23:37,930 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@127c16ee
+2013-08-25 18:23:37,930 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 18:23:37,930 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 18:23:37,931 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 18:23:37,931 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 18:23:37,931 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 18:23:37,931 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 18:23:37,931 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 18:23:37,931 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:unexpected token: if @ line 18, column 1.
+2013-08-25 18:23:37,931 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:expecting EOF, found 'if' @ line 18, column 1.
+2013-08-25 18:23:37,951 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@16cebd92
+2013-08-25 18:23:37,951 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5effc7f0
+2013-08-25 18:23:37,951 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6a9f8e49
+2013-08-25 18:23:37,951 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1136914f
+2013-08-25 18:23:37,952 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@157de25d
+2013-08-25 18:23:37,952 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7b9852b0
+2013-08-25 18:23:37,952 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4d5ce034
+2013-08-25 18:23:37,952 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@c839d9a
+2013-08-25 18:23:37,952 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@14dfefe1
+2013-08-25 18:23:37,952 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 18:23:37,952 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 18:23:37,952 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 18:23:37,952 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 18:23:37,952 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 18:23:37,953 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 18:23:37,953 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 18:23:37,953 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:unexpected token: if @ line 18, column 1.
+2013-08-25 18:23:37,953 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:expecting EOF, found 'if' @ line 18, column 1.
+2013-08-25 18:23:37,973 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2feb54fb
+2013-08-25 18:23:37,973 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3184351
+2013-08-25 18:23:37,973 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2deb7c6d
+2013-08-25 18:23:37,973 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3f35efa8
+2013-08-25 18:23:37,973 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6e091f03
+2013-08-25 18:23:37,973 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@18d33665
+2013-08-25 18:23:37,973 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@52982d9e
+2013-08-25 18:23:37,973 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4db0a6f
+2013-08-25 18:23:37,974 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4889ffe6
+2013-08-25 18:23:37,974 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 18:23:37,974 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 18:23:37,974 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 18:23:37,974 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 18:23:37,974 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 18:23:37,974 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 18:23:37,974 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 18:23:37,974 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:unexpected token: if @ line 18, column 1.
+2013-08-25 18:23:37,975 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:expecting EOF, found 'if' @ line 18, column 1.
+2013-08-25 18:23:37,994 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@12bf0bcd
+2013-08-25 18:23:37,994 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3c9fc958
+2013-08-25 18:23:37,994 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1e5bcf80
+2013-08-25 18:23:37,994 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1d93ec12
+2013-08-25 18:23:37,994 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5a6fa0e9
+2013-08-25 18:23:37,995 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@56ad4f61
+2013-08-25 18:23:37,995 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@c3695bc
+2013-08-25 18:23:37,995 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@53a06fe7
+2013-08-25 18:23:37,995 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4a12d195
+2013-08-25 18:23:37,995 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 18:23:37,995 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 18:23:37,995 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 18:23:37,995 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 18:23:37,995 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 18:23:37,995 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 18:23:37,996 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 18:23:37,996 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:unexpected token: if @ line 18, column 1.
+2013-08-25 18:23:37,996 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:expecting EOF, found 'if' @ line 18, column 1.
+2013-08-25 18:23:38,016 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7d18d2ac
+2013-08-25 18:23:38,016 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@68af5a5d
+2013-08-25 18:23:38,016 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5055c55c
+2013-08-25 18:23:38,016 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2f104438
+2013-08-25 18:23:38,016 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@54eed0ab
+2013-08-25 18:23:38,016 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@ac5b61d
+2013-08-25 18:23:38,016 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3a372f71
+2013-08-25 18:23:38,016 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7d0bc192
+2013-08-25 18:23:38,017 ERROR [Worker-47] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@ed19861
+2013-08-25 18:23:38,017 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 18:23:38,017 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 18:23:38,017 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 18:23:38,017 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 18:23:38,017 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 18:23:38,017 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 18:23:38,017 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 18:23:38,017 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:unexpected token: if @ line 18, column 1.
+2013-08-25 18:23:38,018 ERROR [Worker-47] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 18 Groovy:expecting EOF, found 'if' @ line 18, column 1.
+2013-08-25 18:23:40,430 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1489226c
+2013-08-25 18:23:40,430 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3732eafc
+2013-08-25 18:23:40,430 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6fe162b3
+2013-08-25 18:23:40,430 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@36170f27
+2013-08-25 18:23:40,430 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@23e3e52f
+2013-08-25 18:23:40,431 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@46db8311
+2013-08-25 18:23:40,431 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7579f56e
+2013-08-25 18:23:40,431 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@19e04503
+2013-08-25 18:23:40,431 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@52d2d53a
+2013-08-25 18:23:40,431 ERROR [main] - System.err - Hello.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 18:23:40,431 ERROR [main] - System.err - Hello.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 18:23:40,431 ERROR [main] - System.err - Hello.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 18:23:40,431 ERROR [main] - System.err - Hello.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 18:23:40,431 ERROR [main] - System.err - Hello.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 18:23:40,431 ERROR [main] - System.err - Hello.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 18:23:40,432 ERROR [main] - System.err - Hello.groovy: 16 Groovy:unexpected token: cli @ line 16, column 1.
+2013-08-25 18:23:40,432 ERROR [main] - System.err - Hello.groovy: 18 Groovy:unexpected token: if @ line 18, column 1.
+2013-08-25 18:23:40,432 ERROR [main] - System.err - Hello.groovy: 18 Groovy:expecting EOF, found 'if' @ line 18, column 1.
+2013-08-25 18:23:40,437 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@763b9f5c
+2013-08-25 18:23:40,437 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@445b8da8
+2013-08-25 18:23:40,437 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@56b133a7
+2013-08-25 18:23:40,438 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@bb64568
+2013-08-25 18:23:40,438 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6b86b4d9
+2013-08-25 18:23:40,438 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@58cb49b5
+2013-08-25 18:23:40,438 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@a54379e
+2013-08-25 18:23:40,438 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1f0f6b5e
+2013-08-25 18:23:40,438 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2d51f840
+2013-08-25 18:23:40,438 ERROR [main] - System.err - Hello.groovy: 9 Groovy:unexpected token: cli @ line 9, column 1.
+2013-08-25 18:23:40,438 ERROR [main] - System.err - Hello.groovy: 10 Groovy:unexpected token: cli @ line 10, column 1.
+2013-08-25 18:23:40,438 ERROR [main] - System.err - Hello.groovy: 11 Groovy:unexpected token: cli @ line 11, column 1.
+2013-08-25 18:23:40,438 ERROR [main] - System.err - Hello.groovy: 12 Groovy:unexpected token: cli @ line 12, column 1.
+2013-08-25 18:23:40,439 ERROR [main] - System.err - Hello.groovy: 13 Groovy:unexpected token: cli @ line 13, column 1.
+2013-08-25 18:23:40,439 ERROR [main] - System.err - Hello.groovy: 14 Groovy:unexpected token: cli @ line 14, column 1.
+2013-08-25 18:23:40,439 ERROR [main] - System.err - Hello.groovy: 15 Groovy:unexpected token: cli @ line 15, column 1.
+2013-08-25 18:23:40,439 ERROR [main] - System.err - Hello.groovy: 17 Groovy:unexpected token: if @ line 17, column 1.
+2013-08-25 18:23:40,439 ERROR [main] - System.err - Hello.groovy: 17 Groovy:expecting EOF, found 'if' @ line 17, column 1.
+2013-08-25 18:23:41,160 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7b93bc9d
+2013-08-25 18:23:41,160 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@204426cd
+2013-08-25 18:23:41,161 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5a4f6d47
+2013-08-25 18:23:41,161 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@148f7ea3
+2013-08-25 18:23:41,161 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@58c309e0
+2013-08-25 18:23:41,161 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6cbd7ea6
+2013-08-25 18:23:41,161 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@cc5fc10
+2013-08-25 18:23:41,161 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1a2784fd
+2013-08-25 18:23:41,161 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@188c0b75
+2013-08-25 18:23:41,161 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 9 Groovy:unexpected token: cli @ line 9, column 2.
+2013-08-25 18:23:41,161 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 2.
+2013-08-25 18:23:41,162 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 2.
+2013-08-25 18:23:41,162 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 2.
+2013-08-25 18:23:41,162 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 2.
+2013-08-25 18:23:41,162 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 2.
+2013-08-25 18:23:41,162 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 2.
+2013-08-25 18:23:41,162 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:unexpected token: if @ line 17, column 2.
+2013-08-25 18:23:41,162 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:expecting EOF, found 'if' @ line 17, column 2.
+2013-08-25 18:24:35,757 ERROR [Worker-46] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@270055d6
+2013-08-25 18:24:35,757 ERROR [Worker-46] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@70c89bb5
+2013-08-25 18:24:35,757 ERROR [Worker-46] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@266c1ec
+2013-08-25 18:24:35,757 ERROR [Worker-46] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6644e450
+2013-08-25 18:24:35,757 ERROR [Worker-46] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@34e974a4
+2013-08-25 18:24:35,757 ERROR [Worker-46] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4ae8d61f
+2013-08-25 18:24:35,757 ERROR [Worker-46] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7c41b3a4
+2013-08-25 18:24:35,757 ERROR [Worker-46] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@57fd72e8
+2013-08-25 18:24:35,757 ERROR [Worker-46] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@40830a79
+2013-08-25 18:24:35,758 ERROR [Worker-46] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 9 Groovy:unexpected token: cli @ line 9, column 2.
+2013-08-25 18:24:35,758 ERROR [Worker-46] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 2.
+2013-08-25 18:24:35,758 ERROR [Worker-46] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 2.
+2013-08-25 18:24:35,758 ERROR [Worker-46] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 2.
+2013-08-25 18:24:35,762 ERROR [Worker-46] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 2.
+2013-08-25 18:24:35,762 ERROR [Worker-46] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 2.
+2013-08-25 18:24:35,763 ERROR [Worker-46] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 2.
+2013-08-25 18:24:35,763 ERROR [Worker-46] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:unexpected token: if @ line 17, column 2.
+2013-08-25 18:24:35,763 ERROR [Worker-46] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:expecting EOF, found 'if' @ line 17, column 2.
+2013-08-25 18:25:21,779 ERROR [Worker-46] - System.err - java.lang.reflect.InvocationTargetException
+2013-08-25 18:25:21,780 ERROR [Worker-46] - System.err - at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-08-25 18:25:21,780 ERROR [Worker-46] - System.err - at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+2013-08-25 18:25:21,780 ERROR [Worker-46] - System.err - at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+2013-08-25 18:25:21,780 ERROR [Worker-46] - System.err - at java.lang.reflect.Method.invoke(Method.java:597)
+2013-08-25 18:25:21,780 ERROR [Worker-46] - System.err - at org.springframework.ide.eclipse.roo.core.RooCoreActivator.invokeMethod(RooCoreActivator.java:100)
+2013-08-25 18:25:21,780 ERROR [Worker-46] - System.err - at org.springframework.ide.eclipse.roo.core.RooCoreActivator.registerHttpPgpUrlHandler(RooCoreActivator.java:127)
+2013-08-25 18:25:21,780 ERROR [Worker-46] - System.err - at org.springframework.ide.eclipse.roo.core.RooCoreActivator.access$0(RooCoreActivator.java:107)
+2013-08-25 18:25:21,780 ERROR [Worker-46] - System.err - at org.springframework.ide.eclipse.roo.core.RooCoreActivator$1.run(RooCoreActivator.java:78)
+2013-08-25 18:25:21,780 ERROR [Worker-46] - System.err - at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+2013-08-25 18:25:21,781 ERROR [Worker-46] - System.err - Caused by: java.lang.NullPointerException
+2013-08-25 18:25:21,781 ERROR [Worker-46] - System.err - at org.eclipse.equinox.weaving.adaptors.WeavingAdaptorFactory.getHost(WeavingAdaptorFactory.java:102)
+2013-08-25 18:25:21,781 ERROR [Worker-46] - System.err - at org.eclipse.equinox.weaving.hooks.WeavingHook.getHostBundleAdaptor(WeavingHook.java:78)
+2013-08-25 18:25:21,781 ERROR [Worker-46] - System.err - at org.eclipse.equinox.weaving.hooks.BundleAdaptorProvider.getAdaptor(BundleAdaptorProvider.java:32)
+2013-08-25 18:25:21,781 ERROR [Worker-46] - System.err - at org.eclipse.equinox.weaving.hooks.AbstractWeavingBundleFile.getAdaptor(AbstractWeavingBundleFile.java:58)
+2013-08-25 18:25:21,781 ERROR [Worker-46] - System.err - at org.eclipse.equinox.weaving.hooks.WeavingBundleFile.getEntry(WeavingBundleFile.java:61)
+2013-08-25 18:25:21,781 ERROR [Worker-46] - System.err - at org.eclipse.osgi.baseadaptor.bundlefile.BundleFileWrapperChain.getEntry(BundleFileWrapperChain.java:43)
+2013-08-25 18:25:21,781 ERROR [Worker-46] - System.err - at org.eclipse.osgi.baseadaptor.BaseData.getEntry0(BaseData.java:114)
+2013-08-25 18:25:21,781 ERROR [Worker-46] - System.err - at org.eclipse.osgi.baseadaptor.BaseData.getEntry(BaseData.java:105)
+2013-08-25 18:25:21,781 ERROR [Worker-46] - System.err - at org.eclipse.osgi.baseadaptor.BaseAdaptor$4.getNextElement(BaseAdaptor.java:559)
+2013-08-25 18:25:21,781 ERROR [Worker-46] - System.err - at org.eclipse.osgi.baseadaptor.BaseAdaptor$4.nextElement(BaseAdaptor.java:546)
+2013-08-25 18:25:21,781 ERROR [Worker-46] - System.err - at org.eclipse.osgi.baseadaptor.BaseAdaptor$4.nextElement(BaseAdaptor.java:1)
+2013-08-25 18:25:21,781 ERROR [Worker-46] - System.err - at org.springframework.roo.support.osgi.OSGiUtils$2.execute(OSGiUtils.java:101)
+2013-08-25 18:25:21,781 ERROR [Worker-46] - System.err - at org.springframework.roo.support.osgi.OSGiUtils.execute(OSGiUtils.java:138)
+2013-08-25 18:25:21,781 ERROR [Worker-46] - System.err - at org.springframework.roo.support.osgi.OSGiUtils.findEntriesByPattern(OSGiUtils.java:95)
+2013-08-25 18:25:21,781 ERROR [Worker-46] - System.err - at org.springframework.roo.felix.pgp.PgpServiceImpl.trustDefaultKeys(PgpServiceImpl.java:98)
+2013-08-25 18:25:21,781 ERROR [Worker-46] - System.err - ... 9 more
+2013-08-25 18:30:38,930 ERROR [Worker-54] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@183da42c
+2013-08-25 18:30:38,930 ERROR [Worker-54] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@76e55122
+2013-08-25 18:30:38,930 ERROR [Worker-54] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4931cc29
+2013-08-25 18:30:38,930 ERROR [Worker-54] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6452bd49
+2013-08-25 18:30:38,930 ERROR [Worker-54] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@74093713
+2013-08-25 18:30:38,930 ERROR [Worker-54] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@8fefbe9
+2013-08-25 18:30:38,930 ERROR [Worker-54] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1c4c829c
+2013-08-25 18:30:38,931 ERROR [Worker-54] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6312de47
+2013-08-25 18:30:38,931 ERROR [Worker-54] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6bbf3a21
+2013-08-25 18:30:38,932 ERROR [Worker-54] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 9 Groovy:unexpected token: cli @ line 9, column 2.
+2013-08-25 18:30:38,932 ERROR [Worker-54] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 2.
+2013-08-25 18:30:38,946 ERROR [Worker-54] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 2.
+2013-08-25 18:30:38,946 ERROR [Worker-54] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 2.
+2013-08-25 18:30:38,946 ERROR [Worker-54] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 2.
+2013-08-25 18:30:38,946 ERROR [Worker-54] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 2.
+2013-08-25 18:30:38,946 ERROR [Worker-54] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 2.
+2013-08-25 18:30:38,946 ERROR [Worker-54] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:unexpected token: if @ line 17, column 2.
+2013-08-25 18:30:38,946 ERROR [Worker-54] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:expecting EOF, found 'if' @ line 17, column 2.
+2013-08-25 18:30:39,057 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1da47e91
+2013-08-25 18:30:39,058 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1a7170cb
+2013-08-25 18:30:39,058 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@da42cfd
+2013-08-25 18:30:39,058 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@15859d0a
+2013-08-25 18:30:39,058 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7709068f
+2013-08-25 18:30:39,058 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@718dd356
+2013-08-25 18:30:39,058 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@162ded58
+2013-08-25 18:30:39,058 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@213937c8
+2013-08-25 18:30:39,058 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@337d3c82
+2013-08-25 18:30:39,058 ERROR [Java indexing] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 9 Groovy:unexpected token: cli @ line 9, column 2.
+2013-08-25 18:30:39,058 ERROR [Java indexing] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 2.
+2013-08-25 18:30:39,098 ERROR [Java indexing] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 2.
+2013-08-25 18:30:39,098 ERROR [Java indexing] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 2.
+2013-08-25 18:30:39,098 ERROR [Java indexing] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 2.
+2013-08-25 18:30:39,098 ERROR [Java indexing] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 2.
+2013-08-25 18:30:39,098 ERROR [Java indexing] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 2.
+2013-08-25 18:30:39,098 ERROR [Java indexing] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:unexpected token: if @ line 17, column 2.
+2013-08-25 18:30:39,098 ERROR [Java indexing] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:expecting EOF, found 'if' @ line 17, column 2.
+2013-08-25 18:30:40,015 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1a051163
+2013-08-25 18:30:40,016 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@42b887ed
+2013-08-25 18:30:40,016 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@60e3fad3
+2013-08-25 18:30:40,016 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@17686457
+2013-08-25 18:30:40,016 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@469397c2
+2013-08-25 18:30:40,016 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3d065c1
+2013-08-25 18:30:40,016 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@66c863db
+2013-08-25 18:30:40,016 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6e13f394
+2013-08-25 18:30:40,016 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5fdcb201
+2013-08-25 18:30:40,017 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 9 Groovy:unexpected token: cli @ line 9, column 2.
+2013-08-25 18:30:40,017 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 2.
+2013-08-25 18:30:40,017 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 2.
+2013-08-25 18:30:40,017 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 2.
+2013-08-25 18:30:40,018 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 2.
+2013-08-25 18:30:40,018 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 2.
+2013-08-25 18:30:40,018 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 2.
+2013-08-25 18:30:40,018 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:unexpected token: if @ line 17, column 2.
+2013-08-25 18:30:40,018 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:expecting EOF, found 'if' @ line 17, column 2.

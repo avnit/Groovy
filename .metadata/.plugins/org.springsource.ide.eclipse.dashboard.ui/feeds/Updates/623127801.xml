@@ -63,19 +63,18 @@
 		</item>
 
 		<item>
-			<title>Cloud Foundry Integration for Eclipse 1.4.0 released</title>
+			<title>Cloud Foundry Integration for Eclipse 1.5.0 released</title>
 			<link>http://www.cloudfoundry.com</link>
-            <description><![CDATA[<form><p><a href="http://springsource.org">SpringSource</a> has released version 1.4.0 of the Eclipse integration for VMware<a href="http://www.cloudfoundry.com">Cloud Foundry</a>, including support for Micro Cloud Foundry, incremental update performance improvements and debugging support for Java/Spring applications running on Micro Cloud Foundry, using tunnels to services directly from within your IDE, and the new support for standalone applications, and improved support for tunneling to services.</p>
-						<p>Cloud Foundry is the industry's first open platform as a service. Run your Spring, Rails and Node.js applications. Deploy from your IDE or command line.</p>
-						<li bindent="3"><a href="http://docs.cloudfoundry.com/tools/STS/sts-eclipse.html">Getting Started with Eclipse/STS and Cloud Foundry</a></li>
+            <description><![CDATA[<form><p><a href="http://www.gopivotal.com">Pivotal</a> has released version 1.5.0 of the Cloud Foundry Integration for Eclipse, which now supports pushing applications to Pivotal CF organizations and spaces. V2 services can be created, bound and unbound, and applications incrementally updated from within your IDE. V1 support, including micro and local Cloud Foundry, has been discontinued.</p>
+						<li bindent="3"><a href="http://docs.cloudfoundry.com/docs/using/managing-apps/ide/sts.html">Getting Started with Eclipse/STS and Cloud Foundry</a></li>
 						<li bindent="3"><a href="https://github.com/SpringSource/eclipse-integration-cloudfoundry">Cloud Foundry Integration for Eclipse at GitHub</a></li>
-						<li bindent="3"><a href="http://start.cloudfoundry.com/getting-started.html">Getting Started with Cloud Foundry</a></li>
-						<li bindent="3"><a href="http://forum.springsource.org/forumdisplay.php?f=32">Community support forum</a></li><p></p></form>]]></description>
-			<pubDate>Mon, 25 Feb 2013 10:38:33 +0100</pubDate>
+						<li bindent="3"><a href="http://docs.cloudfoundry.com/">Get Started with Cloud Foundry</a></li>
+						<li bindent="3"><a href="https://groups.google.com/a/cloudfoundry.org/forum/?fromgroups#!forum/vcap-dev">Community support forum</a></li><p></p></form>]]></description>
+			<pubDate>Wed, 14 Aug 2013 10:38:33 +0100</pubDate>
 <!--			<category>version=2.9.0</category> -->
-<!--			<category>severity=important</category> -->
+			<category>severity=important</category>
 			<category>bundle=!org.cloudfoundry.ide.eclipse.feature.group</category>
-			<guid isPermaLink="false">cloud-foundry-integration-140-released</guid>
+			<guid isPermaLink="false">cloud-foundry-integration-150-released</guid>
 		</item>
 <!--
 		<item>
