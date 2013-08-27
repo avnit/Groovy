@@ -1,0 +1,22 @@
+OPTIONS
+1. Control structure 
+	A. Logical Branching 
+	B. Looping 
+	C. Returning Values from if-else and try-catch block
+2. Operators
+	A. Operator Overloading
+3. Bitwise Operator 
+4. Scripts and Classes
+5. Statement
+	A. Externded Guide to Method Signatures
+6. Reserved Words 
+7. Strings and GString 
+8. Clousers
+	A. Clousers - Formal Defination
+	B. Clousers - Informal Guide
+9. Builders 
+	A. How Bulders Work 
+	B. FactoryBuilderSupport
+	C. The @Delegares To annotation
+
+
