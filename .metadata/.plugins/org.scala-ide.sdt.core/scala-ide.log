@@ -1471,3 +1471,849 @@
 2013-08-25 18:30:40,018 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 2.
 2013-08-25 18:30:40,018 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:unexpected token: if @ line 17, column 2.
 2013-08-25 18:30:40,018 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:expecting EOF, found 'if' @ line 17, column 2.
+2013-08-25 18:40:08,345 ERROR [Worker-5] - System.err - log4j:WARN No appenders could be found for logger (org.springframework.core.env.StandardEnvironment).
+2013-08-25 18:40:08,346 ERROR [Worker-5] - System.err - log4j:WARN Please initialize the log4j system properly.
+2013-08-25 18:40:08,346 ERROR [Worker-5] - System.err - log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+2013-08-25 18:40:20,948 ERROR [Worker-5] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@347eb067
+2013-08-25 18:40:20,949 ERROR [Worker-5] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@696f551d
+2013-08-25 18:40:20,949 ERROR [Worker-5] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@c3d18ff
+2013-08-25 18:40:20,949 ERROR [Worker-5] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7f34139f
+2013-08-25 18:40:20,949 ERROR [Worker-5] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@33f46cf7
+2013-08-25 18:40:20,949 ERROR [Worker-5] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@741de6c6
+2013-08-25 18:40:20,949 ERROR [Worker-5] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@571a0cb8
+2013-08-25 18:40:20,949 ERROR [Worker-5] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6f3930b4
+2013-08-25 18:40:20,959 ERROR [Worker-5] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@13acb278
+2013-08-25 18:40:20,961 ERROR [Worker-5] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 9 Groovy:unexpected token: cli @ line 9, column 2.
+2013-08-25 18:40:20,962 ERROR [Worker-5] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 2.
+2013-08-25 18:40:20,962 ERROR [Worker-5] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 2.
+2013-08-25 18:40:20,962 ERROR [Worker-5] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 2.
+2013-08-25 18:40:20,962 ERROR [Worker-5] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 2.
+2013-08-25 18:40:20,962 ERROR [Worker-5] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 2.
+2013-08-25 18:40:20,962 ERROR [Worker-5] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 2.
+2013-08-25 18:40:20,962 ERROR [Worker-5] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:unexpected token: if @ line 17, column 2.
+2013-08-25 18:40:20,962 ERROR [Worker-5] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:expecting EOF, found 'if' @ line 17, column 2.
+2013-08-25 18:40:35,694 ERROR [Worker-4] - System.err - Error Loading DDMS Preferences
+2013-08-25 18:40:45,353 ERROR [Worker-5] - System.err - log4j:WARN No appenders could be found for logger (org.springframework.core.env.StandardEnvironment).
+2013-08-25 18:40:45,353 ERROR [Worker-5] - System.err - log4j:WARN Please initialize the log4j system properly.
+2013-08-25 18:40:45,353 ERROR [Worker-5] - System.err - log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+2013-08-25 18:41:26,706 ERROR [Worker-7] - System.err - java.lang.reflect.InvocationTargetException
+2013-08-25 18:41:26,706 ERROR [Worker-7] - System.err - at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-08-25 18:41:26,706 ERROR [Worker-7] - System.err - at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+2013-08-25 18:41:26,706 ERROR [Worker-7] - System.err - at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+2013-08-25 18:41:26,706 ERROR [Worker-7] - System.err - at java.lang.reflect.Method.invoke(Method.java:597)
+2013-08-25 18:41:26,706 ERROR [Worker-7] - System.err - at org.springframework.ide.eclipse.roo.core.RooCoreActivator.invokeMethod(RooCoreActivator.java:100)
+2013-08-25 18:41:26,706 ERROR [Worker-7] - System.err - at org.springframework.ide.eclipse.roo.core.RooCoreActivator.registerHttpPgpUrlHandler(RooCoreActivator.java:127)
+2013-08-25 18:41:26,706 ERROR [Worker-7] - System.err - at org.springframework.ide.eclipse.roo.core.RooCoreActivator.access$0(RooCoreActivator.java:107)
+2013-08-25 18:41:26,706 ERROR [Worker-7] - System.err - at org.springframework.ide.eclipse.roo.core.RooCoreActivator$1.run(RooCoreActivator.java:78)
+2013-08-25 18:41:26,706 ERROR [Worker-7] - System.err - at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+2013-08-25 18:41:26,707 ERROR [Worker-7] - System.err - Caused by: java.lang.NullPointerException
+2013-08-25 18:41:26,707 ERROR [Worker-7] - System.err - at org.eclipse.equinox.weaving.adaptors.WeavingAdaptorFactory.getHost(WeavingAdaptorFactory.java:102)
+2013-08-25 18:41:26,707 ERROR [Worker-7] - System.err - at org.eclipse.equinox.weaving.hooks.WeavingHook.getHostBundleAdaptor(WeavingHook.java:78)
+2013-08-25 18:41:26,707 ERROR [Worker-7] - System.err - at org.eclipse.equinox.weaving.hooks.BundleAdaptorProvider.getAdaptor(BundleAdaptorProvider.java:32)
+2013-08-25 18:41:26,707 ERROR [Worker-7] - System.err - at org.eclipse.equinox.weaving.hooks.AbstractWeavingBundleFile.getAdaptor(AbstractWeavingBundleFile.java:58)
+2013-08-25 18:41:26,707 ERROR [Worker-7] - System.err - at org.eclipse.equinox.weaving.hooks.WeavingBundleFile.getEntry(WeavingBundleFile.java:61)
+2013-08-25 18:41:26,707 ERROR [Worker-7] - System.err - at org.eclipse.osgi.baseadaptor.bundlefile.BundleFileWrapperChain.getEntry(BundleFileWrapperChain.java:43)
+2013-08-25 18:41:26,707 ERROR [Worker-7] - System.err - at org.eclipse.osgi.baseadaptor.BaseData.getEntry0(BaseData.java:114)
+2013-08-25 18:41:26,707 ERROR [Worker-7] - System.err - at org.eclipse.osgi.baseadaptor.BaseData.getEntry(BaseData.java:105)
+2013-08-25 18:41:26,707 ERROR [Worker-7] - System.err - at org.eclipse.osgi.baseadaptor.BaseAdaptor$4.getNextElement(BaseAdaptor.java:559)
+2013-08-25 18:41:26,708 ERROR [Worker-7] - System.err - at org.eclipse.osgi.baseadaptor.BaseAdaptor$4.nextElement(BaseAdaptor.java:546)
+2013-08-25 18:41:26,708 ERROR [Worker-7] - System.err - at org.eclipse.osgi.baseadaptor.BaseAdaptor$4.nextElement(BaseAdaptor.java:1)
+2013-08-25 18:41:26,708 ERROR [Worker-7] - System.err - at org.springframework.roo.support.osgi.OSGiUtils$2.execute(OSGiUtils.java:101)
+2013-08-25 18:41:26,708 ERROR [Worker-7] - System.err - at org.springframework.roo.support.osgi.OSGiUtils.execute(OSGiUtils.java:138)
+2013-08-25 18:41:26,708 ERROR [Worker-7] - System.err - at org.springframework.roo.support.osgi.OSGiUtils.findEntriesByPattern(OSGiUtils.java:95)
+2013-08-25 18:41:26,708 ERROR [Worker-7] - System.err - at org.springframework.roo.felix.pgp.PgpServiceImpl.trustDefaultKeys(PgpServiceImpl.java:98)
+2013-08-25 18:41:26,708 ERROR [Worker-7] - System.err - ... 9 more
+2013-08-26 18:48:41,727 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3c8af4d2
+2013-08-26 18:48:41,728 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@219ade58
+2013-08-26 18:48:41,728 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3e7b74a4
+2013-08-26 18:48:41,728 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1b26db08
+2013-08-26 18:48:41,729 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@13f5f825
+2013-08-26 18:48:41,731 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 56 Groovy:expecting '(', found '<newline>' @ line 56, column 7.
+2013-08-26 18:48:41,731 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 58 Groovy:unexpected token: println @ line 58, column 4.
+2013-08-26 18:48:41,731 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 59 Groovy:unexpected token: j @ line 59, column 4.
+2013-08-26 18:48:41,732 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 67 Groovy:unexpected token: } @ line 67, column 2.
+2013-08-26 18:48:41,732 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 13 Groovy:Invalid duplicate class definition of class RunStartUp : The source /Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy contains at least two definitions of the class RunStartUp.
+2013-08-26 18:48:41,755 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4b6efd33
+2013-08-26 18:48:41,755 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@63b145f5
+2013-08-26 18:48:41,756 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@b680af5
+2013-08-26 18:48:41,756 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5ba760ac
+2013-08-26 18:48:41,756 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@49bbeb36
+2013-08-26 18:48:41,820 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 56 Groovy:unexpected token: ) @ line 56, column 8.
+2013-08-26 18:48:41,821 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 58 Groovy:unexpected token: println @ line 58, column 4.
+2013-08-26 18:48:41,821 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 59 Groovy:unexpected token: j @ line 59, column 4.
+2013-08-26 18:48:41,821 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 67 Groovy:unexpected token: } @ line 67, column 2.
+2013-08-26 18:48:41,821 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 13 Groovy:Invalid duplicate class definition of class RunStartUp : The source /Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy contains at least two definitions of the class RunStartUp.
+2013-08-26 18:48:42,883 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@10070863
+2013-08-26 18:48:42,883 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3db7a3cd
+2013-08-26 18:48:42,883 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@63630762
+2013-08-26 18:48:42,883 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7a79e5e7
+2013-08-26 18:48:42,884 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@58e4df82
+2013-08-26 18:48:42,884 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 56 Groovy:unexpected token: ) @ line 56, column 8.
+2013-08-26 18:48:42,884 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 58 Groovy:unexpected token: println @ line 58, column 4.
+2013-08-26 18:48:42,884 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 59 Groovy:unexpected token: j @ line 59, column 4.
+2013-08-26 18:48:42,884 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 67 Groovy:unexpected token: } @ line 67, column 2.
+2013-08-26 18:48:42,884 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 13 Groovy:Invalid duplicate class definition of class RunStartUp : The source /Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy contains at least two definitions of the class RunStartUp.
+2013-08-26 18:48:44,553 ERROR [Worker-29] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@49d82f27
+2013-08-26 18:48:44,554 ERROR [Worker-29] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@582b89e8
+2013-08-26 18:48:44,554 ERROR [Worker-29] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@126b0b91
+2013-08-26 18:48:44,554 ERROR [Worker-29] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@31c46609
+2013-08-26 18:48:44,555 ERROR [Worker-29] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5506f265
+2013-08-26 18:48:44,555 ERROR [Worker-29] - System.err - /gs/src/RunStartUp.groovy: 56 Groovy:unexpected token: ) @ line 56, column 8.
+2013-08-26 18:48:44,555 ERROR [Worker-29] - System.err - /gs/src/RunStartUp.groovy: 58 Groovy:unexpected token: println @ line 58, column 4.
+2013-08-26 18:48:44,555 ERROR [Worker-29] - System.err - /gs/src/RunStartUp.groovy: 59 Groovy:unexpected token: j @ line 59, column 4.
+2013-08-26 18:48:44,555 ERROR [Worker-29] - System.err - /gs/src/RunStartUp.groovy: 67 Groovy:unexpected token: } @ line 67, column 2.
+2013-08-26 18:48:44,556 ERROR [Worker-29] - System.err - /gs/src/RunStartUp.groovy: 13 Groovy:Invalid duplicate class definition of class RunStartUp : The source /Users/avnit/git/googleSearch/gs/src/RunStartUp.groovy contains at least two definitions of the class RunStartUp.
+2013-08-26 19:42:36,839 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@47050cf3
+2013-08-26 19:42:36,855 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1c9549f2
+2013-08-26 19:42:36,855 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@d29bd87
+2013-08-26 19:42:36,856 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 58 Groovy:expecting '}', found 'println' @ line 58, column 4.
+2013-08-26 19:42:36,856 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 61 Groovy:unexpected token: for @ line 61, column 3.
+2013-08-26 19:42:36,856 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 61 Groovy:expecting EOF, found 'for' @ line 61, column 3.
+2013-08-26 19:42:37,979 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@529d8124
+2013-08-26 19:42:37,979 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@62898cdb
+2013-08-26 19:42:37,979 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@347eb067
+2013-08-26 19:42:37,980 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 58 Groovy:expecting '}', found 'FINISHED DATA LOADING >>>>>>>>TEXTING <<<<<<<<<<<' @ line 58, column 12.
+2013-08-26 19:42:37,980 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 61 Groovy:unexpected token: for @ line 61, column 3.
+2013-08-26 19:42:37,980 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 61 Groovy:expecting EOF, found 'for' @ line 61, column 3.
+2013-08-26 19:45:46,431 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@283afcc2
+2013-08-26 19:45:46,446 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@38a83930
+2013-08-26 19:45:46,446 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 60 Groovy:unexpected token: } @ line 60, column 3.
+2013-08-26 19:45:46,447 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 65 Groovy:unexpected token: } @ line 65, column 1.
+2013-08-26 19:45:47,496 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@10b37095
+2013-08-26 19:45:47,496 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@74a44ec3
+2013-08-26 19:45:47,497 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 57 Groovy:unexpected token:  @ line 57, column 18.
+2013-08-26 19:45:47,497 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 65 Groovy:unexpected token: } @ line 65, column 1.
+2013-08-26 19:46:20,850 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@10816b21
+2013-08-26 19:46:20,851 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 54 Groovy:Apparent variable 're' was found in a static scope but doesn't refer to a local variable, static field or class. Possible causes:
+2013-08-26 19:47:29,702 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7582a7b5
+2013-08-26 19:47:29,702 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/RunStartUp.groovy: 55 Groovy:expecting anything but ''\n''; got it anyway @ line 55, column 34.
+2013-11-08 22:53:25,995 ERROR [Worker-7] - System.err - log4j:WARN No appenders could be found for logger (org.springframework.core.env.StandardEnvironment).
+2013-11-08 22:53:26,032 ERROR [Worker-7] - System.err - log4j:WARN Please initialize the log4j system properly.
+2013-11-08 22:53:26,032 ERROR [Worker-7] - System.err - log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+2013-11-08 22:53:36,243 ERROR [Worker-7] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@337bf6ba
+2013-11-08 22:53:36,243 ERROR [Worker-7] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@f8347be
+2013-11-08 22:53:36,243 ERROR [Worker-7] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@73db12e6
+2013-11-08 22:53:36,243 ERROR [Worker-7] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@33b5f576
+2013-11-08 22:53:36,243 ERROR [Worker-7] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6f06307f
+2013-11-08 22:53:36,243 ERROR [Worker-7] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7f5a1aca
+2013-11-08 22:53:36,243 ERROR [Worker-7] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@74950517
+2013-11-08 22:53:36,243 ERROR [Worker-7] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@638164cc
+2013-11-08 22:53:36,244 ERROR [Worker-7] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4400c01d
+2013-11-08 22:53:36,269 ERROR [Worker-7] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 9 Groovy:unexpected token: cli @ line 9, column 2.
+2013-11-08 22:53:36,269 ERROR [Worker-7] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 2.
+2013-11-08 22:53:36,269 ERROR [Worker-7] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 2.
+2013-11-08 22:53:36,269 ERROR [Worker-7] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 2.
+2013-11-08 22:53:36,269 ERROR [Worker-7] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 2.
+2013-11-08 22:53:36,269 ERROR [Worker-7] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 2.
+2013-11-08 22:53:36,269 ERROR [Worker-7] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 2.
+2013-11-08 22:53:36,269 ERROR [Worker-7] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:unexpected token: if @ line 17, column 2.
+2013-11-08 22:53:36,270 ERROR [Worker-7] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:expecting EOF, found 'if' @ line 17, column 2.
+2013-11-08 22:53:56,308 ERROR [Worker-7] - System.err - log4j:WARN No appenders could be found for logger (org.springframework.core.env.StandardEnvironment).
+2013-11-08 22:53:56,308 ERROR [Worker-7] - System.err - log4j:WARN Please initialize the log4j system properly.
+2013-11-08 22:53:56,308 ERROR [Worker-7] - System.err - log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+2013-11-09 11:04:35,446 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6e6bde40
+2013-11-09 11:04:35,463 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@45f1be44
+2013-11-09 11:04:35,463 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@202863c
+2013-11-09 11:04:35,463 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@73bace2b
+2013-11-09 11:04:35,463 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6d35a468
+2013-11-09 11:04:35,463 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5cbcdfdb
+2013-11-09 11:04:35,463 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@740cd26d
+2013-11-09 11:04:35,463 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@75cb2da0
+2013-11-09 11:04:35,463 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6e209fca
+2013-11-09 11:04:35,485 ERROR [main] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 9 Groovy:unexpected token: cli @ line 9, column 2.
+2013-11-09 11:04:35,485 ERROR [main] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 2.
+2013-11-09 11:04:35,485 ERROR [main] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 2.
+2013-11-09 11:04:35,485 ERROR [main] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 2.
+2013-11-09 11:04:35,485 ERROR [main] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 2.
+2013-11-09 11:04:35,485 ERROR [main] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 2.
+2013-11-09 11:04:35,485 ERROR [main] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 2.
+2013-11-09 11:04:35,486 ERROR [main] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:unexpected token: if @ line 17, column 2.
+2013-11-09 11:04:35,486 ERROR [main] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:expecting EOF, found 'if' @ line 17, column 2.
+2013-11-09 11:04:36,370 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7186e848
+2013-11-09 11:04:36,373 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@277ec7b9
+2013-11-09 11:04:36,373 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@746a56f0
+2013-11-09 11:04:36,373 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7171e245
+2013-11-09 11:04:36,374 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6bbe5a32
+2013-11-09 11:04:36,374 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1e13bfe1
+2013-11-09 11:04:36,374 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@229a5c34
+2013-11-09 11:04:36,374 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@441b6bab
+2013-11-09 11:04:36,374 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6439ca7b
+2013-11-09 11:04:36,374 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 9 Groovy:unexpected token: cli @ line 9, column 2.
+2013-11-09 11:04:36,374 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 2.
+2013-11-09 11:04:36,375 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 2.
+2013-11-09 11:04:36,375 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 2.
+2013-11-09 11:04:36,375 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 2.
+2013-11-09 11:04:36,375 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 2.
+2013-11-09 11:04:36,375 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 2.
+2013-11-09 11:04:36,375 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:unexpected token: if @ line 17, column 2.
+2013-11-09 11:04:36,375 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:expecting EOF, found 'if' @ line 17, column 2.
+2013-11-09 15:51:16,614 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@34a50a81
+2013-11-09 15:51:16,631 ERROR [main] - System.err - /gs/build.gradle: 1 Groovy:expecting EOF, found ':' @ line 1, column 13.
+2013-11-09 15:51:29,332 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@328f3a4b
+2013-11-09 15:51:29,333 ERROR [main] - System.err - /gs/build.gradle: 2 Groovy:expecting EOF, found ':' @ line 2, column 13.
+2013-11-09 16:19:48,664 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@63d7c62b
+2013-11-09 16:19:49,002 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6b136442
+2013-11-09 16:19:49,003 ERROR [main] - System.err - /gs/build.gradle: 14 Groovy:expecting EOF, found ':' @ line 14, column 11.
+2013-11-09 16:19:49,003 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/build.gradle: 14 Groovy:expecting EOF, found ':' @ line 14, column 11.
+2013-11-09 16:19:55,296 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4f45273
+2013-11-09 16:19:55,297 ERROR [main] - System.err - /gs/build.gradle: 14 Groovy:expecting EOF, found ':' @ line 14, column 12.
+2013-11-09 16:19:55,557 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@76e903c1
+2013-11-09 16:19:55,557 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/build.gradle: 14 Groovy:expecting EOF, found ':' @ line 14, column 12.
+2013-11-09 16:26:04,093 ERROR [Worker-67] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5aaf2690
+2013-11-09 16:26:04,105 ERROR [Worker-67] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@61d5edda
+2013-11-09 16:26:04,105 ERROR [Worker-67] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 16:26:04,105 ERROR [Worker-67] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 47.
+2013-11-09 16:26:04,245 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@24af5c74
+2013-11-09 16:26:04,245 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@74ded67c
+2013-11-09 16:26:04,245 ERROR [Java indexing] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 16:26:04,245 ERROR [Java indexing] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 47.
+2013-11-09 16:26:04,348 ERROR [Worker-62] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@41f4a67e
+2013-11-09 16:26:04,348 ERROR [Worker-62] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@24debc06
+2013-11-09 16:26:04,348 ERROR [Worker-62] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 16:26:04,349 ERROR [Worker-62] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 47.
+2013-11-09 16:26:55,841 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@44b55b7
+2013-11-09 16:26:55,865 ERROR [main] - System.err - /gs/build.gradle: 22 Groovy:unexpected token: ] @ line 22, column 3.
+2013-11-09 16:26:56,134 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@422f3a2c
+2013-11-09 16:26:56,134 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/build.gradle: 22 Groovy:unexpected token: ] @ line 22, column 3.
+2013-11-09 16:27:33,285 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6dfff19a
+2013-11-09 16:27:33,286 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/build.gradle: 21 Groovy:expecting EOF, found ':' @ line 21, column 10.
+2013-11-09 16:27:34,694 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5e9adbb8
+2013-11-09 16:27:34,695 ERROR [main] - System.err - /gs/build.gradle: 25 Groovy:expecting '*', found '<EOF>' @ line 25, column 1.
+2013-11-09 16:27:34,806 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1391ac7b
+2013-11-09 16:27:34,806 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/build.gradle: 25 Groovy:expecting '*', found '<EOF>' @ line 25, column 1.
+2013-11-09 16:27:41,841 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@bda23fa
+2013-11-09 16:27:41,842 ERROR [main] - System.err - /gs/build.gradle: 23 Groovy:unexpected token: * @ line 23, column 1.
+2013-11-09 16:27:41,856 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2ea6598
+2013-11-09 16:27:41,856 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/build.gradle: 23 Groovy:unexpected token: * @ line 23, column 1.
+2013-11-09 16:32:12,296 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@182969a2
+2013-11-09 16:32:12,296 ERROR [main] - System.err - /gs/build.gradle: 16 Groovy:unexpected token: ... @ line 16, column 18.
+2013-11-09 16:32:12,941 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5b1aaec3
+2013-11-09 16:32:12,942 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/build.gradle: 16 Groovy:unexpected token: ... @ line 16, column 18.
+2013-11-09 16:32:18,799 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7b9328d5
+2013-11-09 16:32:18,800 ERROR [main] - System.err - /gs/build.gradle: 17 Groovy:unexpected token: } @ line 17, column 3.
+2013-11-09 16:32:18,970 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@df9f4c3
+2013-11-09 16:32:18,971 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/build.gradle: 17 Groovy:unexpected token: } @ line 17, column 3.
+2013-11-09 16:32:20,493 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3383544b
+2013-11-09 16:32:20,494 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/build.gradle: 17 Groovy:unexpected token: } @ line 17, column 3.
+2013-11-09 16:32:32,614 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4c8723cf
+2013-11-09 16:32:32,615 ERROR [main] - System.err - /gs/build.gradle: 17 Groovy:unexpected token: } @ line 17, column 3.
+2013-11-09 16:32:33,574 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@98f3f1d
+2013-11-09 16:32:33,575 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/build.gradle: 17 Groovy:unexpected token: } @ line 17, column 3.
+2013-11-09 16:38:23,236 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2fdf5485
+2013-11-09 16:38:23,778 ERROR [main] - System.err - /gs/build.gradle: 38 Groovy:expecting '}', found '' @ line 38, column 1.
+2013-11-09 16:38:34,168 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@272c0055
+2013-11-09 16:38:34,169 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/build.gradle: 40 Groovy:expecting '}', found '' @ line 40, column 1.
+2013-11-09 16:38:40,995 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@30fcf45d
+2013-11-09 16:38:40,995 ERROR [main] - System.err - /gs/build.gradle: 13 Groovy:unexpected token: } @ line 13, column 2.
+2013-11-09 16:38:41,742 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2e5e71ed
+2013-11-09 16:38:41,743 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/build.gradle: 13 Groovy:unexpected token: } @ line 13, column 2.
+2013-11-09 16:38:50,149 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6a57c0ef
+2013-11-09 16:38:50,150 ERROR [main] - System.err - /gs/build.gradle: 13 Groovy:unexpected token: } @ line 13, column 2.
+2013-11-09 16:41:20,324 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@22d76fd1
+2013-11-09 16:41:20,656 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6dee1435
+2013-11-09 16:41:20,657 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/build.gradle: 14 Groovy:unexpected token: } @ line 14, column 1.
+2013-11-09 16:41:20,657 ERROR [main] - System.err - /gs/build.gradle: 14 Groovy:unexpected token: } @ line 14, column 1.
+2013-11-09 21:13:29,653 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@36033d7
+2013-11-09 21:13:29,669 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@20eb69fc
+2013-11-09 21:13:29,669 ERROR [main] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:13:29,669 ERROR [main] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 47.
+2013-11-09 21:13:30,556 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@34e8715c
+2013-11-09 21:13:30,556 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@86a6a27
+2013-11-09 21:13:30,556 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:13:30,557 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 47.
+2013-11-09 21:14:09,549 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1383bddb
+2013-11-09 21:14:09,549 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2e257edf
+2013-11-09 21:14:09,550 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:14:09,550 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 45.
+2013-11-09 21:14:09,561 ERROR [Worker-106] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2125ac0e
+2013-11-09 21:14:09,562 ERROR [Worker-106] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3042dc22
+2013-11-09 21:14:09,562 ERROR [Worker-106] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:14:09,562 ERROR [Worker-106] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 45.
+2013-11-09 21:14:11,354 ERROR [Worker-106] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@34f8c21b
+2013-11-09 21:14:11,354 ERROR [Worker-106] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@378f95c8
+2013-11-09 21:14:11,354 ERROR [Worker-106] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:14:11,354 ERROR [Worker-106] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 38.
+2013-11-09 21:14:11,364 ERROR [Worker-106] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7e5a884a
+2013-11-09 21:14:11,364 ERROR [Worker-106] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@69a9f314
+2013-11-09 21:14:11,364 ERROR [Worker-106] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:14:11,365 ERROR [Worker-106] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 38.
+2013-11-09 21:14:16,009 ERROR [Worker-106] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@30a5e0b9
+2013-11-09 21:14:16,009 ERROR [Worker-106] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5a44aaa2
+2013-11-09 21:14:16,010 ERROR [Worker-106] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:14:16,010 ERROR [Worker-106] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:14:16,074 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@65fef81a
+2013-11-09 21:14:16,074 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4652a746
+2013-11-09 21:14:16,075 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:14:16,075 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:14:33,622 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@d82ea1e
+2013-11-09 21:14:33,622 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@dd85e80
+2013-11-09 21:14:33,622 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:14:33,622 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:14:33,633 ERROR [Worker-106] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@18c5ca99
+2013-11-09 21:14:33,634 ERROR [Worker-106] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@61780f83
+2013-11-09 21:14:33,634 ERROR [Worker-106] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:14:33,634 ERROR [Worker-106] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:14:38,145 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@282cab3
+2013-11-09 21:14:38,145 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@58c9af0e
+2013-11-09 21:14:38,145 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:14:38,145 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:14:38,158 ERROR [Worker-112] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7bc979dd
+2013-11-09 21:14:38,158 ERROR [Worker-112] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@685fdba8
+2013-11-09 21:14:38,158 ERROR [Worker-112] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:14:38,158 ERROR [Worker-112] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:14:44,680 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4c4b63b9
+2013-11-09 21:14:44,680 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@69802dd0
+2013-11-09 21:14:44,681 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 24 Groovy:unexpected token: def logWarningToday = log.ncurry('warning' , today )
+2013-11-09 21:14:44,681 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 24 Groovy:expecting EOF, found 'def logWarningToday = log.ncurry('warning' , today )
+2013-11-09 21:14:44,710 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@c9abcef
+2013-11-09 21:14:44,729 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2e9f560
+2013-11-09 21:14:44,729 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4dec731e
+2013-11-09 21:14:44,729 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5e79de89
+2013-11-09 21:14:44,730 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@130124d4
+2013-11-09 21:14:44,731 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:14:44,731 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:14:44,731 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:14:44,732 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:14:44,732 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:14:44,733 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@63629237
+2013-11-09 21:14:44,733 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 20 Groovy:The field 'logWarningToday' is declared multiple times.
+2013-11-09 21:14:44,760 ERROR [Worker-96] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@405ca38a
+2013-11-09 21:14:44,760 ERROR [Worker-96] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1f4da09
+2013-11-09 21:14:44,761 ERROR [Worker-96] - System.err - /gs/src/test.groovy: 24 Groovy:unexpected token: def logWarningToday = log.ncurry('warning' , today )
+2013-11-09 21:14:44,761 ERROR [Worker-96] - System.err - /gs/src/test.groovy: 24 Groovy:expecting EOF, found 'def logWarningToday = log.ncurry('warning' , today )
+2013-11-09 21:14:44,766 ERROR [Worker-96] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@74fbf167
+2013-11-09 21:14:44,767 ERROR [Worker-96] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@48a5dd31
+2013-11-09 21:14:44,767 ERROR [Worker-96] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@15ce13a
+2013-11-09 21:14:44,767 ERROR [Worker-96] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@78c6a788
+2013-11-09 21:14:44,768 ERROR [Worker-96] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3a210faa
+2013-11-09 21:14:44,769 ERROR [Worker-96] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:14:44,769 ERROR [Worker-96] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:14:44,769 ERROR [Worker-96] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:14:44,769 ERROR [Worker-96] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:14:44,769 ERROR [Worker-96] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:14:44,770 ERROR [Worker-96] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@13e15925
+2013-11-09 21:14:44,770 ERROR [Worker-96] - System.err - /gs/src/test.groovy: 20 Groovy:The field 'logWarningToday' is declared multiple times.
+2013-11-09 21:14:45,777 ERROR [Worker-109] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@508736ba
+2013-11-09 21:14:45,778 ERROR [Worker-109] - System.err - /gs/src/test.groovy: 33 Groovy:expecting '*', found '<EOF>' @ line 33, column 1.
+2013-11-09 21:14:45,790 ERROR [Worker-109] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2c561044
+2013-11-09 21:14:45,790 ERROR [Worker-109] - System.err - /gs/src/test.groovy: 33 Groovy:expecting '*', found '<EOF>' @ line 33, column 1.
+2013-11-09 21:14:46,060 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@321ced51
+2013-11-09 21:14:46,060 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 33 Groovy:expecting '*', found '<EOF>' @ line 33, column 1.
+2013-11-09 21:14:47,082 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@47ffd910
+2013-11-09 21:14:47,082 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6e03ce5d
+2013-11-09 21:14:47,082 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:14:47,082 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:14:47,199 ERROR [Worker-96] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@576761b5
+2013-11-09 21:14:47,199 ERROR [Worker-96] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@443fdee7
+2013-11-09 21:14:47,199 ERROR [Worker-96] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:14:47,199 ERROR [Worker-96] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:14:48,862 ERROR [Worker-96] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@626bc2b8
+2013-11-09 21:14:48,862 ERROR [Worker-96] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@10bcf083
+2013-11-09 21:14:48,862 ERROR [Worker-96] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:14:48,863 ERROR [Worker-96] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:14:48,872 ERROR [Worker-96] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@727721e6
+2013-11-09 21:14:48,872 ERROR [Worker-96] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6b52bdbf
+2013-11-09 21:14:48,873 ERROR [Worker-96] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:14:48,873 ERROR [Worker-96] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:14:49,118 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@137a9c67
+2013-11-09 21:14:49,118 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@56b2382e
+2013-11-09 21:14:49,119 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:14:49,119 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:14:53,142 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@23ca4f4f
+2013-11-09 21:14:53,142 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@371cdde4
+2013-11-09 21:14:53,142 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:14:53,142 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:14:53,296 ERROR [Worker-98] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3cb28903
+2013-11-09 21:14:53,296 ERROR [Worker-98] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6d414316
+2013-11-09 21:14:53,296 ERROR [Worker-98] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:14:53,296 ERROR [Worker-98] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:15:01,677 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@55156f9
+2013-11-09 21:15:01,677 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1f24f829
+2013-11-09 21:15:01,677 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@34205bb8
+2013-11-09 21:15:01,677 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 25 Groovy:unexpected token: logWarningToday @ line 25, column 2.
+2013-11-09 21:15:01,677 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:15:01,678 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:15:01,689 ERROR [Worker-111] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@301a89bf
+2013-11-09 21:15:01,689 ERROR [Worker-111] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1e497345
+2013-11-09 21:15:01,689 ERROR [Worker-111] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@682ec68b
+2013-11-09 21:15:01,689 ERROR [Worker-111] - System.err - /gs/src/test.groovy: 25 Groovy:unexpected token: logWarningToday @ line 25, column 2.
+2013-11-09 21:15:01,689 ERROR [Worker-111] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:15:01,689 ERROR [Worker-111] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:15:08,706 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@54d647f5
+2013-11-09 21:15:08,706 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@400e5156
+2013-11-09 21:15:08,706 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6bfe05f4
+2013-11-09 21:15:08,707 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 25 Groovy:unexpected token: logWarningToday @ line 25, column 2.
+2013-11-09 21:15:08,707 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:15:08,707 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:15:08,724 ERROR [Worker-108] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@688c7838
+2013-11-09 21:15:08,724 ERROR [Worker-108] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5e28da27
+2013-11-09 21:15:08,724 ERROR [Worker-108] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4c0a66bc
+2013-11-09 21:15:08,724 ERROR [Worker-108] - System.err - /gs/src/test.groovy: 25 Groovy:unexpected token: logWarningToday @ line 25, column 2.
+2013-11-09 21:15:08,725 ERROR [Worker-108] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:15:08,725 ERROR [Worker-108] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:15:14,258 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@591287f8
+2013-11-09 21:15:14,258 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4f9cd877
+2013-11-09 21:15:14,258 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@42479576
+2013-11-09 21:15:14,258 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 25 Groovy:unexpected token: logWarningToday @ line 25, column 2.
+2013-11-09 21:15:14,258 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:15:14,258 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:15:14,269 ERROR [Worker-111] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@27509e78
+2013-11-09 21:15:14,269 ERROR [Worker-111] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1dd3ec72
+2013-11-09 21:15:14,270 ERROR [Worker-111] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@44483faa
+2013-11-09 21:15:14,270 ERROR [Worker-111] - System.err - /gs/src/test.groovy: 25 Groovy:unexpected token: logWarningToday @ line 25, column 2.
+2013-11-09 21:15:14,270 ERROR [Worker-111] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:15:14,270 ERROR [Worker-111] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:15:51,227 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@166c2b98
+2013-11-09 21:15:51,227 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@17a213a8
+2013-11-09 21:15:51,227 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@11b886b7
+2013-11-09 21:15:51,227 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@69946177
+2013-11-09 21:15:51,228 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 20 Groovy:unexpected token: = @ line 20, column 24.
+2013-11-09 21:15:51,228 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 25 Groovy:unexpected token: logWarningToday @ line 25, column 2.
+2013-11-09 21:15:51,228 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:15:51,228 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:15:51,393 ERROR [Worker-111] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@64193c70
+2013-11-09 21:15:51,393 ERROR [Worker-111] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@34cf1067
+2013-11-09 21:15:51,393 ERROR [Worker-111] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@63df547
+2013-11-09 21:15:51,393 ERROR [Worker-111] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4db20b84
+2013-11-09 21:15:51,393 ERROR [Worker-111] - System.err - /gs/src/test.groovy: 20 Groovy:unexpected token: = @ line 20, column 24.
+2013-11-09 21:15:51,393 ERROR [Worker-111] - System.err - /gs/src/test.groovy: 25 Groovy:unexpected token: logWarningToday @ line 25, column 2.
+2013-11-09 21:15:51,394 ERROR [Worker-111] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:15:51,394 ERROR [Worker-111] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:16:01,260 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@52f78f57
+2013-11-09 21:16:01,261 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7ae3c34e
+2013-11-09 21:16:01,261 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7f2b74e9
+2013-11-09 21:16:01,261 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7e08ae38
+2013-11-09 21:16:01,261 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 20 Groovy:unexpected token: = @ line 20, column 24.
+2013-11-09 21:16:01,261 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 25 Groovy:unexpected token: logWarningToday @ line 25, column 2.
+2013-11-09 21:16:01,261 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:16:01,261 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:16:01,273 ERROR [Worker-98] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@52f0212d
+2013-11-09 21:16:01,273 ERROR [Worker-98] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@13123be5
+2013-11-09 21:16:01,273 ERROR [Worker-98] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@121a412b
+2013-11-09 21:16:01,273 ERROR [Worker-98] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@79ac7755
+2013-11-09 21:16:01,273 ERROR [Worker-98] - System.err - /gs/src/test.groovy: 20 Groovy:unexpected token: = @ line 20, column 24.
+2013-11-09 21:16:01,273 ERROR [Worker-98] - System.err - /gs/src/test.groovy: 25 Groovy:unexpected token: logWarningToday @ line 25, column 2.
+2013-11-09 21:16:01,273 ERROR [Worker-98] - System.err - /gs/src/test.groovy: 27 Groovy:unexpected token: Mailer @ line 27, column 2.
+2013-11-09 21:16:01,273 ERROR [Worker-98] - System.err - /gs/src/test.groovy: 32 Groovy:unexpected token:  @ line 32, column 2.
+2013-11-09 21:16:07,787 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5443c95b
+2013-11-09 21:16:07,787 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2e58a095
+2013-11-09 21:16:07,787 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3c96adf8
+2013-11-09 21:16:07,788 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@487793db
+2013-11-09 21:16:07,789 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 20 Groovy:unexpected token: = @ line 20, column 24.
+2013-11-09 21:16:07,789 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 26 Groovy:unexpected token: logWarningToday @ line 26, column 2.
+2013-11-09 21:16:07,789 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 28 Groovy:unexpected token: Mailer @ line 28, column 2.
+2013-11-09 21:16:07,789 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 2.
+2013-11-09 21:16:07,887 ERROR [Worker-98] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@31b948c4
+2013-11-09 21:16:07,887 ERROR [Worker-98] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7b58555c
+2013-11-09 21:16:07,887 ERROR [Worker-98] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@644c4a47
+2013-11-09 21:16:07,887 ERROR [Worker-98] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4ca0aec2
+2013-11-09 21:16:07,887 ERROR [Worker-98] - System.err - /gs/src/test.groovy: 20 Groovy:unexpected token: = @ line 20, column 24.
+2013-11-09 21:16:07,887 ERROR [Worker-98] - System.err - /gs/src/test.groovy: 26 Groovy:unexpected token: logWarningToday @ line 26, column 2.
+2013-11-09 21:16:07,888 ERROR [Worker-98] - System.err - /gs/src/test.groovy: 28 Groovy:unexpected token: Mailer @ line 28, column 2.
+2013-11-09 21:16:07,888 ERROR [Worker-98] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 2.
+2013-11-09 21:16:12,813 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3810be5b
+2013-11-09 21:16:12,813 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5341651e
+2013-11-09 21:16:12,814 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 20 Groovy:unexpected token: = @ line 20, column 24.
+2013-11-09 21:16:12,814 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 29 Groovy:unexpected token: abambah@gmail.com @ line 29, column 10.
+2013-11-09 21:16:12,820 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@28bdcdc2
+2013-11-09 21:16:12,821 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@450f9073
+2013-11-09 21:16:12,821 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@d49171
+2013-11-09 21:16:12,821 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3989224
+2013-11-09 21:16:12,822 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@15a27b54
+2013-11-09 21:16:12,823 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:16:12,823 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:16:12,823 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:16:12,823 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:16:12,823 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:16:12,836 ERROR [Worker-98] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@72a70299
+2013-11-09 21:16:12,836 ERROR [Worker-98] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@329bc59d
+2013-11-09 21:16:12,837 ERROR [Worker-98] - System.err - /gs/src/test.groovy: 20 Groovy:unexpected token: = @ line 20, column 24.
+2013-11-09 21:16:12,837 ERROR [Worker-98] - System.err - /gs/src/test.groovy: 29 Groovy:unexpected token: abambah@gmail.com @ line 29, column 10.
+2013-11-09 21:16:12,843 ERROR [Worker-98] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4225a0f5
+2013-11-09 21:16:12,844 ERROR [Worker-98] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@346a56c0
+2013-11-09 21:16:12,844 ERROR [Worker-98] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@31657222
+2013-11-09 21:16:12,844 ERROR [Worker-98] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7b282f83
+2013-11-09 21:16:12,845 ERROR [Worker-98] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@b4780a0
+2013-11-09 21:16:12,846 ERROR [Worker-98] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:16:12,846 ERROR [Worker-98] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:16:12,846 ERROR [Worker-98] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:16:12,846 ERROR [Worker-98] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:16:12,846 ERROR [Worker-98] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:16:29,383 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@52d4bbb0
+2013-11-09 21:16:29,383 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@c6e4a4c
+2013-11-09 21:16:29,383 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1ccfc9f4
+2013-11-09 21:16:29,384 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 26 Groovy:unexpected token: logWarningToday @ line 26, column 2.
+2013-11-09 21:16:29,384 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 28 Groovy:unexpected token: Mailer @ line 28, column 2.
+2013-11-09 21:16:29,384 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 2.
+2013-11-09 21:16:29,426 ERROR [Worker-109] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@372a0276
+2013-11-09 21:16:29,427 ERROR [Worker-109] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2707ad45
+2013-11-09 21:16:29,427 ERROR [Worker-109] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6900a107
+2013-11-09 21:16:29,427 ERROR [Worker-109] - System.err - /gs/src/test.groovy: 26 Groovy:unexpected token: logWarningToday @ line 26, column 2.
+2013-11-09 21:16:29,427 ERROR [Worker-109] - System.err - /gs/src/test.groovy: 28 Groovy:unexpected token: Mailer @ line 28, column 2.
+2013-11-09 21:16:29,427 ERROR [Worker-109] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 2.
+2013-11-09 21:16:30,414 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@eaaa6a4
+2013-11-09 21:16:30,414 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@65a26081
+2013-11-09 21:16:30,414 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@76de948
+2013-11-09 21:16:30,414 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 26 Groovy:unexpected token: logWarningToday @ line 26, column 2.
+2013-11-09 21:16:30,415 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 28 Groovy:unexpected token: Mailer @ line 28, column 2.
+2013-11-09 21:16:30,415 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 2.
+2013-11-09 21:16:30,423 ERROR [Worker-109] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@57319c50
+2013-11-09 21:16:30,423 ERROR [Worker-109] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7a0d74e8
+2013-11-09 21:16:30,423 ERROR [Worker-109] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@97669f2
+2013-11-09 21:16:30,423 ERROR [Worker-109] - System.err - /gs/src/test.groovy: 26 Groovy:unexpected token: logWarningToday @ line 26, column 2.
+2013-11-09 21:16:30,424 ERROR [Worker-109] - System.err - /gs/src/test.groovy: 28 Groovy:unexpected token: Mailer @ line 28, column 2.
+2013-11-09 21:16:30,424 ERROR [Worker-109] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 2.
+2013-11-09 21:16:35,899 ERROR [Text Viewer Hover Presenter] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@74b6ee6d
+2013-11-09 21:16:35,899 ERROR [Text Viewer Hover Presenter] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@15df71f8
+2013-11-09 21:16:35,899 ERROR [Text Viewer Hover Presenter] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@b35c00
+2013-11-09 21:16:35,900 ERROR [Text Viewer Hover Presenter] - System.err - /gs/src/test.groovy: 26 Groovy:unexpected token: logWarningToday @ line 26, column 2.
+2013-11-09 21:16:35,900 ERROR [Text Viewer Hover Presenter] - System.err - /gs/src/test.groovy: 28 Groovy:unexpected token: Mailer @ line 28, column 2.
+2013-11-09 21:16:35,900 ERROR [Text Viewer Hover Presenter] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 2.
+2013-11-09 21:16:52,980 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4d147de
+2013-11-09 21:16:52,980 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@47c5424a
+2013-11-09 21:16:52,980 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@67832d15
+2013-11-09 21:16:52,981 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 26 Groovy:unexpected token: logWarningToday @ line 26, column 2.
+2013-11-09 21:16:52,981 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 28 Groovy:unexpected token: Mailer @ line 28, column 2.
+2013-11-09 21:16:52,981 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 2.
+2013-11-09 21:16:53,025 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6678f65f
+2013-11-09 21:16:53,025 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@f770b88
+2013-11-09 21:16:53,026 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@509615a6
+2013-11-09 21:16:53,026 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 26 Groovy:unexpected token: logWarningToday @ line 26, column 2.
+2013-11-09 21:16:53,026 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 29 Groovy:unexpected token: to @ line 29, column 6.
+2013-11-09 21:16:53,026 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 2.
+2013-11-09 21:16:53,055 ERROR [Worker-112] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6925e60f
+2013-11-09 21:16:53,055 ERROR [Worker-112] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@372318b7
+2013-11-09 21:16:53,056 ERROR [Worker-112] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@612bb2a8
+2013-11-09 21:16:53,056 ERROR [Worker-112] - System.err - /gs/src/test.groovy: 26 Groovy:unexpected token: logWarningToday @ line 26, column 2.
+2013-11-09 21:16:53,057 ERROR [Worker-112] - System.err - /gs/src/test.groovy: 29 Groovy:unexpected token: to @ line 29, column 6.
+2013-11-09 21:16:53,057 ERROR [Worker-112] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 2.
+2013-11-09 21:16:54,037 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@37f7466f
+2013-11-09 21:16:54,037 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4b313e1d
+2013-11-09 21:16:54,037 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@de5087c
+2013-11-09 21:16:54,037 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 26 Groovy:unexpected token: logWarningToday @ line 26, column 2.
+2013-11-09 21:16:54,037 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 29 Groovy:unexpected token: to @ line 29, column 6.
+2013-11-09 21:16:54,038 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 2.
+2013-11-09 21:17:33,657 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@321e9711
+2013-11-09 21:17:33,658 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 29 Groovy:unexpected token: abambah@gmail.com @ line 29, column 10.
+2013-11-09 21:17:33,665 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@77b2ffee
+2013-11-09 21:17:33,666 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@8c09fa7
+2013-11-09 21:17:33,666 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1e31916e
+2013-11-09 21:17:33,666 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4842dc3e
+2013-11-09 21:17:33,667 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1d898f82
+2013-11-09 21:17:33,668 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:17:33,668 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:17:33,668 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:17:33,668 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:17:33,668 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:17:33,681 ERROR [Worker-108] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@17e04218
+2013-11-09 21:17:33,682 ERROR [Worker-108] - System.err - /gs/src/test.groovy: 29 Groovy:unexpected token: abambah@gmail.com @ line 29, column 10.
+2013-11-09 21:17:33,692 ERROR [Worker-108] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5190f65c
+2013-11-09 21:17:33,693 ERROR [Worker-108] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@41e3bda
+2013-11-09 21:17:33,693 ERROR [Worker-108] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5ceb6752
+2013-11-09 21:17:33,694 ERROR [Worker-108] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@36993bdc
+2013-11-09 21:17:33,695 ERROR [Worker-108] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@665c1758
+2013-11-09 21:17:33,696 ERROR [Worker-108] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:17:33,696 ERROR [Worker-108] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:17:33,696 ERROR [Worker-108] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:17:33,696 ERROR [Worker-108] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:17:33,696 ERROR [Worker-108] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:17:36,228 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@22e93648
+2013-11-09 21:17:36,228 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7ceac2df
+2013-11-09 21:17:36,228 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@189ffe8b
+2013-11-09 21:17:36,228 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 26 Groovy:unexpected token: logWarningToday @ line 26, column 2.
+2013-11-09 21:17:36,229 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 29 Groovy:unexpected token: to @ line 29, column 6.
+2013-11-09 21:17:36,229 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 2.
+2013-11-09 21:17:36,240 ERROR [Worker-96] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4a871837
+2013-11-09 21:17:36,240 ERROR [Worker-96] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6b46e91a
+2013-11-09 21:17:36,240 ERROR [Worker-96] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7c71e0fb
+2013-11-09 21:17:36,240 ERROR [Worker-96] - System.err - /gs/src/test.groovy: 26 Groovy:unexpected token: logWarningToday @ line 26, column 2.
+2013-11-09 21:17:36,240 ERROR [Worker-96] - System.err - /gs/src/test.groovy: 29 Groovy:unexpected token: to @ line 29, column 6.
+2013-11-09 21:17:36,241 ERROR [Worker-96] - System.err - /gs/src/test.groovy: 33 Groovy:unexpected token:  @ line 33, column 2.
+2013-11-09 21:17:56,294 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3b060aa1
+2013-11-09 21:17:56,295 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 10.
+2013-11-09 21:17:56,301 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@62d03c80
+2013-11-09 21:17:56,302 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@55342a2e
+2013-11-09 21:17:56,302 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@53bd5db5
+2013-11-09 21:17:56,302 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@35534106
+2013-11-09 21:17:56,303 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6cd20c43
+2013-11-09 21:17:56,304 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:17:56,304 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:17:56,304 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:17:56,304 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:17:56,305 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:17:56,331 ERROR [Worker-111] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@40fc732f
+2013-11-09 21:17:56,332 ERROR [Worker-111] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 10.
+2013-11-09 21:17:56,338 ERROR [Worker-111] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@219767a2
+2013-11-09 21:17:56,340 ERROR [Worker-111] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5b14cde8
+2013-11-09 21:17:56,340 ERROR [Worker-111] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@32da690f
+2013-11-09 21:17:56,340 ERROR [Worker-111] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@212771de
+2013-11-09 21:17:56,341 ERROR [Worker-111] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@24a4b6d3
+2013-11-09 21:17:56,342 ERROR [Worker-111] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:17:56,343 ERROR [Worker-111] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:17:56,343 ERROR [Worker-111] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:17:56,343 ERROR [Worker-111] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:17:56,343 ERROR [Worker-111] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:18:02,048 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2b45fdeb
+2013-11-09 21:18:02,049 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@21657f
+2013-11-09 21:18:02,049 ERROR [main] - System.err - /gs/src/test.groovy: 30 Groovy:expecting ')', found 'abambah@gmail.com' @ line 30, column 10.
+2013-11-09 21:18:02,050 ERROR [main] - System.err - /gs/src/test.groovy: 34 Groovy:expecting EOF, found ')' @ line 34, column 1.
+2013-11-09 21:18:02,063 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@71d87d55
+2013-11-09 21:18:02,065 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3c0c91d7
+2013-11-09 21:18:02,065 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5d3ad90d
+2013-11-09 21:18:02,065 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4280144c
+2013-11-09 21:18:02,066 ERROR [main] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@66b4abaf
+2013-11-09 21:18:02,067 ERROR [main] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:18:02,067 ERROR [main] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:18:02,067 ERROR [main] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:18:02,067 ERROR [main] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:18:02,067 ERROR [main] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:18:02,593 ERROR [Worker-108] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1fca2ea4
+2013-11-09 21:18:02,593 ERROR [Worker-108] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@12bc214a
+2013-11-09 21:18:02,594 ERROR [Worker-108] - System.err - /gs/src/test.groovy: 30 Groovy:expecting ')', found 'abambah@gmail.com' @ line 30, column 10.
+2013-11-09 21:18:02,595 ERROR [Worker-108] - System.err - /gs/src/test.groovy: 34 Groovy:expecting EOF, found ')' @ line 34, column 1.
+2013-11-09 21:18:02,639 ERROR [Worker-108] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@61e3eaf5
+2013-11-09 21:18:02,643 ERROR [Worker-108] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3a56ad08
+2013-11-09 21:18:02,643 ERROR [Worker-108] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@107a0624
+2013-11-09 21:18:02,643 ERROR [Worker-108] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3b292def
+2013-11-09 21:18:02,644 ERROR [Worker-108] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@c86c441
+2013-11-09 21:18:02,645 ERROR [Worker-108] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:18:02,645 ERROR [Worker-108] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:18:02,645 ERROR [Worker-108] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:18:02,645 ERROR [Worker-108] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:18:02,646 ERROR [Worker-108] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:18:02,886 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2fd9c2a3
+2013-11-09 21:18:02,887 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@17973e0
+2013-11-09 21:18:02,888 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:expecting ')', found 'abambah@gmail.com' @ line 30, column 10.
+2013-11-09 21:18:02,888 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 34 Groovy:expecting EOF, found ')' @ line 34, column 1.
+2013-11-09 21:18:02,894 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@300aed69
+2013-11-09 21:18:02,895 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1d68a123
+2013-11-09 21:18:02,895 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@402b0fea
+2013-11-09 21:18:02,895 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4b21ec8f
+2013-11-09 21:18:02,896 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2031c6d2
+2013-11-09 21:18:02,897 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:18:02,897 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:18:02,897 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:18:02,897 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:18:02,898 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:18:12,054 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6e7dc3b7
+2013-11-09 21:18:12,055 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 10.
+2013-11-09 21:18:12,060 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@210dcd77
+2013-11-09 21:18:12,061 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@112c5095
+2013-11-09 21:18:12,061 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@745e6f01
+2013-11-09 21:18:12,062 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@63c9e656
+2013-11-09 21:18:12,062 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5c314b48
+2013-11-09 21:18:12,063 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:18:12,063 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:18:12,063 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:18:12,063 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:18:12,064 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:18:24,679 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5b871533
+2013-11-09 21:18:24,679 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@180f637
+2013-11-09 21:18:24,680 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 31 Groovy:expecting ')', found 'from' @ line 31, column 6.
+2013-11-09 21:18:24,680 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 34 Groovy:expecting EOF, found ')' @ line 34, column 1.
+2013-11-09 21:18:24,687 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@726f0725
+2013-11-09 21:18:24,687 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@573e48d4
+2013-11-09 21:18:24,688 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3a1f830b
+2013-11-09 21:18:24,688 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6ad464fc
+2013-11-09 21:18:24,688 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1e32132f
+2013-11-09 21:18:24,689 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:18:24,689 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:18:24,690 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:18:24,690 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:18:24,690 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:18:27,731 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@ff53eb2
+2013-11-09 21:18:27,732 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 10.
+2013-11-09 21:18:27,738 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@65c8e6d
+2013-11-09 21:18:27,739 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@268a995e
+2013-11-09 21:18:27,739 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@555afe16
+2013-11-09 21:18:27,739 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@48df8221
+2013-11-09 21:18:27,740 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@49d869e7
+2013-11-09 21:18:27,741 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:18:27,741 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:18:27,741 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:18:27,741 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:18:27,741 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:18:41,732 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5f2e32b
+2013-11-09 21:18:41,733 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 10.
+2013-11-09 21:18:41,739 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@653efe2a
+2013-11-09 21:18:41,739 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@aa0ab54
+2013-11-09 21:18:41,739 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3a501d3f
+2013-11-09 21:18:41,740 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@61b03101
+2013-11-09 21:18:41,740 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@76616ac1
+2013-11-09 21:18:41,741 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:18:41,741 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:18:41,741 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:18:41,742 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:18:41,742 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:18:42,770 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@18c8fc2b
+2013-11-09 21:18:42,771 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 10.
+2013-11-09 21:18:42,777 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6607d215
+2013-11-09 21:18:42,777 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@b719508
+2013-11-09 21:18:42,778 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4def4616
+2013-11-09 21:18:42,778 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@17e27653
+2013-11-09 21:18:42,779 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@14c64f65
+2013-11-09 21:18:42,779 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:18:42,779 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:18:42,780 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:18:42,780 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:18:42,780 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:18:45,311 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@9954b10
+2013-11-09 21:18:45,313 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 10.
+2013-11-09 21:18:45,318 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@49f5ec46
+2013-11-09 21:18:45,319 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@306b0d99
+2013-11-09 21:18:45,319 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4449d0a4
+2013-11-09 21:18:45,319 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4a20e202
+2013-11-09 21:18:45,320 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@34d61753
+2013-11-09 21:18:45,321 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:18:45,321 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:18:45,321 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:18:45,321 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:18:45,321 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:18:48,357 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7309d2d5
+2013-11-09 21:18:48,358 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token:  abambah@gmail.com @ line 30, column 10.
+2013-11-09 21:18:48,364 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@60df997c
+2013-11-09 21:18:48,365 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@77d5cd93
+2013-11-09 21:18:48,365 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@75abab5b
+2013-11-09 21:18:48,365 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@597f1fb7
+2013-11-09 21:18:48,366 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@28fb5548
+2013-11-09 21:18:48,367 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:18:48,367 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:18:48,367 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:18:48,367 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:18:48,367 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:18:52,401 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@318eda90
+2013-11-09 21:18:52,402 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah @ line 30, column 10.
+2013-11-09 21:18:52,408 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@77099d4e
+2013-11-09 21:18:52,409 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1836a8f0
+2013-11-09 21:18:52,409 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2c8d30fb
+2013-11-09 21:18:52,409 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@698ac596
+2013-11-09 21:18:52,410 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@15b230fc
+2013-11-09 21:18:52,411 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:18:52,411 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:18:52,411 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:18:52,411 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:18:52,411 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:18:53,451 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4a3eb45
+2013-11-09 21:18:53,451 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:expecting anything but ''\n''; got it anyway @ line 30, column 29.
+2013-11-09 21:18:55,975 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@1b0b9278
+2013-11-09 21:18:55,975 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:expecting anything but ''\n''; got it anyway @ line 30, column 28.
+2013-11-09 21:18:55,991 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@13b2bf3f
+2013-11-09 21:18:55,992 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 10.
+2013-11-09 21:18:56,000 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@43b34c70
+2013-11-09 21:18:56,001 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@305f6fc9
+2013-11-09 21:18:56,001 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@49a40dee
+2013-11-09 21:18:56,001 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@318eaa07
+2013-11-09 21:18:56,002 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@d3ccafc
+2013-11-09 21:18:56,003 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:18:56,003 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:18:56,003 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:18:56,003 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:18:56,003 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:18:57,025 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5a695248
+2013-11-09 21:18:57,026 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 10.
+2013-11-09 21:18:57,032 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4ddf41c8
+2013-11-09 21:18:57,033 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7c57d968
+2013-11-09 21:18:57,033 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6b827a9e
+2013-11-09 21:18:57,033 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@43405236
+2013-11-09 21:18:57,034 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@33d579b8
+2013-11-09 21:18:57,035 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 4 Groovy:unable to resolve class string
+2013-11-09 21:18:57,035 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:18:57,035 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:18:57,035 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:18:57,035 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:19:24,126 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@608e61e7
+2013-11-09 21:19:24,127 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 10.
+2013-11-09 21:19:24,133 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@21b953c3
+2013-11-09 21:19:24,133 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@e2a3881
+2013-11-09 21:19:24,134 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@75e3a46a
+2013-11-09 21:19:24,134 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@343f679d
+2013-11-09 21:19:24,135 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 5 Groovy:unable to resolve class string
+2013-11-09 21:19:24,136 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:19:24,136 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:19:24,136 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:19:27,702 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4d46eae8
+2013-11-09 21:19:27,703 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 10.
+2013-11-09 21:19:27,709 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@327f704f
+2013-11-09 21:19:27,709 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4ca66c6f
+2013-11-09 21:19:27,710 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@421912b9
+2013-11-09 21:19:27,711 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class string
+2013-11-09 21:19:27,711 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:19:27,711 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:19:32,751 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@48050210
+2013-11-09 21:19:32,752 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 10.
+2013-11-09 21:19:32,759 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2cb056c8
+2013-11-09 21:19:32,760 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6d117b63
+2013-11-09 21:19:32,760 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@16bbd886
+2013-11-09 21:19:32,761 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 6 Groovy:unable to resolve class tring
+2013-11-09 21:19:32,761 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:19:32,762 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:19:33,801 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@e3c043a
+2013-11-09 21:19:33,802 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 10.
+2013-11-09 21:19:33,808 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@20734a9f
+2013-11-09 21:19:33,809 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@71281d5d
+2013-11-09 21:19:33,810 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 7 Groovy:unable to resolve class string
+2013-11-09 21:19:33,810 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:19:39,866 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4f3e8268
+2013-11-09 21:19:39,867 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 10.
+2013-11-09 21:19:39,874 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@32d9c934
+2013-11-09 21:19:39,875 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class mailer
+2013-11-09 21:19:54,823 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4e7acade
+2013-11-09 21:19:54,824 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 10.
+2013-11-09 21:19:54,851 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@228f0523
+2013-11-09 21:19:54,852 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 9 Groovy:unable to resolve class ailer
+2013-11-09 21:19:56,386 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5b4af49b
+2013-11-09 21:19:56,387 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 10.
+2013-11-09 21:20:04,939 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7057d6a8
+2013-11-09 21:20:04,940 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah @ line 30, column 10.
+2013-11-09 21:20:06,023 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4d3f3b78
+2013-11-09 21:20:06,024 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:expecting ''', found '\n' @ line 30, column 29.
+2013-11-09 21:20:09,050 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2ba57585
+2013-11-09 21:20:09,050 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:expecting ''', found '\n' @ line 30, column 28.
+2013-11-09 21:20:10,070 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@571e66ba
+2013-11-09 21:20:10,071 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 10.
+2013-11-09 21:21:51,839 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@155148b6
+2013-11-09 21:21:51,840 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 9.
+2013-11-09 21:22:08,410 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4cae6e2
+2013-11-09 21:22:08,411 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 9.
+2013-11-09 21:22:10,958 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7b1b9e3a
+2013-11-09 21:22:10,959 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 10.
+2013-11-09 21:22:12,993 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2101f0d8
+2013-11-09 21:22:12,995 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 12.
+2013-11-09 21:22:16,861 ERROR [Text Viewer Hover Presenter] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@715c7b5f
+2013-11-09 21:22:16,862 ERROR [Text Viewer Hover Presenter] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 12.
+2013-11-09 21:22:17,031 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@b5a4d43
+2013-11-09 21:22:17,032 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 12.
+2013-11-09 21:22:19,569 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7f608105
+2013-11-09 21:22:19,570 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 12.
+2013-11-09 21:22:32,618 ERROR [Worker-112] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2198ffb6
+2013-11-09 21:22:32,619 ERROR [Worker-112] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 12.
+2013-11-09 21:22:33,048 ERROR [Java indexing] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@4ef2bb57
+2013-11-09 21:22:33,048 ERROR [Java indexing] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 12.
+2013-11-09 21:22:33,658 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2dc2a378
+2013-11-09 21:22:33,659 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - /gs/src/test.groovy: 30 Groovy:unexpected token: abambah@gmail.com @ line 30, column 12.
+2013-11-09 22:28:15,769 ERROR [Worker-9] - System.err - log4j:WARN No appenders could be found for logger (org.springframework.core.env.StandardEnvironment).
+2013-11-09 22:28:15,785 ERROR [Worker-9] - System.err - log4j:WARN Please initialize the log4j system properly.
+2013-11-09 22:28:15,785 ERROR [Worker-9] - System.err - log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+2013-11-09 22:28:31,503 ERROR [Worker-9] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6fb65730
+2013-11-09 22:28:31,503 ERROR [Worker-9] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@2c16499c
+2013-11-09 22:28:31,503 ERROR [Worker-9] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@6b3ab760
+2013-11-09 22:28:31,503 ERROR [Worker-9] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@5bdd369f
+2013-11-09 22:28:31,503 ERROR [Worker-9] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@182d2fd7
+2013-11-09 22:28:31,504 ERROR [Worker-9] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3e9fd8a7
+2013-11-09 22:28:31,504 ERROR [Worker-9] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@7048dc0f
+2013-11-09 22:28:31,504 ERROR [Worker-9] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@3f679660
+2013-11-09 22:28:31,504 ERROR [Worker-9] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@29c19925
+2013-11-09 22:28:31,522 ERROR [Worker-9] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 9 Groovy:unexpected token: cli @ line 9, column 2.
+2013-11-09 22:28:31,522 ERROR [Worker-9] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 10 Groovy:unexpected token: cli @ line 10, column 2.
+2013-11-09 22:28:31,522 ERROR [Worker-9] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 11 Groovy:unexpected token: cli @ line 11, column 2.
+2013-11-09 22:28:31,522 ERROR [Worker-9] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 12 Groovy:unexpected token: cli @ line 12, column 2.
+2013-11-09 22:28:31,522 ERROR [Worker-9] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 13 Groovy:unexpected token: cli @ line 13, column 2.
+2013-11-09 22:28:31,523 ERROR [Worker-9] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 14 Groovy:unexpected token: cli @ line 14, column 2.
+2013-11-09 22:28:31,523 ERROR [Worker-9] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 15 Groovy:unexpected token: cli @ line 15, column 2.
+2013-11-09 22:28:31,523 ERROR [Worker-9] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:unexpected token: if @ line 17, column 2.
+2013-11-09 22:28:31,523 ERROR [Worker-9] - System.err - /StarPlusTv/src/groovy/sqlQuerry.groovy: 17 Groovy:expecting EOF, found 'if' @ line 17, column 2.
+2013-11-09 22:28:50,573 ERROR [Worker-9] - System.err - log4j:WARN No appenders could be found for logger (org.springframework.core.env.StandardEnvironment).
+2013-11-09 22:28:50,573 ERROR [Worker-9] - System.err - log4j:WARN Please initialize the log4j system properly.
+2013-11-09 22:28:50,573 ERROR [Worker-9] - System.err - log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+2013-11-09 22:28:53,524 ERROR [Worker-8] - System.err - org.codehaus.groovy.control.messages.SyntaxErrorMessage@36f05fc9
+2013-11-09 22:28:53,530 ERROR [Worker-8] - System.err - /gs/src/test.groovy: 29 Groovy:unexpected token: abambah@gmail.com @ line 29, column 11.

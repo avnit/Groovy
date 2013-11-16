@@ -25,8 +25,9 @@
 		<item value="407" key="DIALOG_X_ORIGIN"/>
 	</section>
 	<section name="NewWizardAction">
-		<item value="org.codehaus.groovy.eclipse.ui.groovyProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<item value="org.springsource.ide.eclipse.gradle.wizards.new" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.springsource.ide.eclipse.gradle.wizards.new.category"/>
 		</list>
 	</section>
 	<section name="ImportExportAction">
