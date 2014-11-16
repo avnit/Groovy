@@ -11,7 +11,7 @@ class RunStartUp {
  */
     static main(args) {
         
-    def base = "https://ajax.googleapis.com/ajax/services/search/web?v=1.0&q=avnit";
+    def base = "https://ajax.googleapis.com/ajax/services/search/web?v=1.0&q=riccantu";
     def param = [v:'1.0',
                  q:'Text to ',
                  z:'case'];
