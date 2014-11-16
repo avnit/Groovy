@@ -1,0 +1,64 @@
+<project name="JavaGroovy" default="JavaGroovy" basedir=".">
+
+	<property name="bundles" location="${basedir}/generated"/>
+	<property name="bin" location="${basedir}/bin"/>
+	<property name="stats" location="${basedir}/stats"/>
+	<property name="jaranalyzer" location="${basedir}/jaranalyzer"/>
+	<property name="version" value="1.0"/>
+	
+	<path id="project.class.path">
+		<pathelement path="${src}"/>
+		<pathelement path="${srctest}"/>
+		<pathelement path="${lib}/junit.jar"/>
+	</path>
+	
+	<target name="clean">
+		<delete dir="${stats}"/>
+		<delete dir="${bundles}"/>
+	</target>
+	
+	<target name="init" depends="clean">
+		<mkdir dir="${stats}"/>
+		<mkdir dir="${bundles}"/>
+	</target>
+	
+	<target name="bundle" depends="init">
+		<jar jarfile="${bundles}/calculator.jar" basedir="${bin}" excludes="com/extensiblejava/calculator/textui/**"/>
+		<jar jarfile="${bundles}/textui.jar" basedir="${bin}" includes="com/extensiblejava/calculator/textui/**"/>
+		<jar jarfile="${bundles}/operation.jar" basedir="${bin}" includes="com/extensiblejava/calculator/operation/**"/>
+		<jar jarfile="${bundles}/Math.jar" basedir="${bin}" includes="com/extensiblejava/calculator/math/**"/>
+			
+	</target>
+	
+	<target name="analyzer" depends="bundle">
+
+        <taskdef name="jaranalyzer" classname="com.kirkk.analyzer.textui.JarAnalyzerTask">
+            <classpath>
+                <pathelement path="${jaranalyzer}/jaranalyzer-1.2.jar"/>
+                <pathelement path="${jaranalyzer}/lib/bcel-5.2.jar"/>
+                <pathelement path="${jaranalyzer}/lib/jakarta-regexp-1.3.jar"/>
+                <pathelement path="${jaranalyzer}/lib"/>
+            </classpath>
+        </taskdef>
+
+        <jaranalyzer srcdir="${bundles}" destfile="${stats}/dependencies.xml" 
+				summaryclass="com.kirkk.analyzer.textui.XMLUISummary" />
+				
+		<style in="${stats}/dependencies.xml" 
+		       out="${stats}/dependencies.html"
+			style="${jaranalyzer}/jaranalyzer.xsl">	
+		</style>
+
+		<style in="${stats}/dependencies.xml" 
+		    out="${stats}/dependencies.grph"
+			style="${jaranalyzer}/jaranalyzer2dot.xsl">	
+		</style>
+
+		<exec executable="dot" ><arg line="-Tpng -Nshape=box -Nfontsize=30 -Nwidth=1.5 -Nheight=1.25 ./stats/dependencies.grph -o ./stats/dependencies.png"/></exec>
+		<!-- <exec executable="open" ><arg line="./stats/dependencies.png"/></exec>
+		<exec executable="open" ><arg line="./stats/dependencies.html"/></exec> -->
+		
+
+	</target>
+	
+</project>

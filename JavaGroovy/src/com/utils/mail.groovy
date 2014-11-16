@@ -4,7 +4,7 @@ import groovy.transform.*
 //@ToString
 //@EqualsAndHashCode
 @Canonical
- 
+
 class mail {
 	def to_username
 	def from_username
@@ -18,7 +18,7 @@ class mail {
 	public mailSend () {
 		try {
 			required_fields_map.each {
-			//	${it.key}.value ?: 'avnit.bambah@nb.com';  --alternative 
+				//	${it.key}.value ?: 'avnit.bambah@nb.com';  --alternative
 				if (${it.key}.size() > 1 )
 				{
 					print "Found good  username [${it.key}]"
@@ -29,6 +29,8 @@ class mail {
 				}
 
 			}
+
+			//call Ant email script
 
 
 		}
