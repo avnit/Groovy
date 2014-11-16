@@ -21,8 +21,8 @@ public class TestClass {
 		try {
 			println "starting at " + now().time
 
-			Date now = new Date()
-			Date then = now + 100
+            Date now = new Date()
+/*			Date then = now + 100
 			println then
 			println cos(456.789).toString()
 			String S = 'this is the string'
@@ -35,7 +35,7 @@ public class TestClass {
 			//assert 287 ==  (x + y) * ( x * y )
 
 			// println sin(123.456) * cos(456.789).toString()
-
+*/
 			def count = 0
 			def swingbuilder = new SwingBuilder().edt {
 				frame(title:'Avnit Application', size:[1080, 900], show: true) {

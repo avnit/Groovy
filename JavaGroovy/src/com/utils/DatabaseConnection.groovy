@@ -4,10 +4,15 @@ import groovy.sql.Sql;
 
 public class DatabaseConnection {
 	def servername
+	def domainName
 	def username
 	def password
 
-
+ def s = Sql.newInstance(servername,username , password , 'net.sourceforge.jtds.jdbc.Driver' );
+   
+  
+     
+	 
 	// s =  Sql.newInstance()
 
 
