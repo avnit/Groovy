@@ -1,6 +1,7 @@
 package com.test
 
 import java.lang.util.*
+
 import java.lang.sql.*
 import static java.lang.Math.*
 
@@ -12,7 +13,8 @@ import groovy.json.JsonSlurper
 import static Calendar.getInstance as now
 import static java.lang.Integer.*
 import static Boolean.False as F
-
+import com.utils.*
+import com.utils.mail
 
 public class TestClass {
 public static void main(String[] args) {
@@ -45,9 +47,11 @@ public static void main(String[] args) {
    }
  }
  
- 
- 
- 
+def m =  new mail()
+m.from_username = "avnit.bambah@nb.com" 
+m.to_username = "avnit.bambah@nb.com"
+m.mailSend();
+
  }
  catch ( Exception Ex )
  {
