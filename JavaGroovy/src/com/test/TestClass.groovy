@@ -6,6 +6,10 @@ import java.lang.sql.*
 import static java.lang.Math.*
 
 import javax.swing.ImageIcon
+import javax.swing.JLabel
+import javax.swing.JMenu
+import javax.swing.JTextField
+import javax.swing.SpringLayout
 import java.awt.BorderLayout as BL
 import java.awt.GridLayout
 import groovy.swing.SwingBuilder
@@ -53,9 +57,18 @@ public class TestClass {
 			
 			def swing = new SwingBuilder()
 			def model = new Model()
+			def menu = new JMenu();
 			
-			def frame = swing.frame(title: "Groovy SwingBuilder MVC Demo", layout: new GridLayout(3, 4), size: [100, 500]) {
+			SpringLayout layout = new SpringLayout();
+			//layout.acyclicSprings()
+			//contentPane.setLayout(layout);
+			menu.add(new JLabel("Label: "));
+			menu.add(new JTextField("Text field", 15));
+		
 			
+			
+			def frame = swing.frame(title: "Groovy SwingBuilder MVC Demo", layout: layout, size: [1000, 500]) {
+			        
 					label("currency")
 					label("rate")
 					label("value")
@@ -71,7 +84,9 @@ public class TestClass {
 								  }))
 					}
 				}
-			
+
+			frame.add(menu,0,0)
+			frame.pack();
 			frame.show()
 			model.initialize([1.0, 0.83, 0.56]);
 			
