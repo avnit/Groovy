@@ -34,21 +34,7 @@
 
     
 
-      
 				
-		<style in="${stats}/dependencies.xml" 
-		       out="${stats}/dependencies.html"
-			style="${jaranalyzer}/jaranalyzer.xsl">	
-		</style>
-
-		<style in="${stats}/dependencies.xml" 
-		    out="${stats}/dependencies.grph"
-			style="${jaranalyzer}/jaranalyzer2dot.xsl">	
-		</style>
-
-		<exec executable="dot" ><arg line="-Tpng -Nshape=box -Nfontsize=30 -Nwidth=1.5 -Nheight=1.25 ./stats/dependencies.grph -o ./stats/dependencies.png"/></exec>
-		<!-- <exec executable="open" ><arg line="./stats/dependencies.png"/></exec>
-		<exec executable="open" ><arg line="./stats/dependencies.html"/></exec> -->
 		
 
 	</target>
