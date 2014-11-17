@@ -19,10 +19,6 @@ class HYStatReport {
 
 			def final_data = getdata.runSql()
 
-
-
-
-
 			//create an object for mail
 			def m =  new mail()
 			m.from_username = "avnit.bambah@nb.com"
