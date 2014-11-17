@@ -13,6 +13,7 @@ public class DatabaseConnection {
 	def password
 	def req
 	def query
+	def valuetobind
 
 	public runSql() {
 
@@ -28,14 +29,11 @@ public class DatabaseConnection {
 			// After options processing the remaining arguments are query files
 			// Go through the query files one at a time for execution
 			//  for (queryfilename in opt.arguments()) {
-			queryfile = new File(queryfilename)
+			
 			query = "" // initialize the query string
 			param_count = 0      // Number of placeholders needed for parameters to query
 			pattern = /\?/ // pattern to look for to find number of parameters
-			// read the query from the query file (line by line) and build it
-			queryfile.eachLine { it ->
-				query += " " + it
-			}
+			
 			// number of bind variables to satisfy is obtained by number of ? seen in the query
 			query.eachMatch(pattern) { param_count++ }
 			println '-.' * 40
@@ -44,6 +42,7 @@ public class DatabaseConnection {
 			println "Output is:"
 			println '=' * 80
 			def count = 0  // row count
+			def final_string = ''
 			paramlist = []
 			if (valuetobind != "none")
 			1.upto(param_count) { paramlist << valuetobind }
@@ -62,8 +61,8 @@ public class DatabaseConnection {
 						recstr += "," + row[col]
 					}
 				}
-
-				outFile.append(recstr + "\n")
+				final_string +=  recstr + "/n" 
+				//outFile.append(recstr + "\n")
 			}
 			//	}
 			conn.close()
@@ -71,6 +70,7 @@ public class DatabaseConnection {
 			print e.toString()
 		}
 		finally {
+			return recstr
 		}
 	}
 

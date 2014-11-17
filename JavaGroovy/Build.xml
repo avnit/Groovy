@@ -23,26 +23,18 @@
 	</target>
 	
 	<target name="bundle" depends="init">
-		<jar jarfile="${bundles}/calculator.jar" basedir="${bin}" excludes="com/extensiblejava/calculator/textui/**"/>
-		<jar jarfile="${bundles}/textui.jar" basedir="${bin}" includes="com/extensiblejava/calculator/textui/**"/>
-		<jar jarfile="${bundles}/operation.jar" basedir="${bin}" includes="com/extensiblejava/calculator/operation/**"/>
-		<jar jarfile="${bundles}/Math.jar" basedir="${bin}" includes="com/extensiblejava/calculator/math/**"/>
+		<jar jarfile="${bundles}/utils.jar" basedir="${bin}" includes="com/utils/**"/>
+		<jar jarfile="${bundles}/extension.jar" basedir="${bin}" includes="com/swingbuilder/extension/**"/>
+		<jar jarfile="${bundles}/batch.jar" basedir="${bin}" includes="com/batch/**"/>
+		
 			
 	</target>
 	
-	<target name="analyzer" depends="bundle">
+	<target name="JavaGroovy" depends="bundle">
 
-        <taskdef name="jaranalyzer" classname="com.kirkk.analyzer.textui.JarAnalyzerTask">
-            <classpath>
-                <pathelement path="${jaranalyzer}/jaranalyzer-1.2.jar"/>
-                <pathelement path="${jaranalyzer}/lib/bcel-5.2.jar"/>
-                <pathelement path="${jaranalyzer}/lib/jakarta-regexp-1.3.jar"/>
-                <pathelement path="${jaranalyzer}/lib"/>
-            </classpath>
-        </taskdef>
+    
 
-        <jaranalyzer srcdir="${bundles}" destfile="${stats}/dependencies.xml" 
-				summaryclass="com.kirkk.analyzer.textui.XMLUISummary" />
+      
 				
 		<style in="${stats}/dependencies.xml" 
 		       out="${stats}/dependencies.html"
