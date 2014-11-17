@@ -5,7 +5,7 @@ import com.utils.*
 class HYStatReport {
 
 	// call the database  for connection
-	public runreport() {
+	public static void main(String[] args) {
 		try
 		{
 
@@ -34,8 +34,12 @@ class HYStatReport {
 		}
 		catch (Exception ex )
 		{
+			def m =  new mail()
+			m.from_username = "avnit.bambah@nb.com"
+			m.to_username = "avnit.bambah@nb.com"
+			m.subject = ex.toString()
 			m.mailtoNotifyASD();
-			print ex.to_string();
+			//print ex.to_string();
 		}
 	}
 
