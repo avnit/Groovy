@@ -1,13 +1,13 @@
 package com.swingbuilder.extension
 
 class Model extends Observable {
-    static CURRENCY = [ "USD", "EURO", "YEN","INR" ]
+    static CURRENCY = [ "USD", "EURO", "YEN"]
 
     private Map rates = new HashMap()
     private long value
 
     void initialize(initialRates) {
-        (0..CURRENCY.size() - 1).each {
+        (0..CURRENCY.size() -1 ).each {
             setRate(CURRENCY[it], initialRates[it])
         }
     }

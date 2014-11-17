@@ -59,7 +59,7 @@ public class DatabaseConnection {
 					}
 				}
 				final_string +=  recstr + "/n"
-				//outFile.append(recstr + "\n")
+				
 			}
 			//	}
 			conn.close()

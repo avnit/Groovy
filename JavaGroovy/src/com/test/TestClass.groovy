@@ -78,7 +78,7 @@ public class TestClass {
 			
 			
 			
-			
+	//test mail		
 	/*		def m =  new mail()
 			m.from_username = "avnit.bambah@nb.com"
 			m.to_username = "avnit.bambah@nb.com"
