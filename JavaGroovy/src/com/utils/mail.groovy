@@ -49,12 +49,11 @@ class mail {
 			to(address:"${to_username}")
 			message(writer)
 		
-		attachments(){
-			fileset(dir:"${repoDirPath}"){
-			  include(name:"<<file>>")
-		 }
-
-		 }
+			attachments(){
+				fileset(dir:"${repoDirPath}"){
+					include(name:"<<file>>")
+				}
+			}
 		}
 
 	}

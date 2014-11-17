@@ -8,32 +8,29 @@ import groovy.sql.Sql
 public class DatabaseConnection {
 
 	def servername
+	def port
 	def domainName
 	def username
 	def password
-	def req
 	def query
 	def valuetobind
 
 	public runSql() {
 
 		try {
-			def param_count = 0      // Number of placeholders needed for parameters to query
-			def pattern = /\?/ // pattern to look for to find number of parameters
-
+			
+             //define the driver and connection 
 			def driver = Class.forName("com.microsoft.jdbc.sqlserver.SQLServerDriver").newInstance();
 			Connection conn = DriverManager.getConnection("jdbc:microsoft:sqlserver://$servername:$port", username, password);
 
 
 			Sql sql = new Sql(conn)
-			// After options processing the remaining arguments are query files
-			// Go through the query files one at a time for execution
-			//  for (queryfilename in opt.arguments()) {
-			
+		
+
 			query = "" // initialize the query string
 			param_count = 0      // Number of placeholders needed for parameters to query
 			pattern = /\?/ // pattern to look for to find number of parameters
-			
+
 			// number of bind variables to satisfy is obtained by number of ? seen in the query
 			query.eachMatch(pattern) { param_count++ }
 			println '-.' * 40
@@ -45,7 +42,7 @@ public class DatabaseConnection {
 			def final_string = ''
 			paramlist = []
 			if (valuetobind != "none")
-			1.upto(param_count) { paramlist << valuetobind }
+				1.upto(param_count) { paramlist << valuetobind }
 			sql.eachRow(query, paramlist) { row ->
 				count++; // increment number of rows seen so far
 				//println "$count. ${row.name}" // print out the column name
@@ -61,7 +58,7 @@ public class DatabaseConnection {
 						recstr += "," + row[col]
 					}
 				}
-				final_string +=  recstr + "/n" 
+				final_string +=  recstr + "/n"
 				//outFile.append(recstr + "\n")
 			}
 			//	}
@@ -74,19 +71,7 @@ public class DatabaseConnection {
 		}
 	}
 
-	//def   sqls = Sql.newInstance(servername,username , password , 'net.sourceforge.jtds.jdbc.Driver' )
-	//          .eachRow( req as String  ) {
-	//	 /* For each row output detail */
-	//			  $it.each {  }
-	//
 }
-
-
-// s =  Sql.newInstance()
-
-
-//sql = Sql.newInstance( 'jdbc:jtds:sqlserver://serverName/dbName-CLASS;domain=domainName', 'username', 'password', 'net.sourceforge.jtds.jdbc.Driver' )
-//sql.eachRow( 'select * from tableName' ) { println "$it.id -- ${it.firstName} --" }
 
 
 
