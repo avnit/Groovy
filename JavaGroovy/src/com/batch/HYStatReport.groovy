@@ -27,7 +27,7 @@ class HYStatReport {
 			def m =  new mail()
 			m.from_username = "avnit.bambah@nb.com"
 			m.to_username = "avnit.bambah@nb.com"
-			m.subject = final_data
+			m.subject = convertdata(final_data)
 			m.mailSend();
 
 			//Error email to ASD
@@ -41,6 +41,15 @@ class HYStatReport {
 			m.mailtoNotifyASD();
 			//print ex.to_string();
 		}
+	}
+	public convertdata (def data )
+	{
+		//add formating data here
+		def  output = '''
+       
+'''
+		output += data
+		return output
 	}
 
 }
